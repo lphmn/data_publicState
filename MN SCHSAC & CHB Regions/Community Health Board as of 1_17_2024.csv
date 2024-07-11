@@ -1,4 +1,4 @@
-CHB,County
+CHB,County,P
 (C) Benton,Benton
 (C) Cass,Cass
 (C) Chisago,Chisago
@@ -14,15 +14,15 @@ CHB,County
 (C) Stearns,Stearns
 (C) Wright,Wright
 (M) Anoka,Anoka
-(M) Bloomington (City), Not a county
+(M) Bloomington (City),Not a county
 (M) Carver,Carver
 (M) Dakota,Dakota
-(M) Edina (City), Not a county
+(M) Edina (City),Not a county
 (M) Hennepin,Hennepin
-(M) Minneapolis (City), Not a county
-(M) Richfield (City), Not a county
+(M) Minneapolis (City),Not a county
+(M) Richfield (City),Not a county
 (M) Scott,Scott
-(M) St. Paul (City)-Ramsey, Not a county
+(M) St. Paul (City)-Ramsey,Not a county
 (M) St. Paul (City)-Ramsey,Ramsey
 (M) Washington,Washington
 (NE) Aitkin-Itasca-Koochiching,Aitkin
