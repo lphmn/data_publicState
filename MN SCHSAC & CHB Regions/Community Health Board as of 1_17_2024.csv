@@ -17,12 +17,12 @@ CHB,County
 (M) Bloomington (City),_Metro City
 (M) Carver,Carver
 (M) Dakota,Dakota
-(M) Edina (City),Not a county
+(M) Edina (City),_Metro City
 (M) Hennepin,Hennepin
-(M) Minneapolis (City),Not a county
-(M) Richfield (City),Not a county
+(M) Minneapolis (City),_Metro City
+(M) Richfield (City),_Metro City
 (M) Scott,Scott
-(M) St. Paul (City)-Ramsey,Not a county
+(M) St. Paul (City)-Ramsey,_Metro City
 (M) St. Paul (City)-Ramsey,Ramsey
 (M) Washington,Washington
 (NE) Aitkin-Itasca-Koochiching,Aitkin
