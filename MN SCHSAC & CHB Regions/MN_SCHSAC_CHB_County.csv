@@ -1,93 +1,93 @@
-county,community_health_board,state_community_health_services_advisory_committee,county_fips,community_health_board_primary_key,state_community_health_services_advisory_committee_primary_key
-Benton,(C) Benton,Central (C),27009,1,1
-Cass,(C) Cass,Central (C),27021,2,1
-Chisago,(C) Chisago,Central (C),27025,3,1
-Crow Wing,(C) Crow Wing,Central (C),27035,4,1
-Isanti,(C) Isanti,Central (C),27059,5,1
-Kanabec,(C) Kanabec,Central (C),27065,6,1
-Mille Lacs,(C) Mille Lacs,Central (C),27095,7,1
-Morrison,(C) Morrison-Todd-Wadena,Central (C),27097,8,1
-Todd,(C) Morrison-Todd-Wadena,Central (C),27153,8,1
-Wadena,(C) Morrison-Todd-Wadena,Central (C),27159,8,1
-Pine,(C) Pine,Central (C),27115,9,1
-Sherburne,(C) Sherburne,Central (C),27141,10,1
-Stearns,(C) Stearns,Central (C),27145,11,1
-Wright,(C) Wright,Central (C),27171,12,1
-Anoka,(M) Anoka,Metro (M),27003,13,2
-NA,(M) Bloomington (City),Metro (M),NA,14,2
-Carver,(M) Carver,Metro (M),27019,15,2
-Dakota,(M) Dakota,Metro (M),27037,16,2
-NA,(M) Edina (City),Metro (M),NA,17,2
-Hennepin,(M) Hennepin,Metro (M),27053,18,2
-NA,(M) Minneapolis (City),Metro (M),NA,19,2
-NA,(M) Richfield (City),Metro (M),NA,20,2
-Scott,(M) Scott,Metro (M),27139,21,2
-NA,(M) St. Paul (City)-Ramsey,Metro (M),NA,22,2
-Ramsey,(M) St. Paul (City)-Ramsey,Metro (M),27123,22,2
-Washington,(M) Washington,Metro (M),27163,23,2
-Aitkin,(NE) Aitkin-Itasca-Koochiching,Northeast (NE),27001,24,3
-Itasca,(NE) Aitkin-Itasca-Koochiching,Northeast (NE),27061,24,3
-Koochiching,(NE) Aitkin-Itasca-Koochiching,Northeast (NE),27071,24,3
-Carlton,(NE) Carlton-Cook-Lake-St. Louis,Northeast (NE),27017,25,3
-Cook,(NE) Carlton-Cook-Lake-St. Louis,Northeast (NE),27031,25,3
-Lake,(NE) Carlton-Cook-Lake-St. Louis,Northeast (NE),27075,25,3
-Saint Louis,(NE) Carlton-Cook-Lake-St. Louis,Northeast (NE),27137,25,3
-Beltrami,(NW) Beltrami,Northwest (NW),27007,26,4
-Clearwater,(NW) North Country,Northwest (NW),27029,27,4
-Hubbard,(NW) North Country,Northwest (NW),27057,27,4
-Lake of the Woods,(NW) North Country,Northwest (NW),27077,27,4
-Mahnomen,(NW) Polk-Norman-Mahnomen,Northwest (NW),27087,28,4
-Norman,(NW) Polk-Norman-Mahnomen,Northwest (NW),27107,28,4
-Polk,(NW) Polk-Norman-Mahnomen,Northwest (NW),27119,28,4
-Kittson,(NW) Quin County,Northwest (NW),27069,29,4
-Marshall,(NW) Quin County,Northwest (NW),27089,29,4
-Pennington,(NW) Quin County,Northwest (NW),27113,29,4
-Red Lake,(NW) Quin County,Northwest (NW),27125,29,4
-Roseau,(NW) Quin County,Northwest (NW),27135,29,4
-Blue Earth,(SC) Blue Earth,South Central (SC),27013,30,5
-Brown,(SC) Brown-Nicollet,South Central (SC),27015,31,5
-Nicollet,(SC) Brown-Nicollet,South Central (SC),27103,31,5
-Faribault,(SC) Human Services of Faribault & Martin Counties,South Central (SC),27043,32,5
-Martin,(SC) Human Services of Faribault & Martin Counties,South Central (SC),27091,32,5
-Le Sueur,(SC) Le Sueur-Waseca,South Central (SC),27079,33,5
-Waseca,(SC) Le Sueur-Waseca,South Central (SC),27161,33,5
-McLeod,(SC) Meeker-McLeod-Sibley,South Central (SC),27085,34,5
-Meeker,(SC) Meeker-McLeod-Sibley,South Central (SC),27093,34,5
-Sibley,(SC) Meeker-McLeod-Sibley,South Central (SC),27143,34,5
-Watonwan,(SC) Watonwan,South Central (SC),27165,35,5
-Dodge,(SE) Dodge-Steele,Southeast (SE),27039,36,6
-Steele,(SE) Dodge-Steele,Southeast (SE),27147,36,6
-Fillmore,(SE) Fillmore-Houston,Southeast (SE),27045,37,6
-Houston,(SE) Fillmore-Houston,Southeast (SE),27055,37,6
-Freeborn,(SE) Freeborn,Southeast (SE),27047,38,6
-Goodhue,(SE) Goodhue,Southeast (SE),27049,39,6
-Mower,(SE) Mower,Southeast (SE),27099,40,6
-Olmsted,(SE) Olmsted,Southeast (SE),27109,41,6
-Rice,(SE) Rice,Southeast (SE),27131,42,6
-Wabasha,(SE) Wabasha,Southeast (SE),27157,43,6
-Winona,(SE) Winona,Southeast (SE),27169,44,6
-Big Stone,(SW) Countryside,Southwest (SW),27011,45,7
-Chippewa,(SW) Countryside,Southwest (SW),27023,45,7
-Lac qui Parle,(SW) Countryside,Southwest (SW),27073,45,7
-Swift,(SW) Countryside,Southwest (SW),27151,45,7
-Yellow Medicine,(SW) Countryside,Southwest (SW),27173,45,7
-Cottonwood,(SW) Des Moines Valley & Human Services,Southwest (SW),27033,46,7
-Jackson,(SW) Des Moines Valley & Human Services,Southwest (SW),27063,46,7
-Kandiyohi,(SW) Kandiyohi-Renville,Southwest (SW),27067,47,7
-Renville,(SW) Kandiyohi-Renville,Southwest (SW),27129,47,7
-Nobles,(SW) Nobles,Southwest (SW),27105,48,7
-Lincoln,(SW) Southwest Health & Human Services,Southwest (SW),27081,49,7
-Lyon,(SW) Southwest Health & Human Services,Southwest (SW),27083,49,7
-Murray,(SW) Southwest Health & Human Services,Southwest (SW),27101,49,7
-Pipestone,(SW) Southwest Health & Human Services,Southwest (SW),27117,49,7
-Redwood,(SW) Southwest Health & Human Services,Southwest (SW),27127,49,7
-Rock,(SW) Southwest Health & Human Services,Southwest (SW),27133,49,7
-Douglas,(WC) Horizon Public Health,West Central (WC),27041,50,8
-Grant,(WC) Horizon Public Health,West Central (WC),27051,50,8
-Pope,(WC) Horizon Public Health,West Central (WC),27121,50,8
-Stevens,(WC) Horizon Public Health,West Central (WC),27149,50,8
-Traverse,(WC) Horizon Public Health,West Central (WC),27155,50,8
-Becker,(WC) Partnership4health,West Central (WC),27005,51,8
-Clay,(WC) Partnership4health,West Central (WC),27027,51,8
-Otter Tail,(WC) Partnership4health,West Central (WC),27111,51,8
-Wilkin,(WC) Partnership4health,West Central (WC),27167,51,8
+ounty,community_health_board,state_community_health_services_advisory_committee,county_fips,community_health_board_primary_key,state_community_health_services_advisory_committee_primary_key
+Benton,(C) Benton,Central (C),27009,99000,99000
+Cass,(C) Cass,Central (C),27021,99001,99000
+Chisago,(C) Chisago,Central (C),27025,99002,99000
+Crow Wing,(C) Crow Wing,Central (C),27035,99003,99000
+Isanti,(C) Isanti,Central (C),27059,99004,99000
+Kanabec,(C) Kanabec,Central (C),27065,99005,99000
+Mille Lacs,(C) Mille Lacs,Central (C),27095,99006,99000
+Morrison,(C) Morrison-Todd-Wadena,Central (C),27097,99007,99000
+Pine,(C) Pine,Central (C),27115,99008,99000
+Sherburne,(C) Sherburne,Central (C),27141,99009,99000
+Stearns,(C) Stearns,Central (C),27145,99010,99000
+Todd,(C) Morrison-Todd-Wadena,Central (C),27153,99007,99000
+Wadena,(C) Morrison-Todd-Wadena,Central (C),27159,99007,99000
+Wright,(C) Wright,Central (C),27171,99011,99000
+Anoka,(M) Anoka,Metro (M),27003,99100,99100
+Carver,(M) Carver,Metro (M),27019,99101,99100
+NA,(M) Bloomington (City),Metro (M),NA,99120,99100
+NA,(M) Edina (City),Metro (M),NA,99121,99100
+NA,(M) Minneapolis (City),Metro (M),NA,99122,99100
+NA,(M) Richfield (City),Metro (M),NA,99123,99100
+NA,(M) St. Paul (City)-Ramsey,Metro (M),NA,99110,99100
+Dakota,(M) Dakota,Metro (M),27037,99102,99100
+Hennepin,(M) Hennepin,Metro (M),27053,99103,99100
+Ramsey,(M) St. Paul (City)-Ramsey,Metro (M),27123,99110,99100
+Scott,(M) Scott,Metro (M),27139,99104,99100
+Washington,(M) Washington,Metro (M),27163,99105,99100
+Aitkin,(NE) Aitkin-Itasca-Koochiching,Northeast (NE),27001,99200,99200
+Carlton,(NE) Carlton-Cook-Lake-St. Louis,Northeast (NE),27017,99201,99200
+Cook,(NE) Carlton-Cook-Lake-St. Louis,Northeast (NE),27031,99201,99200
+Itasca,(NE) Aitkin-Itasca-Koochiching,Northeast (NE),27061,99200,99200
+Koochiching,(NE) Aitkin-Itasca-Koochiching,Northeast (NE),27071,99200,99200
+Lake,(NE) Carlton-Cook-Lake-St. Louis,Northeast (NE),27075,99201,99200
+Saint Louis,(NE) Carlton-Cook-Lake-St. Louis,Northeast (NE),27137,99201,99200
+Beltrami,(NW) Beltrami,Northwest (NW),27007,99300,99300
+Clearwater,(NW) North Country,Northwest (NW),27029,99301,99300
+Hubbard,(NW) North Country,Northwest (NW),27057,99301,99300
+Kittson,(NW) Quin County,Northwest (NW),27069,99303,99300
+Lake of the Woods,(NW) North Country,Northwest (NW),27077,99301,99300
+Mahnomen,(NW) Polk-Norman-Mahnomen,Northwest (NW),27087,99302,99300
+Marshall,(NW) Quin County,Northwest (NW),27089,99303,99300
+Norman,(NW) Polk-Norman-Mahnomen,Northwest (NW),27107,99302,99300
+Pennington,(NW) Quin County,Northwest (NW),27113,99303,99300
+Polk,(NW) Polk-Norman-Mahnomen,Northwest (NW),27119,99302,99300
+Red Lake,(NW) Quin County,Northwest (NW),27125,99303,99300
+Roseau,(NW) Quin County,Northwest (NW),27135,99303,99300
+Blue Earth,(SC) Blue Earth,South Central (SC),27013,99400,99400
+Brown,(SC) Brown-Nicollet,South Central (SC),27015,99401,99400
+Faribault,(SC) Human Services of Faribault & Martin Counties,South Central (SC),27043,99402,99400
+Le Sueur,(SC) Le Sueur-Waseca,South Central (SC),27079,99403,99400
+Martin,(SC) Human Services of Faribault & Martin Counties,South Central (SC),27091,99402,99400
+McLeod,(SC) Meeker-McLeod-Sibley,South Central (SC),27085,99404,99400
+Meeker,(SC) Meeker-McLeod-Sibley,South Central (SC),27093,99404,99400
+Nicollet,(SC) Brown-Nicollet,South Central (SC),27103,99401,99400
+Sibley,(SC) Meeker-McLeod-Sibley,South Central (SC),27143,99404,99400
+Waseca,(SC) Le Sueur-Waseca,South Central (SC),27161,99403,99400
+Watonwan,(SC) Watonwan,South Central (SC),27165,99405,99400
+Dodge,(SE) Dodge-Steele,Southeast (SE),27039,99500,99500
+Fillmore,(SE) Fillmore-Houston,Southeast (SE),27045,99501,99500
+Freeborn,(SE) Freeborn,Southeast (SE),27047,99502,99500
+Goodhue,(SE) Goodhue,Southeast (SE),27049,99503,99500
+Houston,(SE) Fillmore-Houston,Southeast (SE),27055,99501,99500
+Mower,(SE) Mower,Southeast (SE),27099,99504,99500
+Olmsted,(SE) Olmsted,Southeast (SE),27109,99505,99500
+Rice,(SE) Rice,Southeast (SE),27131,99506,99500
+Steele,(SE) Dodge-Steele,Southeast (SE),27147,99500,99500
+Wabasha,(SE) Wabasha,Southeast (SE),27157,99507,99500
+Winona,(SE) Winona,Southeast (SE),27169,99508,99500
+Big Stone,(SW) Countryside,Southwest (SW),27011,99600,99600
+Chippewa,(SW) Countryside,Southwest (SW),27023,99600,99600
+Cottonwood,(SW) Des Moines Valley & Human Services,Southwest (SW),27033,99601,99600
+Jackson,(SW) Des Moines Valley & Human Services,Southwest (SW),27063,99601,99600
+Kandiyohi,(SW) Kandiyohi-Renville,Southwest (SW),27067,99602,99600
+Lac qui Parle,(SW) Countryside,Southwest (SW),27073,99600,99600
+Lincoln,(SW) Southwest Health & Human Services,Southwest (SW),27081,99604,99600
+Lyon,(SW) Southwest Health & Human Services,Southwest (SW),27083,99604,99600
+Murray,(SW) Southwest Health & Human Services,Southwest (SW),27101,99604,99600
+Nobles,(SW) Nobles,Southwest (SW),27105,99603,99600
+Pipestone,(SW) Southwest Health & Human Services,Southwest (SW),27117,99604,99600
+Redwood,(SW) Southwest Health & Human Services,Southwest (SW),27127,99604,99600
+Renville,(SW) Kandiyohi-Renville,Southwest (SW),27129,99602,99600
+Rock,(SW) Southwest Health & Human Services,Southwest (SW),27133,99604,99600
+Swift,(SW) Countryside,Southwest (SW),27151,99600,99600
+Yellow Medicine,(SW) Countryside,Southwest (SW),27173,99600,99600
+Becker,(WC) Partnership4health,West Central (WC),27005,99701,99700
+Clay,(WC) Partnership4health,West Central (WC),27027,99701,99700
+Douglas,(WC) Horizon Public Health,West Central (WC),27041,99700,99700
+Grant,(WC) Horizon Public Health,West Central (WC),27051,99700,99700
+Otter Tail,(WC) Partnership4health,West Central (WC),27111,99701,99700
+Pope,(WC) Horizon Public Health,West Central (WC),27121,99700,99700
+Stevens,(WC) Horizon Public Health,West Central (WC),27149,99700,99700
+Traverse,(WC) Horizon Public Health,West Central (WC),27155,99700,99700
+Wilkin,(WC) Partnership4health,West Central (WC),27167,99701,99700
