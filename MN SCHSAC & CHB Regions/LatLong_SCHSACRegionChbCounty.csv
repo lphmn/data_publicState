@@ -1,4 +1,4 @@
-countyLong,countyLat,countyPK,countyOrder,county,chb,schsacRegion,county_fips,chbPK,schsacRegionPK,chbLong,chbLat,chbOrder,schsacRegionLong,schsacRegionLat,schsacRegionOrder
+countyLong,countyLat,countyPK,countyOrder,county,chb,schsacRegion,countyFips,chbPK,schsacRegionPK,chbLong,chbLat,chbOrder,schsacRegionLong,schsacRegionLat,schsacRegionOrder
 -93.03688812,47.02264404,1,1,Aitkin,(NE) Aitkin-Itasca-Koochiching,Northeast (NE),27001,99200,99200,,,,,,
 -93.04833984,46.76481628,1,2,Aitkin,(NE) Aitkin-Itasca-Koochiching,Northeast (NE),27001,99200,99200,,,,,,
 -93.04833984,46.76481628,1,3,Aitkin,(NE) Aitkin-Itasca-Koochiching,Northeast (NE),27001,99200,99200,-93.04833984,46.76481628,588,,,
