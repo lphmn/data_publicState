@@ -6,7 +6,7 @@ If using R, here are some simply scripts to create maps with ggplot2
 # County
 df_mnMap |> 
   dplyr::arrange(order) |> 
-  ggplot(aes(x = long, y = lat, group= mapPrimaryKey,  fill= order)) +
+  ggplot(aes(x = countyLong, y = countyLat, group= countyPK,  fill= countyOrder)) +
   geom_polygon(color="black")
 # Schsac Region
   df_mnMap |> 
@@ -15,6 +15,6 @@ df_mnMap |>
   geom_polygon(color="black")
 # CHB
   df_mnMap |> 
-  dplyr::arrange(chbOrder, order) |> #The orer is required because of situations like North County CHB 
+  dplyr::arrange(chbOrder, order) |> #The order is required because of situations like North County CHB 
   ggplot(aes(x = chbLong, y = chbLat, group= chbPK,  fill= chbOrder))
   geom_polygon(color="black")
