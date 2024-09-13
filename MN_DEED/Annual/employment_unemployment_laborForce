@@ -1,4 +1,4 @@
-county,county_fips,year,ann_employment_rate,ann_labor_force_ct,ann_unemployment_ct,ann_employment_ct
+county,fips,year,ann_employment_rate,ann_labor_force_ct,ann_unemployment_ct,ann_employment_ct
 Minnesota,27000,2023,2.81,3099931,87220,3012711
 Aitkin,27001,2023,4.8,7514,359,7155
 Anoka,27003,2023,2.8,199737,5511,194226
