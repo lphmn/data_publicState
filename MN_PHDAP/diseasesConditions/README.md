@@ -2,10 +2,10 @@
 
 Birth Defects
 
-Prevalence is per 10,000 live births, unless otherwise noted for certain conditions
-Data for 2012-2016 births only include Hennepin and Ramsey counties
-Region and state data are for 2013-2017 births and 2014-2018 births
-All races/ethnicities combined includes "Other" and "Unknown" values
+Prevalence is per 10,000 live births, unless otherwise noted for certain conditions  
+Data for 2012-2016 births only include Hennepin and Ramsey counties  
+Region and state data are for 2013-2017 births and 2014-2018 births  
+All races/ethnicities combined includes "Other" and "Unknown" values  
 Total number of live births includes genders listed as "Unknown" and "Other"
 Data for Atrioventricular Septal Defect (Endocardial Cushion Defect) exclude inlet ventricular septal defect
 Data for Total Anomalous Pulmonary Venous Connection begin in 2013
