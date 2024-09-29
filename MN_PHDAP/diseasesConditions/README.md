@@ -1,6 +1,7 @@
 
 
 Birth Defects
+
 Prevalence is per 10,000 live births, unless otherwise noted for certain conditions
 Data for 2012-2016 births only include Hennepin and Ramsey counties
 Region and state data are for 2013-2017 births and 2014-2018 births
