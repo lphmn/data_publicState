@@ -1,4 +1,4 @@
-PHDAP stands for Public Health Data Access Portal. The Minnesota Department of Health is the primary data steward. For more information about the portal please visit https://data.web.health.state.mn.us/web/mndata/home.  The reason for moving the data to this GitHub repository is the data cannot be easily pulled into a shinyLive R application (an application ran without a server). The strength for restoring the data in a friendly format does have a limitation. Since I am not the data steward, if/when data is updated/edited, I'd have to make sure the data is update to date for this second storage. I will do my best to keep this up to date as best as I can, I cannot guarentee I will be able to maintain it moving forward. My wishlist is the MN Data stewards begin storing data in a friendly manner. 
+
 
 Asthma  
 * To protect an individual's privacy hospitalizations and ED visit counts from 1 to 5 are suppressed if the underlying population is less than or equal to 100000.  
