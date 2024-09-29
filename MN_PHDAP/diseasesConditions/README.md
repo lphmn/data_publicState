@@ -1,15 +1,15 @@
+Data was downloaded from MDH's Public Health Data Access Portal
 
-
-Asthma  
+Asthma  https://data.web.health.state.mn.us/asthma_query
 * To protect an individual's privacy hospitalizations and ED visit counts from 1 to 5 are suppressed if the underlying population is less than or equal to 100000.  
 UR = Unstable Rate. Rates based on numerators less than or equal to 20 may be unstable and should be interpreted with caution.  
 ** Person-years is equal to the sum of the population for each year.  
 ***Age-adjusted rates can only be calculated for "All ages combined".  
-Hospitalizations data do not include data from federal and sovereign hospitals (e.g. Veteran's Administration; Indian Health Service) or data on Minnesota residents seen in facilities outside of Minnesota and North Dakota. For more information see About the Asthma Data: http://health.mn.gov/mndataasthma_metadata
+Hospitalizations data do not include data from federal and sovereign hospitals (e.g. Veteran's Administration; Indian Health Service) or data on Minnesota residents seen in facilities outside of Minnesota and North Dakota.
 
 Birth Defects  
 Prevalence is per 10,000 live births, unless otherwise noted for certain conditions  
-Data for 2012-2016 births only include Hennepin and Ramsey counties  
+Data for 2012-2016 births only include Hennepin and Ramsey counties (**2012-2016 was not downloaded and saved here**)  
 Region and state data are for 2013-2017 births and 2014-2018 births  
 All races/ethnicities combined includes "Other" and "Unknown" values  
 Total number of live births includes genders listed as "Unknown" and "Other"  
@@ -39,6 +39,6 @@ Chronic Obstructive Pulmonary Disease
 UR = Unstable Rate. Rates based on numerators less than or equal to 20 may be unstable and should be interpreted with caution.  
 ** Person-years is equal to the sum of the population for each year.
 
-** Diabetes currently does not have data to use for reporting **
+**Diabetes currently does not have data to download**
 
 
