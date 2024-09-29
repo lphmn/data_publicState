@@ -4,4 +4,5 @@ The Minnesota Department of Health is the primary data steward for the Minnsota 
 The reason for moving the data to this GitHub repository is the data cannot be easily pulled into a shinyLive R application (an application ran without a server).  
 
 The strength for saving the data in a friendly format does have a limitation. Since I am not the data steward, if/when the data is updated/edited, I'd have to make sure the data is updated here.  
-I will do my best to keep this up to date. However, I cannot guarentee I will be able to maintain it moving forward. **My wishlist is that MN data stewards begin storing their publicly avaialbe data in a friendly manner. 
+I will do my best to keep this up to date. However, I cannot guarentee I will be able to maintain it moving forward.  
+**My wishlist is that MN data stewards begin storing their publicly avaialbe data in a friendly manner.**
