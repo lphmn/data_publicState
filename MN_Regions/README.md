@@ -19,7 +19,7 @@ df_mnMap |>
   ggplot(aes(x = schsacRegionLong, y = schsacRegionLat, group= schsacRegionPK,  fill= schsacRegionOrder))+  
   geom_polygon(color="black")
 # CHB
-  df_mnMap |> 
+  df_mnMap |>  
   dplyr::arrange(chbOrder, order) |>   
   ggplot(aes(x = chbLong, y = chbLat, group= chbPK,  fill= chbOrder))  
   geom_polygon(color="black")
