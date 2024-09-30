@@ -2,6 +2,7 @@
 
 This repository contains various public datasets related to Minnesota's public health and economic data.
    - Just like everything on the internet, links can eventually become outdated or broken.
+      - If any of the links stop workinging please submit an issue. 
    - My hope is that state departments in Minnesota will start storing data in a way that allows programs like R and Python to access the data directly.
 
 **For the link to open in a new tab please hold CTRL+click (on Windows and Linux) or CMD+click (on MacOS)**  
