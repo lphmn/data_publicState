@@ -6,7 +6,7 @@ This repository contains various public datasets related to Minnesota's public h
 
 1. **MN Schsac & CHB Regions**
    - Description: This dataset includes information about the State Community Health Services Advisory Committee (SCHSAC) and Community Health Board (CHB) regions in Minnesota.
-   - Source: The heavy lifting for this data set was doen with R and the ggplot2:: For the SCHSAC and CHB borders, I did make these since there wasn't a default for their borders. 
+   - Source: The heavy lifting for this data set was doen with R and the ggplot2::map_data function. For the SCHSAC and CHB borders, I did create these by deleting points and reordering the points.
 
 2. **MN_DEED**
    - Description: This dataset contains data from the Minnesota Department of Employment and Economic Development (DEED).
