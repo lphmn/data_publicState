@@ -24,7 +24,7 @@ This repository contains various public datasets related to Minnesota's public h
 
 **MN_Regions**
    - Description: This dataset includes information about the State Community Health Services Advisory Committee (SCHSAC) and Community Health Board (CHB) regions in Minnesota.
-   - Source: The heavy lifting for this data set was doen with R and the ggplot2::map_data function.
+   - Source: The heavy lifting for this data set was done with R and the ggplot2::map_data function.
       - For the SCHSAC and CHB borders, I did create these by deleting points and reordering the points.
      
 ## Usage
