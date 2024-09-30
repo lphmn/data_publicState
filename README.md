@@ -1,4 +1,4 @@
-# Public Data Sets Repository
+# MN_PublicData Repository
 
 This repository contains various public datasets related to Minnesota's public health and economic data.
    - Just like everything on the internet, links can eventually become outdated or broken.
