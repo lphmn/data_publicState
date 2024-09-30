@@ -1,6 +1,6 @@
 # Public Data Sets Repository
 
-This repository contains various public datasets related to Minnesota's public health and economic data. Below is a list of the datasets included:  
+This repository contains various public datasets related to Minnesota's public health and economic data. Like anything on the internet, things change so links may one day become broken. My dream is state departments in MN begin storing data so programs such asR and Python can pull the datasource directly. 
 **For the link to open in a new tab please perform the following CTRL+click (on Windows and Linux) or CMD+click (on MacOS)**
 
 ## Datasets
@@ -11,7 +11,7 @@ This repository contains various public datasets related to Minnesota's public h
 
 **MN_PHDAP**
    - Description: This dataset includes information from the Public Health Data Access Portal (PHDAP) in Minnesota.
-   - Source: [https://data.web.health.state.mn.us/web/mndata]
+   - Source: [MN Public Health Data Access Portal](https://data.web.health.state.mn.us/web/mndata)
 
 **MN_StiHiv**
    - Description: This dataset contains data on sexually transmitted infections (STIs) and HIV in Minnesota **Data converted from the PDF Reports**.
