@@ -14,7 +14,7 @@ This repository contains various public datasets related to Minnesota's public h
 
 **MN_StiHiv**
    - Description: This dataset contains data on sexually transmitted infections (STIs) and HIV in Minnesota **Data converted from the PDF Reports**.
-   - Source: [MDH STI Stats](https://www.health.state.mn.us/diseases/stds/stats/index.html){target="_blank"}
+   - Source: <a href="https://www.health.state.mn.us/diseases/stds/stats/index.html" target="_blank">MDH STI Stats</a>
    - Source [MDH HIV Stats](https://www.health.state.mn.us/diseases/hiv/stats/index.html){target="_blank"}
 
 **MN_Regions**
