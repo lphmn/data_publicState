@@ -2,8 +2,8 @@
 
 This repository contains various public datasets related to Minnesota's public health and economic data.  
 **For the link to open in a new tab please perform the following CTRL+click (on Windows and Linux) or CMD+click (on MacOS)**
-* Just like everything on the internet, links can eventually become outdated or broken.
-* My hope is that state departments in Minnesota will start storing data in a way that allows programs like R and Python to access the data directly.
+   - Just like everything on the internet, links can eventually become outdated or broken.
+   - My hope is that state departments in Minnesota will start storing data in a way that allows programs like R and Python to access the data directly.
 
 ## Datasets
 
@@ -22,7 +22,8 @@ This repository contains various public datasets related to Minnesota's public h
 
 **MN_Regions**
    - Description: This dataset includes information about the State Community Health Services Advisory Committee (SCHSAC) and Community Health Board (CHB) regions in Minnesota.
-   - Source: The heavy lifting for this data set was doen with R and the ggplot2::map_data function. For the SCHSAC and CHB borders, I did create these by deleting points and reordering the points.
+   - Source: The heavy lifting for this data set was doen with R and the ggplot2::map_data function.
+      - For the SCHSAC and CHB borders, I did create these by deleting points and reordering the points.
      
 ## Usage
 
