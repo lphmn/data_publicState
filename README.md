@@ -1,6 +1,7 @@
 # Public Data Sets Repository
 
-This repository contains various public datasets related to Minnesota's public health and economic data. Below is a list of the datasets included:
+This repository contains various public datasets related to Minnesota's public health and economic data. Below is a list of the datasets included:  
+**For the link to open in a new tab please perform the following CTRL+click (on Windows and Linux) or CMD+click (on MacOS)**
 
 ## Datasets
 
