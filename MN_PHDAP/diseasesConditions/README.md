@@ -1,4 +1,5 @@
-# Data was downloaded from MDH's Public Health Data Access Portal
+# Data was downloaded from MDH's Public Health Data Access Portal  
+
 
 ## Asthma  https://data.web.health.state.mn.us/asthma_query
 To protect an individual's privacy hospitalizations and ED visit counts from 1 to 5 are suppressed if the underlying population is less than or equal to 100000.  
