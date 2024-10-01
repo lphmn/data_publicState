@@ -594,7 +594,7 @@ birth_cohort,region,body _system,condition,maternal_raceEthnicity,prevalence_per
 2013-2017,Central,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,2,9,45622
 2013-2017,Metro,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,2,40,197343
 2013-2017,Northeast,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,3.1,5,15951
-2014-2018,Southwest,Orofacial (Mouth, Jaw, and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,2.4,3,12495
+2014-2018,Southwest,Orofacial (Mouth Jaw and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,2.4,3,12495
 2013-2017,South Central,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,2.5,4,16280
 2013-2017,Southeast,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,0.3,1,28590
 2013-2017,Southwest,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,0,0,12551
@@ -708,5 +708,5 @@ birth_cohort,region,body _system,condition,maternal_raceEthnicity,prevalence_per
 2014-2018,West Central,Orofacial (Mouth Jaw and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,1.1,1,8898
 2013-2017,Northwest,Orofacial (Mouth Jaw and Face),Cleft palate alone,All races/ethnicities combined,7,6,8557
 2013-2017,Minnesota,Cardiovascular (Heart),Ventricular septal defect,All races/ethnicities combined,64,2135,333817
-2014-2018,West Central,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,5.6,5,8898
-2014-2018,West Central,Orofacial (Mouth, Jaw, and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,6.7,6,8898
+2014-2018,West Central,Orofacial (Mouth Jaw and Face),Cleft lip with cleft palate,All races/ethnicities combined,5.6,5,8898
+2014-2018,West Central,Orofacial (Mouth Jaw and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,6.7,6,8898
