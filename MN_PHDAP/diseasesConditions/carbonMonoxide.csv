@@ -1,0 +1,353 @@
+fips,county,yearText,count,population,rate,ci,lci,uci,ageAdjust,aci,alci,auci,incident,ageText,sexText,Compared to Minnesota
+27173,Yellow Medicine,2018-2020,1-5*,29384,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27173,Yellow Medicine,2015-2017,1-5*,29566,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27173,Yellow Medicine,2018-2020,1-5*,29384,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27173,Yellow Medicine,2015-2017,0,29566, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27171,Wright,2015-2017,53.2,397576, , ,null,null,7,(4.6 - 10.3),4.6,10.3,coed,,,Same as Minnesota
+27171,Wright,2018-2020,0,407174, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27171,Wright,2015-2017,5.1,397576, , ,null,null,0.5 (UR),(0.1 - 1.7),0.1,1.7,cohosp,,,Same as Minnesota
+27171,Wright,2018-2020,68.9,407174, , ,null,null,8.8,(6.1 - 12.3),6.1,12.3,coed,,,Same as Minnesota
+27169,Winona,2018-2020,0,152294, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27169,Winona,2015-2017,3.9,152352, , ,null,null,1.5 (UR),(0.1 - 5.8),0.1,5.8,cohosp,,,Same as Minnesota
+27169,Winona,2015-2017,14.1,152352, , ,null,null,3.7 (UR),(1.4 - 8.1),1.4,8.1,coed,,,Same as Minnesota
+27169,Winona,2018-2020,8.5,152294, , ,null,null,3.0 (UR),(0.8 - 7.9),0.8,7.9,coed,,,Same as Minnesota
+27167,Wilkin,2015-2017,0,18999, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27167,Wilkin,2018-2020,1-5*,18809,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27167,Wilkin,2015-2017,1-5*,18999,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27167,Wilkin,2018-2020,6,18809, , ,null,null,16.7 (UR),(3.1 - 51.4),3.1,51.4,coed,,,Same as Minnesota
+27165,Watonwan,2018-2020,0,32855, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27165,Watonwan,2015-2017,0,32900, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27165,Watonwan,2015-2017,1-5*,32900,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27165,Watonwan,2018-2020,0,32855, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,coed,,,Lower than Minnesota
+27163,Washington,2015-2017,9.3,758841, , ,null,null,0.6 (UR),(0.2 - 1.5),0.2,1.5,cohosp,,,Same as Minnesota
+27163,Washington,2018-2020,67.7,774211, , ,null,null,4.4,(3.0 - 6.2),3,6.2,coed,,,Lower than Minnesota
+27163,Washington,2015-2017,107.4,758841, , ,null,null,7.3,(5.9 - 8.6),5.9,8.6,coed,,,Same as Minnesota
+27163,Washington,2018-2020,4.1,774211, , ,null,null,0.3 (UR),(0.0 - 1.1),0,1.1,cohosp,,,Same as Minnesota
+27161,Waseca,2015-2017,7.6,56428, , ,null,null,6.8 (UR),(1.8 - 17.9),1.8,17.9,cohosp,,,Higher than Minnesota
+27161,Waseca,2018-2020,1-5*,56089,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27161,Waseca,2015-2017,12,56428, , ,null,null,10.3 (UR),(3.7 - 22.6),3.7,22.6,coed,,,Same as Minnesota
+27161,Waseca,2018-2020,6.6,56089, , ,null,null,6.1 (UR),(1.3 - 17.6),1.3,17.6,coed,,,Same as Minnesota
+27159,Wadena,2015-2017,0,40865, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27159,Wadena,2018-2020,8.4,41108, , ,null,null,7.4 (UR),(2.0 - 19.0),2,19,coed,,,Same as Minnesota
+27159,Wadena,2018-2020,1-5*,41108,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27159,Wadena,2015-2017,7.2,40865, , ,null,null,10.2 (UR),(2.5 - 27.7),2.5,27.7,coed,,,Same as Minnesota
+27157,Wabasha,2015-2017,7.6,64395, , ,null,null,6.2 (UR),(1.5 - 16.7),1.5,16.7,coed,,,Same as Minnesota
+27157,Wabasha,2018-2020,8.4,64746, , ,null,null,4.8 (UR),(1.3 - 12.2),1.3,12.2,coed,,,Same as Minnesota
+27157,Wabasha,2018-2020,6.9,64746, , ,null,null,3.8 (UR),(0.9 - 10.5),0.9,10.5,cohosp,,,Same as Minnesota
+27157,Wabasha,2015-2017,1-5*,64395,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27155,Traverse,2018-2020,0,9901, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27155,Traverse,2015-2017,0,9999, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27155,Traverse,2018-2020,1-5*,9901,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27155,Traverse,2015-2017,1-5*,9999,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27153,Todd,2015-2017,13.5,73261, , ,null,null,12.1 (UR),(4.7 - 25.4),4.7,25.4,coed,,,Same as Minnesota
+27153,Todd,2018-2020,17.4,73679, , ,null,null,11.7 (UR),(4.8 - 23.8),4.8,23.8,coed,,,Same as Minnesota
+27153,Todd,2018-2020,1-5*,73679,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27153,Todd,2015-2017,0,73261, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27151,Swift,2015-2017,21.6,28222, , ,null,null,43.9,(21.7 - 79.1),21.7,79.1,coed,,,Higher than Minnesota
+27151,Swift,2018-2020,1-5*,28033,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27151,Swift,2015-2017,1-5*,28222,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27151,Swift,2018-2020,0,28033, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27149,Stevens,2015-2017,1-5*,29320,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27149,Stevens,2018-2020,17.4,29312, , ,null,null,40.8 (UR),(18.2 - 78.9),18.2,78.9,coed,,,Higher than Minnesota
+27149,Stevens,2015-2017,0,29320, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27149,Stevens,2018-2020,0,29312, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27147,Steele,2018-2020,20.1,110196, , ,null,null,9.1,(4.3 - 17.0),4.3,17,coed,,,Same as Minnesota
+27147,Steele,2018-2020,2,110196, , ,null,null,0.6 (UR),(0.0 - 3.4),0,3.4,cohosp,,,Same as Minnesota
+27147,Steele,2015-2017,6.2,110096, , ,null,null,3.4 (UR),(0.7 - 9.8),0.7,9.8,coed,,,Same as Minnesota
+27147,Steele,2015-2017,0.1,110096, , ,null,null,0.1 (UR),(0.0 - 3.7),0,3.7,cohosp,,,Same as Minnesota
+27145,Stearns,2015-2017,8,470865, , ,null,null,0.8 (UR),(0.2 - 2.0),0.2,2,cohosp,,,Same as Minnesota
+27145,Stearns,2015-2017,41.3,470865, , ,null,null,4,(2.4 - 6.2),2.4,6.2,coed,,,Same as Minnesota
+27145,Stearns,2018-2020,61.6,477496, , ,null,null,6.7,(4.5 - 9.6),4.5,9.6,coed,,,Same as Minnesota
+27145,Stearns,2018-2020,7.3,477496, , ,null,null,0.6 (UR),(0.1 - 1.6),0.1,1.6,cohosp,,,Same as Minnesota
+27143,Sibley,2015-2017,7,44606, , ,null,null,6.5 (UR),(1.4 - 18.5),1.4,18.5,coed,,,Same as Minnesota
+27143,Sibley,2018-2020,21.3,44791, , ,null,null,20.3,(9.5 - 37.7),9.5,37.7,coed,,,Higher than Minnesota
+27143,Sibley,2015-2017,1-5*,44606,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27143,Sibley,2018-2020,0,44791, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27141,Sherburne,2018-2020,6,286514, , ,null,null,1.1 (UR),(0.2 - 3.3),0.2,3.3,cohosp,,,Same as Minnesota
+27141,Sherburne,2015-2017,2.3,279229, , ,null,null,0.3 (UR),(0.0 - 1.5),0,1.5,cohosp,,,Same as Minnesota
+27141,Sherburne,2018-2020,43,286514, , ,null,null,7.6,(4.7 - 11.7),4.7,11.7,coed,,,Same as Minnesota
+27141,Sherburne,2015-2017,31.9,279229, , ,null,null,5.8,(3.3 - 9.5),3.3,9.5,coed,,,Same as Minnesota
+27139,Scott,2015-2017,4,430296, , ,null,null,0.4 (UR),(0.1 - 1.5),0.1,1.5,cohosp,,,Same as Minnesota
+27139,Scott,2018-2020,6.1,439857, , ,null,null,0.7 (UR),(0.1 - 2.1),0.1,2.1,cohosp,,,Same as Minnesota
+27139,Scott,2018-2020,36.2,439857, , ,null,null,4.2,(2.5 - 6.7),2.5,6.7,coed,,,Same as Minnesota
+27139,Scott,2015-2017,21,430296, , ,null,null,2.6,(1.2 - 4.7),1.2,4.7,coed,,,Lower than Minnesota
+27137,St. Louis,2015-2017,13.8,599999, , ,null,null,1.1 (UR),(0.4 - 2.5),0.4,2.5,cohosp,,,Same as Minnesota
+27137,St. Louis,2018-2020,110.4,599012, , ,null,null,9.3,(7.5 - 11.0),7.5,11,coed,,,Higher than Minnesota
+27137,St. Louis,2018-2020,12,599012, , ,null,null,0.8 (UR),(0.3 - 1.8),0.3,1.8,cohosp,,,Same as Minnesota
+27137,St. Louis,2015-2017,108.7,599999, , ,null,null,9.7,(7.9 - 11.5),7.9,11.5,coed,,,Higher than Minnesota
+27135,Roseau,2015-2017,10,46484, , ,null,null,11.4 (UR),(3.6 - 27.3),3.6,27.3,coed,,,Same as Minnesota
+27135,Roseau,2018-2020,0,45770, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27135,Roseau,2015-2017,0,46484, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27135,Roseau,2018-2020,12.1,45770, , ,null,null,15.0 (UR),(5.5 - 33.0),5.5,33,coed,,,Same as Minnesota
+27133,Rock,2018-2020,1-5*,28202,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27133,Rock,2015-2017,1-5*,28273,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27133,Rock,2018-2020,1-5*,28202,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27133,Rock,2015-2017,0,28273, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27131,Rice,2015-2017,0,197305, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27131,Rice,2015-2017,13.5,197305, , ,null,null,4.0 (UR),(1.5 - 8.4),1.5,8.4,coed,,,Same as Minnesota
+27131,Rice,2018-2020,40.3,199257, , ,null,null,9.4,(5.7 - 14.7),5.7,14.7,coed,,,Same as Minnesota
+27131,Rice,2018-2020,2.1,199257, , ,null,null,0.5 (UR),(0.0 - 2.8),0,2.8,cohosp,,,Same as Minnesota
+27129,Renville,2015-2017,7.5,44063, , ,null,null,11.4 (UR),(2.9 - 30.2),2.9,30.2,coed,,,Same as Minnesota
+27129,Renville,2018-2020,1-5*,43836,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27129,Renville,2018-2020,1-5*,43836,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27129,Renville,2015-2017,1-5*,44063,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27127,Redwood,2018-2020,6.8,45703, , ,null,null,7.5 (UR),(1.5 - 21.9),1.5,21.9,coed,,,Same as Minnesota
+27127,Redwood,2015-2017,1-5*,45875,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27127,Redwood,2018-2020,0,45703, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27127,Redwood,2015-2017,0,45875, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27125,Red Lake,2018-2020,0,12019, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27125,Red Lake,2018-2020,1-5*,12019,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27125,Red Lake,2015-2017,1-5*,12044,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27125,Red Lake,2015-2017,0,12044, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,coed,,,Lower than Minnesota
+27123,Ramsey,2015-2017,9.8,1624341, , ,null,null,0.3 (UR),(0.1 - 0.7),0.1,0.7,cohosp,,,Same as Minnesota
+27123,Ramsey,2015-2017,112,1624341, , ,null,null,3.6,(3.0 - 4.3),3,4.3,coed,,,Lower than Minnesota
+27123,Ramsey,2018-2020,24.3,1641250, , ,null,null,0.8,(0.4 - 1.5),0.4,1.5,cohosp,,,Same as Minnesota
+27123,Ramsey,2018-2020,190.7,1641250, , ,null,null,6.2,(5.3 - 7.1),5.3,7.1,coed,,,Same as Minnesota
+27121,Pope,2015-2017,6.3,32878, , ,null,null,5.8 (UR),(1.2 - 17.1),1.2,17.1,coed,,,Same as Minnesota
+27121,Pope,2018-2020,1-5*,33252,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27121,Pope,2018-2020,7.5,33252, , ,null,null,7.4 (UR),(1.6 - 21.3),1.6,21.3,coed,,,Same as Minnesota
+27121,Pope,2015-2017,1-5*,32878,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27119,Polk,2018-2020,18.5,94434, , ,null,null,9.6 (UR),(4.3 - 18.4),4.3,18.4,coed,,,Same as Minnesota
+27119,Polk,2015-2017,1-5*,94933,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27119,Polk,2015-2017,1-5*,94933,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27119,Polk,2018-2020,0,94434, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27117,Pipestone,2015-2017,1-5*,27556,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27117,Pipestone,2018-2020,1-5*,27401,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27117,Pipestone,2015-2017,7.2,27556, , ,null,null,12.3 (UR),(2.8 - 34.7),2.8,34.7,coed,,,Same as Minnesota
+27117,Pipestone,2018-2020,1-5*,27401,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27115,Pine,2015-2017,16,87083, , ,null,null,9.8 (UR),(4.0 - 20.0),4,20,coed,,,Same as Minnesota
+27115,Pine,2018-2020,1-5*,87960,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27115,Pine,2018-2020,17.5,87960, , ,null,null,8.3 (UR),(3.6 - 16.5),3.6,16.5,coed,,,Same as Minnesota
+27115,Pine,2015-2017,1-5*,87083,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27113,Pennington,2015-2017,7.2,42632, , ,null,null,7.8 (UR),(1.8 - 21.6),1.8,21.6,coed,,,Same as Minnesota
+27113,Pennington,2015-2017,1-5*,42632,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27113,Pennington,2018-2020,0,42471, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27113,Pennington,2018-2020,8.1,42471, , ,null,null,9.9 (UR),(2.6 - 25.8),2.6,25.8,coed,,,Same as Minnesota
+27111,Otter Tail,2015-2017,4.1,173660, , ,null,null,0.6 (UR),(0.1 - 2.2),0.1,2.2,cohosp,,,Same as Minnesota
+27111,Otter Tail,2015-2017,66.4,173660, , ,null,null,21.5,(14.6 - 30.5),14.6,30.5,coed,,,Higher than Minnesota
+27111,Otter Tail,2018-2020,52,175423, , ,null,null,17.1,(10.9 - 25.5),10.9,25.5,coed,,,Higher than Minnesota
+27111,Otter Tail,2018-2020,1.8,175423, , ,null,null,0.3 (UR),(0.0 - 1.8),0,1.8,cohosp,,,Same as Minnesota
+27109,Olmsted,2015-2017,54.1,458991, , ,null,null,5.9,(3.9 - 8.6),3.9,8.6,coed,,,Same as Minnesota
+27109,Olmsted,2018-2020,10,467532, , ,null,null,1.0 (UR),(0.3 - 2.3),0.3,2.3,cohosp,,,Same as Minnesota
+27109,Olmsted,2018-2020,61.2,467532, , ,null,null,6.2,(4.1 - 8.8),4.1,8.8,coed,,,Same as Minnesota
+27109,Olmsted,2015-2017,0.4,458991, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27107,Norman,2015-2017,0,19735, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27107,Norman,2015-2017,1-5*,19735,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27107,Norman,2018-2020,0,19461, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27107,Norman,2018-2020,1-5*,19461,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27105,Nobles,2015-2017,1-5*,65568,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27105,Nobles,2018-2020,12,65325, , ,null,null,9.0 (UR),(3.2 - 20.0),3.2,20,coed,,,Same as Minnesota
+27105,Nobles,2015-2017,0,65568, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27105,Nobles,2018-2020,1-5*,65325,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27103,Nicollet,2015-2017,4.6,101322, , ,null,null,2.5 (UR),(0.4 - 8.4),0.4,8.4,coed,,,Same as Minnesota
+27103,Nicollet,2018-2020,0,102350, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27103,Nicollet,2015-2017,0,101322, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27103,Nicollet,2018-2020,7.1,102350, , ,null,null,3.6 (UR),(0.8 - 10.0),0.8,10,coed,,,Same as Minnesota
+27101,Murray,2015-2017,0,25055, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27101,Murray,2015-2017,1-5*,25055,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27101,Murray,2018-2020,12.6,24819, , ,null,null,29.7 (UR),(10.6 - 65.8),10.6,65.8,coed,,,Higher than Minnesota
+27101,Murray,2018-2020,0,24819, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27099,Mower,2018-2020,27.8,119749, , ,null,null,10.5,(5.5 - 18.1),5.5,18.1,coed,,,Same as Minnesota
+27099,Mower,2018-2020,5.9,119749, , ,null,null,1.3 (UR),(0.3 - 3.8),0.3,3.8,cohosp,,,Same as Minnesota
+27099,Mower,2015-2017,19.4,118588, , ,null,null,7.8 (UR),(3.6 - 14.6),3.6,14.6,coed,,,Same as Minnesota
+27099,Mower,2015-2017,0,118588, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27097,Morrison,2018-2020,1-5*,99352,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27097,Morrison,2018-2020,13.8,99352, , ,null,null,7.8 (UR),(2.9 - 16.6),2.9,16.6,coed,,,Same as Minnesota
+27097,Morrison,2015-2017,1-5*,98770,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27097,Morrison,2015-2017,15.8,98770, , ,null,null,6.8 (UR),(2.7 - 13.9),2.7,13.9,coed,,,Same as Minnesota
+27095,Mille Lacs,2015-2017,0,76944, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27095,Mille Lacs,2018-2020,39.9,77967, , ,null,null,24.1,(14.4 - 37.9),14.4,37.9,coed,,,Higher than Minnesota
+27095,Mille Lacs,2018-2020,7.2,77967, , ,null,null,2.8 (UR),(0.7 - 7.5),0.7,7.5,cohosp,,,Same as Minnesota
+27095,Mille Lacs,2015-2017,17.1,76944, , ,null,null,13.4 (UR),(5.9 - 26.0),5.9,26,coed,,,Same as Minnesota
+27093,Meeker,2018-2020,12.3,69395, , ,null,null,8.3 (UR),(2.9 - 18.6),2.9,18.6,coed,,,Same as Minnesota
+27093,Meeker,2018-2020,1-5*,69395,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27093,Meeker,2015-2017,6,69129, , ,null,null,3.4 (UR),(0.6 - 10.9),0.6,10.9,cohosp,,,Same as Minnesota
+27093,Meeker,2015-2017,21.9,69129, , ,null,null,16.7,(7.9 - 30.9),7.9,30.9,coed,,,Higher than Minnesota
+27091,Martin,2015-2017,10.1,59794, , ,null,null,9.7 (UR),(3.1 - 22.7),3.1,22.7,coed,,,Same as Minnesota
+27091,Martin,2018-2020,1-5*,59374,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27091,Martin,2018-2020,0,59374, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27091,Martin,2015-2017,1-5*,59794,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27089,Marshall,2015-2017,1-5*,28150,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27089,Marshall,2018-2020,0,28115, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27089,Marshall,2015-2017,0,28150, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27089,Marshall,2018-2020,13.4,28115, , ,null,null,22.0 (UR),(8.2 - 47.5),8.2,47.5,coed,,,Higher than Minnesota
+27087,Mahnomen,2015-2017,0,16506, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27087,Mahnomen,2015-2017,1-5*,16506,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27087,Mahnomen,2018-2020,0,16528, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,coed,,,Lower than Minnesota
+27087,Mahnomen,2018-2020,0,16528, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27085,McLeod,2018-2020,2,107493, , ,null,null,0.6 (UR),(0.0 - 3.1),0,3.1,cohosp,,,Same as Minnesota
+27085,McLeod,2015-2017,3.8,107474, , ,null,null,1.7 (UR),(0.2 - 6.4),0.2,6.4,cohosp,,,Same as Minnesota
+27085,McLeod,2018-2020,31.4,107493, , ,null,null,14.2,(7.9 - 23.6),7.9,23.6,coed,,,Higher than Minnesota
+27085,McLeod,2015-2017,11.7,107474, , ,null,null,5.4 (UR),(1.9 - 12.2),1.9,12.2,coed,,,Same as Minnesota
+27083,Lyon,2015-2017,0,77790, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27083,Lyon,2018-2020,0,77083, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27083,Lyon,2015-2017,7.8,77790, , ,null,null,4.5 (UR),(1.2 - 11.8),1.2,11.8,coed,,,Same as Minnesota
+27083,Lyon,2018-2020,11.9,77083, , ,null,null,9.8 (UR),(3.5 - 21.6),3.5,21.6,coed,,,Same as Minnesota
+27081,Lincoln,2018-2020,1-5*,16991,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27081,Lincoln,2018-2020,1-5*,16991,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27081,Lincoln,2015-2017,1-5*,17097,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27081,Lincoln,2015-2017,1-5*,17097,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27079,Le Sueur,2018-2020,0,85161, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27079,Le Sueur,2015-2017,17,83607, , ,null,null,11.0 (UR),(4.7 - 21.9),4.7,21.9,coed,,,Same as Minnesota
+27079,Le Sueur,2015-2017,1-5*,83607,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27079,Le Sueur,2018-2020,9.4,85161, , ,null,null,5.2 (UR),(1.5 - 12.9),1.5,12.9,coed,,,Same as Minnesota
+27077,Lake of the Woods,2018-2020,0,11276, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,coed,,,Lower than Minnesota
+27077,Lake of the Woods,2018-2020,0,11276, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27077,Lake of the Woods,2015-2017,0,11398, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27077,Lake of the Woods,2015-2017,0,11398, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,coed,,,Lower than Minnesota
+27075,Lake,2015-2017,1-5*,31587,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27075,Lake,2015-2017,1-5*,31587,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27075,Lake,2018-2020,0,31789, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27075,Lake,2018-2020,1-5*,31789,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27073,Lac qui Parle,2015-2017,0,20304, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27073,Lac qui Parle,2015-2017,1-5*,20304,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27073,Lac qui Parle,2018-2020,0,20022, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27073,Lac qui Parle,2018-2020,1-5*,20022,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27071,Koochiching,2018-2020,0,37310, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27071,Koochiching,2015-2017,8,37933, , ,null,null,15.0 (UR),(4.1 - 38.4),4.1,38.4,coed,,,Same as Minnesota
+27071,Koochiching,2018-2020,12,37310, , ,null,null,21.4 (UR),(7.7 - 47.3),7.7,47.3,coed,,,Higher than Minnesota
+27071,Koochiching,2015-2017,0,37933, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27069,Kittson,2018-2020,0,12831, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27069,Kittson,2015-2017,0,12980, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,coed,,,Lower than Minnesota
+27069,Kittson,2018-2020,1-5*,12831,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27069,Kittson,2015-2017,0,12980, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27067,Kandiyohi,2018-2020,10.1,128605, , ,null,null,2.4 (UR),(0.8 - 5.5),0.8,5.5,cohosp,,,Same as Minnesota
+27067,Kandiyohi,2018-2020,32.4,128605, , ,null,null,13,(7.2 - 21.5),7.2,21.5,coed,,,Same as Minnesota
+27067,Kandiyohi,2015-2017,4,127941, , ,null,null,1.5 (UR),(0.1 - 6.1),0.1,6.1,cohosp,,,Same as Minnesota
+27067,Kandiyohi,2015-2017,32.2,127941, , ,null,null,14.4,(8.1 - 23.8),8.1,23.8,coed,,,Higher than Minnesota
+27065,Kanabec,2015-2017,20.2,47841, , ,null,null,20.8,(9.7 - 39.2),9.7,39.2,coed,,,Higher than Minnesota
+27065,Kanabec,2018-2020,1-5*,48501,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27065,Kanabec,2018-2020,1-5*,48501,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27065,Kanabec,2015-2017,1-5*,47841,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27063,Jackson,2015-2017,0,30050, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27063,Jackson,2018-2020,0,29738, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27063,Jackson,2018-2020,1-5*,29738,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27063,Jackson,2015-2017,1-5*,30050,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27061,Itasca,2018-2020,6,135429, , ,null,null,1.1 (UR),(0.2 - 3.4),0.2,3.4,cohosp,,,Same as Minnesota
+27061,Itasca,2015-2017,28.5,135586, , ,null,null,9.8,(5.2 - 16.7),5.2,16.7,coed,,,Same as Minnesota
+27061,Itasca,2015-2017,2,135586, , ,null,null,0.4 (UR),(0.0 - 2.5),0,2.5,cohosp,,,Same as Minnesota
+27061,Itasca,2018-2020,31,135429, , ,null,null,12.4,(6.7 - 20.9),6.7,20.9,coed,,,Same as Minnesota
+27059,Isanti,2018-2020,42.3,119400, , ,null,null,19.5,(12.0 - 29.8),12,29.8,coed,,,Higher than Minnesota
+27059,Isanti,2015-2017,12.7,116637, , ,null,null,5.9 (UR),(2.2 - 12.9),2.2,12.9,coed,,,Same as Minnesota
+27059,Isanti,2018-2020,2,119400, , ,null,null,0.9 (UR),(0.0 - 4.7),0,4.7,cohosp,,,Same as Minnesota
+27059,Isanti,2015-2017,3.2,116637, , ,null,null,1.5 (UR),(0.1 - 6.1),0.1,6.1,cohosp,,,Same as Minnesota
+27057,Hubbard,2018-2020,1-5*,63638,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27057,Hubbard,2015-2017,1-5*,62346,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27057,Hubbard,2015-2017,11.6,62346, , ,null,null,9.0 (UR),(2.9 - 21.2),2.9,21.2,coed,,,Same as Minnesota
+27057,Hubbard,2018-2020,23.5,63638, , ,null,null,23,(11.4 - 41.6),11.4,41.6,coed,,,Higher than Minnesota
+27055,Houston,2018-2020,1-5*,55896,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27055,Houston,2018-2020,0,55896, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27055,Houston,2015-2017,1-5*,56037,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27055,Houston,2015-2017,0,56037, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27053,Hennepin,2015-2017,266.3,3706699, , ,null,null,3.6,(3.1 - 4.0),3.1,4,coed,,,Lower than Minnesota
+27053,Hennepin,2018-2020,55.5,3760561, , ,null,null,0.7,(0.5 - 1.0),0.5,1,cohosp,,,Same as Minnesota
+27053,Hennepin,2018-2020,350.6,3760561, , ,null,null,4.6,(4.2 - 5.1),4.2,5.1,coed,,,Lower than Minnesota
+27053,Hennepin,2015-2017,36.1,3706699, , ,null,null,0.5,(0.3 - 0.8),0.3,0.8,cohosp,,,Same as Minnesota
+27051,Grant,2015-2017,0,17741, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27051,Grant,2015-2017,0,17741, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,coed,,,Lower than Minnesota
+27051,Grant,2018-2020,7.4,17918, , ,null,null,23.0 (UR),(5.8 - 61.4),5.8,61.4,coed,,,Same as Minnesota
+27051,Grant,2018-2020,0,17918, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27049,Goodhue,2018-2020,25.4,138979, , ,null,null,9.3,(4.7 - 16.4),4.7,16.4,coed,,,Same as Minnesota
+27049,Goodhue,2015-2017,2,138659, , ,null,null,0.6 (UR),(0.0 - 3.4),0,3.4,cohosp,,,Same as Minnesota
+27049,Goodhue,2015-2017,14.3,138659, , ,null,null,5.3 (UR),(2.1 - 11.1),2.1,11.1,coed,,,Same as Minnesota
+27049,Goodhue,2018-2020,4.9,138979, , ,null,null,1.5 (UR),(0.2 - 5.4),0.2,5.4,cohosp,,,Same as Minnesota
+27047,Freeborn,2018-2020,10.1,91372, , ,null,null,7.0 (UR),(2.3 - 16.4),2.3,16.4,cohosp,,,Higher than Minnesota
+27047,Freeborn,2015-2017,14.4,91442, , ,null,null,8.9 (UR),(3.4 - 18.7),3.4,18.7,coed,,,Same as Minnesota
+27047,Freeborn,2018-2020,16.4,91372, , ,null,null,10.7 (UR),(4.5 - 21.2),4.5,21.2,coed,,,Same as Minnesota
+27047,Freeborn,2015-2017,1-5*,91442,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27045,Fillmore,2018-2020,0,63038, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27045,Fillmore,2015-2017,1-5*,62611,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27045,Fillmore,2018-2020,7.1,63038, , ,null,null,5.3 (UR),(1.1 - 15.4),1.1,15.4,coed,,,Same as Minnesota
+27045,Fillmore,2015-2017,8.4,62611, , ,null,null,3.6 (UR),(1.0 - 9.2),1,9.2,coed,,,Same as Minnesota
+27043,Faribault,2015-2017,1-5*,41614,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27043,Faribault,2015-2017,1-5*,41614,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27043,Faribault,2018-2020,0,41286, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27043,Faribault,2018-2020,15.6,41286, , ,null,null,23.7 (UR),(9.8 - 47.8),9.8,47.8,coed,,,Higher than Minnesota
+27041,Douglas,2015-2017,2,111485, , ,null,null,0.5 (UR),(0.0 - 2.6),0,2.6,cohosp,,,Same as Minnesota
+27041,Douglas,2018-2020,23.3,113297, , ,null,null,9.5,(4.6 - 17.5),4.6,17.5,coed,,,Same as Minnesota
+27041,Douglas,2018-2020,4.4,113297, , ,null,null,1.6 (UR),(0.2 - 6.1),0.2,6.1,cohosp,,,Same as Minnesota
+27041,Douglas,2015-2017,22.6,111485, , ,null,null,11,(5.4 - 19.9),5.4,19.9,coed,,,Same as Minnesota
+27039,Dodge,2015-2017,0,61709, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27039,Dodge,2018-2020,1-5*,62298,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27039,Dodge,2018-2020,1-5*,62298,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27039,Dodge,2015-2017,6.4,61709, , ,null,null,6.1 (UR),(1.3 - 17.2),1.3,17.2,coed,,,Same as Minnesota
+27037,Dakota,2018-2020,23.7,1272147, , ,null,null,0.9,(0.5 - 1.6),0.5,1.6,cohosp,,,Same as Minnesota
+27037,Dakota,2015-2017,82.9,1253793, , ,null,null,3.6,(2.6 - 4.8),2.6,4.8,coed,,,Lower than Minnesota
+27037,Dakota,2018-2020,144.9,1272147, , ,null,null,5.7,(4.8 - 6.6),4.8,6.6,coed,,,Same as Minnesota
+27037,Dakota,2015-2017,9.7,1253793, , ,null,null,0.4 (UR),(0.1 - 0.9),0.1,0.9,cohosp,,,Same as Minnesota
+27035,Crow Wing,2018-2020,1.9,193881, , ,null,null,0.3 (UR),(0.0 - 1.9),0,1.9,cohosp,,,Same as Minnesota
+27035,Crow Wing,2015-2017,0.2,191285, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27035,Crow Wing,2015-2017,34.5,191285, , ,null,null,9.4,(5.3 - 15.4),5.3,15.4,coed,,,Same as Minnesota
+27035,Crow Wing,2018-2020,18.7,193881, , ,null,null,5.1 (UR),(2.3 - 9.9),2.3,9.9,coed,,,Same as Minnesota
+27033,Cottonwood,2018-2020,1-5*,33855,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27033,Cottonwood,2018-2020,0,33855, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27033,Cottonwood,2015-2017,0,34079, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27033,Cottonwood,2015-2017,1-5*,34079,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27031,Cook,2018-2020,0,16171, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27031,Cook,2015-2017,0,15921, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27031,Cook,2015-2017,1-5*,15921,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27031,Cook,2018-2020,0,16171, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,coed,,,Lower than Minnesota
+27029,Clearwater,2015-2017,6.9,26463, , ,null,null,10.3 (UR),(2.4 - 28.7),2.4,28.7,cohosp,,,Higher than Minnesota
+27029,Clearwater,2018-2020,0,26503, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27029,Clearwater,2015-2017,27,26463, , ,null,null,47.9,(24.9 - 83.5),24.9,83.5,coed,,,Higher than Minnesota
+27029,Clearwater,2018-2020,11.9,26503, , ,null,null,24.7 (UR),(8.5 - 55.9),8.5,55.9,coed,,,Higher than Minnesota
+27027,Clay,2015-2017,4,188811, , ,null,null,1.3 (UR),(0.2 - 4.6),0.2,4.6,cohosp,,,Same as Minnesota
+27027,Clay,2018-2020,17.8,191430, , ,null,null,4.6 (UR),(2.1 - 8.7),2.1,8.7,coed,,,Same as Minnesota
+27027,Clay,2015-2017,20.1,188811, , ,null,null,5.8,(2.7 - 10.9),2.7,10.9,coed,,,Same as Minnesota
+27027,Clay,2018-2020,1.8,191430, , ,null,null,0.5 (UR),(0.0 - 3.0),0,3,cohosp,,,Same as Minnesota
+27025,Chisago,2018-2020,0,167081, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27025,Chisago,2015-2017,11.8,163915, , ,null,null,3.1 (UR),(1.1 - 6.9),1.1,6.9,coed,,,Same as Minnesota
+27025,Chisago,2018-2020,26,167081, , ,null,null,8.2,(4.3 - 14.2),4.3,14.2,coed,,,Same as Minnesota
+27025,Chisago,2015-2017,0.2,163915, , ,null,null,0.1 (UR),(0.0 - 2.2),0,2.2,cohosp,,,Same as Minnesota
+27023,Chippewa,2015-2017,9.1,36074, , ,null,null,13.2 (UR),(3.7 - 33.1),3.7,33.1,coed,,,Same as Minnesota
+27023,Chippewa,2015-2017,0,36074, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27023,Chippewa,2018-2020,1-5*,35753,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27023,Chippewa,2018-2020,6.4,35753, , ,null,null,7.9 (UR),(1.6 - 23.5),1.6,23.5,coed,,,Same as Minnesota
+27021,Cass,2015-2017,20.2,87038, , ,null,null,12.5,(5.6 - 24.0),5.6,24,coed,,,Same as Minnesota
+27021,Cass,2015-2017,0,87038, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27021,Cass,2018-2020,15.5,88249, , ,null,null,12.9 (UR),(5.3 - 26.0),5.3,26,coed,,,Same as Minnesota
+27021,Cass,2018-2020,1-5*,88249,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27019,Carver,2015-2017,41.9,301165, , ,null,null,6.5,(4.0 - 9.9),4,9.9,coed,,,Same as Minnesota
+27019,Carver,2015-2017,5.7,301165, , ,null,null,0.8 (UR),(0.2 - 2.5),0.2,2.5,cohosp,,,Same as Minnesota
+27019,Carver,2018-2020,0.5,309061, , ,null,null,0.1 (UR),(0.0 - 1.1),0,1.1,cohosp,,,Same as Minnesota
+27019,Carver,2018-2020,33.3,309061, , ,null,null,6,(3.4 - 9.7),3.4,9.7,coed,,,Same as Minnesota
+27017,Carlton,2015-2017,12.3,106495, , ,null,null,6.9 (UR),(2.6 - 15.0),2.6,15,coed,,,Same as Minnesota
+27017,Carlton,2018-2020,0,107179, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27017,Carlton,2015-2017,2,106495, , ,null,null,0.7 (UR),(0.0 - 4.2),0,4.2,cohosp,,,Same as Minnesota
+27017,Carlton,2018-2020,35,107179, , ,null,null,17.9,(10.5 - 28.5),10.5,28.5,coed,,,Higher than Minnesota
+27015,Brown,2018-2020,27.6,75350, , ,null,null,18.7,(9.8 - 32.5),9.8,32.5,coed,,,Higher than Minnesota
+27015,Brown,2015-2017,0,75671, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27015,Brown,2018-2020,1-5*,75350,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27015,Brown,2015-2017,7.4,75671, , ,null,null,6.6 (UR),(1.6 - 17.7),1.6,17.7,coed,,,Same as Minnesota
+27013,Blue Earth,2018-2020,0.2,201590, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27013,Blue Earth,2015-2017,2.2,198888, , ,null,null,0.4 (UR),(0.0 - 2.3),0,2.3,cohosp,,,Same as Minnesota
+27013,Blue Earth,2018-2020,25.6,201590, , ,null,null,6.3,(3.2 - 11.2),3.2,11.2,coed,,,Same as Minnesota
+27013,Blue Earth,2015-2017,6.3,198888, , ,null,null,1.6 (UR),(0.3 - 4.7),0.3,4.7,coed,,,Lower than Minnesota
+27011,Big Stone,2015-2017,0,15005, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27011,Big Stone,2018-2020,1-5*,14959,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27011,Big Stone,2018-2020,0,14959, , ,null,null,0.0 (UR),(0.0 - 0.0),0,0,cohosp,,,Lower than Minnesota
+27011,Big Stone,2015-2017,1-5*,15005,*, ,null,null,*, ,null,null,coed,,,Lower than Minnesota
+27009,Benton,2015-2017,11.3,119209, , ,null,null,3.8 (UR),(1.3 - 8.5),1.3,8.5,coed,,,Same as Minnesota
+27009,Benton,2015-2017,10.2,119209, , ,null,null,3.4 (UR),(1.1 - 8.0),1.1,8,cohosp,,,Higher than Minnesota
+27009,Benton,2018-2020,3.8,121150, , ,null,null,1.4 (UR),(0.1 - 5.5),0.1,5.5,cohosp,,,Same as Minnesota
+27009,Benton,2018-2020,17.8,121150, , ,null,null,7.1 (UR),(3.2 - 13.7),3.2,13.7,coed,,,Same as Minnesota
+27007,Beltrami,2018-2020,1.9,140034, , ,null,null,0.5 (UR),(0.0 - 3.1),0,3.1,cohosp,,,Same as Minnesota
+27007,Beltrami,2015-2017,3.1,138104, , ,null,null,1.1 (UR),(0.1 - 4.6),0.1,4.6,cohosp,,,Same as Minnesota
+27007,Beltrami,2018-2020,46,140034, , ,null,null,17.1,(10.6 - 26.0),10.6,26,coed,,,Higher than Minnesota
+27007,Beltrami,2015-2017,27.4,138104, , ,null,null,11.2,(5.9 - 19.1),5.9,19.1,coed,,,Same as Minnesota
+27005,Becker,2018-2020,17.1,102609, , ,null,null,6.5 (UR),(2.7 - 13.1),2.7,13.1,coed,,,Same as Minnesota
+27005,Becker,2015-2017,4.1,101236, , ,null,null,2.6 (UR),(0.3 - 9.5),0.3,9.5,cohosp,,,Same as Minnesota
+27005,Becker,2015-2017,17.6,101236, , ,null,null,10.0 (UR),(4.4 - 19.6),4.4,19.6,coed,,,Same as Minnesota
+27005,Becker,2018-2020,2.3,102609, , ,null,null,0.7 (UR),(0.0 - 3.8),0,3.8,cohosp,,,Same as Minnesota
+27003,Anoka,2015-2017,99.1,1041432, , ,null,null,5.1,(3.8 - 6.7),3.8,6.7,coed,,,Same as Minnesota
+27003,Anoka,2018-2020,105.2,1057841, , ,null,null,4.9,(3.9 - 5.8),3.9,5.8,coed,,,Lower than Minnesota
+27003,Anoka,2015-2017,7.1,1041432, , ,null,null,0.4 (UR),(0.1 - 1.1),0.1,1.1,cohosp,,,Same as Minnesota
+27003,Anoka,2018-2020,11.7,1057841, , ,null,null,0.4 (UR),(0.1 - 0.8),0.1,0.8,cohosp,,,Same as Minnesota
+27001,Aitkin,2018-2020,10.1,47562, , ,null,null,8.8 (UR),(2.0 - 24.7),2,24.7,coed,,,Same as Minnesota
+27001,Aitkin,2015-2017,12.6,47421, , ,null,null,13.8 (UR),(4.2 - 33.4),4.2,33.4,coed,,,Same as Minnesota
+27001,Aitkin,2015-2017,1-5*,47421,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27001,Aitkin,2018-2020,1-5*,47562,*, ,null,null,*, ,null,null,cohosp,,,Lower than Minnesota
+27000,Minnesota,2015-2017,910,16574067, , ,null,null,5.5,(5.2 - 5.9),5.2,5.9,coed,,,n/a
+27000,Minnesota,2018-2020,139,16908153, , ,null,null,0.7,(0.6 - 0.9),0.6,0.9,cohosp,,,n/a
+27000,Minnesota,2015-2017,109,16574067, , ,null,null,0.6,(0.5 - 0.7),0.5,0.7,cohosp,,,n/a
+27000,Minnesota,2018-2020,1158,16908153, , ,null,null,6.9,(6.5 - 7.3),6.5,7.3,coed,,,n/a
