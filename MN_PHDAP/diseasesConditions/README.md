@@ -7,7 +7,7 @@ Person-years is equal to the sum of the population for each year.
 Age-adjusted rates can only be calculated for "All ages combined".  
 Hospitalizations data do not include data from federal and sovereign hospitals (e.g. Veteran's Administration; Indian Health Service) or data on Minnesota residents seen in facilities outside of Minnesota and North Dakota.
 
-## Birth Defects  
+## Birth Defects  https://data.web.health.state.mn.us/birth
 Prevalence is per 10,000 live births, unless otherwise noted for certain conditions  
 Data for 2012-2016 births only include Hennepin and Ramsey counties (**2012-2016 was not downloaded and saved here**)  
 Region and state data are for 2013-2017 births and 2014-2018 births  
@@ -21,37 +21,37 @@ Data for Limb Deficiencies (reduction defects) exclude other specified reduction
 Data source: Minnesota Department of Health Birth Defects Monitoring and Analysis Program
 
 
-## Cancer  
+## Cancer  https://data.web.health.state.mn.us/cancer
 To protect an individual's privacy counts are suppressed if the underlying population is less than or equal to 1000 people (or 5000 people for a 5-year period). Counts may also be suppressed in specific situations (see About the Cancer Data).  
 Counts may also be suppressed in certain situations. See "About the Cancer Data": http://health.mn.gov/mndatacancer_metadata  
 Rates based on numerators less than 10 may be unstable and should be interpreted with caution. If the column labeled Unstable has a value of TRUE then that row has an unstable rate.  
 Rates for "All Ages" are age-adjusted to the standard 2000 U.S. population. Rates for an age group (e.g. 0-14 years) are specific to that age group.  
 Cancer incidence data is collected by the Minnesota Cancer Surveillance System (MCSS). MCSS is an ongoing program at the Minnesota Department of Health and Minnesota's central cancer registry.
 
-## Carbon Monoxide  
+## Carbon Monoxide  https://data.web.health.state.mn.us/co
 To protect an individual's privacy hospitalizations and ED visit counts from 1 to 5 are suppressed if the underlying population is less than or equal to 100000.  
 UR = Unstable Rate. Rates based on numerators less than or equal to 20 may be unstable and should be interpreted with caution.  
 Note: This table includes only carbon monoxide poisoning events that are unintentional and non-fire related.  
 Person-years is equal to the sum of the population for each year.
 
-## Chronic Obstructive Pulmonary Disease  
+## Chronic Obstructive Pulmonary Disease https://data.web.health.state.mn.us/copd 
 To protect an individual's privacy hospitalizations and ED visit counts from 1 to 5 are suppressed if the underlying population is less than or equal to 100000.  
 UR = Unstable Rate. Rates based on numerators less than or equal to 20 may be unstable and should be interpreted with caution.  
 Person-years is equal to the sum of the population for each year.
 
-**Diabetes currently does not have data to download**
+## **Diabetes currently does not have data to download**  https://data.web.health.state.mn.us/diabetes
 
-## Heart Attack  
+## Heart Attack  https://data.web.health.state.mn.us/mci
 To protect an individual's privacy hospitalizations and ED visit counts from 1 to 5 are suppressed if the underlying population is less than or equal to 100000.  
 UR = Unstable Rate. Rates based on numerators less than or equal to 20 may be unstable and should be interpreted with caution.  
 Person-years is equal to the sum of the population for each year.
 
-## Heat Related Illness  
+## Heat Related Illness  https://data.web.health.state.mn.us/heat
 Heat-Related Illness Emergency Department (ED) Visits by County: All Ages, 2017-2021 Heat-Related Illness Hospitalizations by County: All Ages, 2012-2021
 The results represented are Heat-Related Illness ED visit and Heat-Related Illness hospitalization counts and age-adjusted rates by county in Minnesota.
 MDH does not warrant or assume any responsibility for the accuracy of data in this file.  Such data should be used with caution, and the user of this data assumes all responsibilities for any consequences from its use. Heat-related illness ED rates represent heat-related illness emergency department visits by county in Minnesota. Heat-related illness hospitalization rates represent heat-related illness hospitalizations by county in Minnesota. Hospitalization measures on MN Public Health Data Access include discharges of Minnesota residents from hospitals in the border states of North Dakota, South Dakota and Iowa.
 
-Immunizations
+Immunizations  https://data.web.health.state.mn.us/immunization
 Childhood vaccines offer life-saving protection from many very serious diseases including:
 whooping cough (pertussis), diphtheria, tetanus, polio, measles, mumps, rubella, 
 Haemophilus influenzae type b (Hib), hepatitis B, chickenpox (varicella), pneumococcal disease 
