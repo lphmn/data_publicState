@@ -54,7 +54,7 @@ Heat-Related Illness Emergency Department (ED) Visits by County: All Ages, 2017-
 The results represented are Heat-Related Illness ED visit and Heat-Related Illness hospitalization counts and age-adjusted rates by county in Minnesota.
 MDH does not warrant or assume any responsibility for the accuracy of data in this file.  Such data should be used with caution, and the user of this data assumes all responsibilities for any consequences from its use. Heat-related illness ED rates represent heat-related illness emergency department visits by county in Minnesota. Heat-related illness hospitalization rates represent heat-related illness hospitalizations by county in Minnesota. Hospitalization measures on MN Public Health Data Access include discharges of Minnesota residents from hospitals in the border states of North Dakota, South Dakota and Iowa.
 
-Immunizations  https://data.web.health.state.mn.us/immunization
+## Immunizations  https://data.web.health.state.mn.us/immunization
 Childhood vaccines offer life-saving protection from many very serious diseases including:
 whooping cough (pertussis), diphtheria, tetanus, polio, measles, mumps, rubella, 
 Haemophilus influenzae type b (Hib), hepatitis B, chickenpox (varicella), pneumococcal disease 
