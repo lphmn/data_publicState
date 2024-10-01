@@ -1,0 +1,177 @@
+fips,region,ageAdjustedRate,aci,count,age65LivingAlone,below185Poverty,comparedToMinnesota,totalPopulation,unstable,suppressed,incident
+27000,Minnesota,1.1,(1    - 1.2 ),662,11.5,20.5,n/a,55431375,,,hospitalizations
+27001,Aitkin,1.5,(0.4  - 3.9 ),4.24,19.5,28.8,Same as Minnesota,158483,UNSTABLE,,hospitalizations
+27003,Anoka,1.9,(1.4  - 2.4 ),62.23,9.8,15,Higher than Minnesota,3477149,,,hospitalizations
+27005,Becker,3,(1.4  - 5.4 ),11.58,13.7,26.8,Higher than Minnesota,338262,UNSTABLE,,hospitalizations
+27007,Beltrami,1.1,(0.4  - 2.4 ),5.99,11.4,33.6,Same as Minnesota,460430,UNSTABLE,,hospitalizations
+27009,Benton,1.3,(0.4  - 2.9 ),5.72,8.6,22.7,Same as Minnesota,398236,UNSTABLE,,hospitalizations
+27011,Big Stone,0,,0,18.4,27.8,Lower than Minnesota,50408,UNSTABLE,,hospitalizations
+27013,Blue Earth,1.7,(0.9  - 3.2 ),12.24,8.9,31.4,Same as Minnesota,664049,UNSTABLE,,hospitalizations
+27015,Brown,0.7,(0.1  - 2.0 ),2.75,14.2,22.2,Same as Minnesota,252864,UNSTABLE,,hospitalizations
+27017,Carlton,1.1,(0.3  - 2.8 ),4.07,11.8,23.7,Same as Minnesota,355724,UNSTABLE,,hospitalizations
+27019,Carver,1,(0.5  - 1.9 ),9.75,8.1,8.9,Same as Minnesota,1002757,UNSTABLE,,hospitalizations
+27021,Cass,0.6,(0.1  - 2.5 ),2.55,14.1,30.4,Same as Minnesota,290645,UNSTABLE,,hospitalizations
+27023,Chippewa,0.1,(0.0  - 4.9 ),0.1,14,27.8,Same as Minnesota,120572,UNSTABLE,,hospitalizations
+27025,Chisago,1.7,(0.8  - 3.2 ),9.29,10.7,14.3,Same as Minnesota,548243,UNSTABLE,,hospitalizations
+27027,Clay,1.4,(0.6  - 2.7 ),9.08,12.1,24.3,Same as Minnesota,627160,UNSTABLE,,hospitalizations
+27029,Clearwater,0,,0,14.9,29.6,Lower than Minnesota,87738,UNSTABLE,,hospitalizations
+27031,Cook,0,,0,14.9,19.5,Lower than Minnesota,53272,UNSTABLE,,hospitalizations
+27033,Cottonwood,1.7,(0.2  - 6.4 ),2.19,16.2,27.8,Same as Minnesota,114051,UNSTABLE,,hospitalizations
+27035,Crow Wing,1.2,(0.4  - 2.5 ),6.7,13.4,25.9,Same as Minnesota,639939,UNSTABLE,,hospitalizations
+27037,Dakota,0.7,(0.4  - 1.0 ),28.77,10.5,14.3,Same as Minnesota,4186139,,,hospitalizations
+27039,Dodge,3.3,(1.3  - 6.9 ),6.92,8.8,15.3,Higher than Minnesota,205786,UNSTABLE,,hospitalizations
+27041,Douglas,0.1,(0.0  - 0.8 ),1,12.5,20.1,Lower than Minnesota,372722,UNSTABLE,,hospitalizations
+27043,Faribault,1,(0.0  - 5.5 ),1,16.7,28.9,Same as Minnesota,139217,UNSTABLE,,hospitalizations
+27045,Fillmore,0.1,(0.0  - 2.5 ),0.11,13.5,24.1,Same as Minnesota,209179,UNSTABLE,,hospitalizations
+27047,Freeborn,0.7,(0.1  - 2.8 ),2.06,15.3,28.6,Same as Minnesota,306383,UNSTABLE,,hospitalizations
+27049,Goodhue,1.1,(0.4  - 2.5 ),5.85,14.2,18.5,Same as Minnesota,463421,UNSTABLE,,hospitalizations
+27051,Grant,0,,0,15.2,26.8,Lower than Minnesota,59517,UNSTABLE,,hospitalizations
+27053,Hennepin,1,(0.9  - 1.2 ),137.2,11,19.9,Same as Minnesota,12331212,,,hospitalizations
+27055,Houston,0,,0,12.9,18.8,Lower than Minnesota,186976,UNSTABLE,,hospitalizations
+27057,Hubbard,0.9,(0.1  - 3.4 ),2.25,13.3,25.3,Same as Minnesota,208988,UNSTABLE,,hospitalizations
+27059,Isanti,2,(0.9  - 4.1 ),7.78,11.8,19.9,Same as Minnesota,391109,UNSTABLE,,hospitalizations
+27061,Itasca,0.8,(0.2  - 2.1 ),4.37,16,26.9,Same as Minnesota,451768,UNSTABLE,,hospitalizations
+27063,Jackson,1.3,(0.0  - 7.0 ),1.01,14.6,24,Same as Minnesota,100665,UNSTABLE,,hospitalizations
+27065,Kanabec,0.8,(0.1  - 3.4 ),1.71,13.4,28,Same as Minnesota,160298,UNSTABLE,,hospitalizations
+27067,Kandiyohi,1,(0.3  - 2.4 ),5.04,12,26.8,Same as Minnesota,427379,UNSTABLE,,hospitalizations
+27069,Kittson,,,,15.3,22.4,Higher than Minnesota,43474,,SUPPRESSED,hospitalizations
+27071,Koochiching,1.2,(0.1  - 5.6 ),1.53,16.4,24.4,Same as Minnesota,126548,UNSTABLE,,hospitalizations
+27073,Lac qui Parle,,,,16.6,22.2,Higher than Minnesota,68107,,SUPPRESSED,hospitalizations
+27075,Lake,0,,0,14.9,22,Lower than Minnesota,106305,UNSTABLE,,hospitalizations
+27077,Lake of the Woods,,,,16.7,27.4,Higher than Minnesota,38175,,SUPPRESSED,hospitalizations
+27079,Le Sueur,0.2,(0.0  - 1.3 ),1.02,11,18.6,Same as Minnesota,280507,UNSTABLE,,hospitalizations
+27081,Lincoln,,,,16.7,25.9,Higher than Minnesota,57020,,SUPPRESSED,hospitalizations
+27083,Lyon,0.6,(0.0  - 2.8 ),1.14,12.7,28.8,Same as Minnesota,257476,UNSTABLE,,hospitalizations
+27085,McLeod,0,,0,13.2,21,Lower than Minnesota,359236,UNSTABLE,,hospitalizations
+27087,Mahnomen,,,,14.1,46.7,Higher than Minnesota,54943,,SUPPRESSED,hospitalizations
+27089,Marshall,,,,15,21.2,Higher than Minnesota,93664,,SUPPRESSED,hospitalizations
+27091,Martin,2.4,(0.8  - 5.6 ),6,15.9,26.7,Same as Minnesota,200354,UNSTABLE,,hospitalizations
+27093,Meeker,1.1,(0.2  - 3.3 ),3.08,13.2,21.1,Same as Minnesota,231037,UNSTABLE,,hospitalizations
+27095,Mille Lacs,1.7,(0.5  - 4.1 ),5.18,12.7,27.7,Same as Minnesota,258149,UNSTABLE,,hospitalizations
+27097,Morrison,0.3,(0.0  - 2.0 ),0.8,13.5,25.8,Same as Minnesota,330760,UNSTABLE,,hospitalizations
+27099,Mower,2,(0.9  - 3.8 ),9.83,12,29.2,Same as Minnesota,396453,UNSTABLE,,hospitalizations
+27101,Murray,,,,17.1,18.7,Higher than Minnesota,83612,,SUPPRESSED,hospitalizations
+27103,Nicollet,1.9,(0.8  - 4.0 ),6.9,12.9,20.7,Same as Minnesota,337340,UNSTABLE,,hospitalizations
+27105,Nobles,1.1,(0.1  - 4.1 ),1.86,13.5,34.3,Same as Minnesota,218347,UNSTABLE,,hospitalizations
+27107,Norman,,,,15.1,27.1,Higher than Minnesota,65490,,SUPPRESSED,hospitalizations
+27109,Olmsted,0.6,(0.3  - 1.2 ),10.04,9.5,17.7,Same as Minnesota,1533261,UNSTABLE,,hospitalizations
+27111,Otter Tail,2.2,(1.2  - 3.8 ),15.79,13.9,23.8,Same as Minnesota,581018,UNSTABLE,,hospitalizations
+27113,Pennington,0.9,(0.0  - 4.8 ),1.04,14,21.2,Same as Minnesota,141531,UNSTABLE,,hospitalizations
+27115,Pine,2.7,(1.1  - 5.6 ),7.39,15.6,26.8,Same as Minnesota,291394,UNSTABLE,,hospitalizations
+27117,Pipestone,,,,16.6,28.3,Higher than Minnesota,92348,,SUPPRESSED,hospitalizations
+27119,Polk,1.2,(0.3  - 3.0 ),4.02,13.1,27.4,Same as Minnesota,315303,UNSTABLE,,hospitalizations
+27121,Pope,0.5,(0.0  - 3.0 ),1,16.5,19.8,Same as Minnesota,110044,UNSTABLE,,hospitalizations
+27123,Ramsey,1.4,(1.1  - 1.7 ),77.22,12.4,26.7,Same as Minnesota,5396103,,,hospitalizations
+27125,Red Lake,,,,15.8,22.1,Higher than Minnesota,40075,,SUPPRESSED,hospitalizations
+27127,Redwood,0.3,(0.0  - 1.4 ),1.01,14.6,27.3,Same as Minnesota,154048,UNSTABLE,,hospitalizations
+27129,Renville,0.8,(0.0  - 4.6 ),1,15.2,25.5,Same as Minnesota,147950,UNSTABLE,,hospitalizations
+27131,Rice,2,(1.1  - 3.4 ),13.88,13.4,22.5,Same as Minnesota,657432,UNSTABLE,,hospitalizations
+27133,Rock,,,,15.4,23.6,Higher than Minnesota,94477,,SUPPRESSED,hospitalizations
+27135,Roseau,0,,0,11.8,21,Lower than Minnesota,154258,UNSTABLE,,hospitalizations
+27137,St. Louis,1,(0.6  - 1.6 ),22.96,14.1,26.9,Same as Minnesota,2000757,,,hospitalizations
+27139,Scott,0.5,(0.2  - 1.1 ),6.28,7.4,11.9,Same as Minnesota,1431283,UNSTABLE,,hospitalizations
+27141,Sherburne,1.2,(0.6  - 2.4 ),9.53,8.7,13,Same as Minnesota,932448,UNSTABLE,,hospitalizations
+27143,Sibley,0.6,(0.0  - 3.2 ),1.08,13.5,19.6,Same as Minnesota,149395,UNSTABLE,,hospitalizations
+27145,Stearns,1.5,(0.9  - 2.2 ),24.97,10.7,25.6,Same as Minnesota,1564427,,,hospitalizations
+27147,Steele,0.6,(0.1  - 2.2 ),2.03,13.4,22.4,Same as Minnesota,366804,UNSTABLE,,hospitalizations
+27149,Stevens,,,,11.5,24,Higher than Minnesota,97626,,SUPPRESSED,hospitalizations
+27151,Swift,,,,17.8,30.3,Higher than Minnesota,94744,,SUPPRESSED,hospitalizations
+27153,Todd,0.8,(0.1  - 2.4 ),2.92,12.3,30.6,Same as Minnesota,245561,UNSTABLE,,hospitalizations
+27155,Traverse,0,,0,18.7,24.9,Lower than Minnesota,33447,UNSTABLE,,hospitalizations
+27157,Wabasha,1.2,(0.1  - 4.5 ),2,12.1,17.2,Same as Minnesota,215132,UNSTABLE,,hospitalizations
+27159,Wadena,1.3,(0.1  - 5.8 ),1.76,14.5,32.8,Same as Minnesota,136818,UNSTABLE,,hospitalizations
+27161,Waseca,1.5,(0.3  - 4.8 ),2.74,13.1,21.9,Same as Minnesota,188626,UNSTABLE,,hospitalizations
+27163,Washington,0.9,(0.6  - 1.4 ),24.15,9.9,11,Same as Minnesota,2536076,,,hospitalizations
+27165,Watonwan,0.6,(0.0  - 3.2 ),1.04,16.6,25.2,Same as Minnesota,110134,UNSTABLE,,hospitalizations
+27167,Wilkin,,,,18.8,27.1,Higher than Minnesota,63847,,SUPPRESSED,hospitalizations
+27169,Winona,0.9,(0.3  - 2.2 ),5,12,26.1,Same as Minnesota,508261,UNSTABLE,,hospitalizations
+27171,Wright,1,(0.5  - 1.8 ),12.35,9.2,13,Same as Minnesota,1329888,UNSTABLE,,hospitalizations
+27173,Yellow Medicine,0,,0,14.3,24.4,Lower than Minnesota,98773,UNSTABLE,,hospitalizations
+27000,Minnesota,13.3,(12.8 - 13.7),3786,11.5,20.5,N/A,28183698,,,Emergency Department
+27001,Aitkin,14.3,(6.1  - 28.5),9.94,19.5,28.8,Same as Minnesota,79118,UNSTABLE,,Emergency Department
+27003,Anoka,13.1,(11.5 - 14.8),230.03,9.8,15,Same as Minnesota,1769135,,,Emergency Department
+27005,Becker,21.9,(15.1 - 30.6),36.87,13.7,26.8,Same as Minnesota,171679,,,Emergency Department
+27007,Beltrami,19.3,(13.8 - 26.3),43.85,11.4,33.6,Same as Minnesota,232551,,,Emergency Department
+27009,Benton,14.1,(9.2  - 20.7),26.68,8.6,22.7,Same as Minnesota,202364,,,Emergency Department
+27011,Big Stone,,,,18.4,27.8,Lower than Minnesota,25125,,SUPPRESSED,Emergency Department
+27013,Blue Earth,18.9,(14.1 - 24.7),58.18,8.9,31.4,Higher than Minnesota,337052,,,Emergency Department
+27015,Brown,26.9,(18.1 - 38.4),33.52,14.2,22.2,Higher than Minnesota,126416,,,Emergency Department
+27017,Carlton,15.6,(10.2 - 22.8),28.03,11.8,23.7,Same as Minnesota,178858,,,Emergency Department
+27019,Carver,13.8,(10.7 - 17.6),67.62,8.1,8.9,Same as Minnesota,516905,,,Emergency Department
+27021,Cass,22.2,(14.4 - 32.8),29.24,14.1,30.4,Same as Minnesota,147502,,,Emergency Department
+27023,Chippewa,17.5,(7.8  - 33.5),9.37,14,27.8,Same as Minnesota,60220,UNSTABLE,,Emergency Department
+27025,Chisago,16.8,(12.3 - 22.5),46.89,10.7,14.3,Higher than Minnesota,278623,,,Emergency Department
+27027,Clay,19.4,(14.7 - 25.1),60,12.1,24.3,Higher than Minnesota,320087,,,Emergency Department
+27029,Clearwater,28.3,(13.9 - 51.1),12.03,14.9,29.6,Higher than Minnesota,43865,UNSTABLE,,Emergency Department
+27031,Cook,,,,14.9,19.5,Lower than Minnesota,27129,,SUPPRESSED,Emergency Department
+27033,Cottonwood,23.8,(12.8 - 40.3),15.82,16.2,27.8,Higher than Minnesota,56616,UNSTABLE,,Emergency Department
+27035,Crow Wing,23,(17.8 - 29.2),76.59,13.4,25.9,Higher than Minnesota,324075,,,Emergency Department
+27037,Dakota,9.2,(7.9  - 10.5),193.87,10.5,14.3,Lower than Minnesota,2129831,,,Emergency Department
+27039,Dodge,18.3,(10.6 - 29.4),17,8.8,15.3,Same as Minnesota,103833,UNSTABLE,,Emergency Department
+27041,Douglas,13.1,(8.3  - 19.6),26.01,12.5,20.1,Same as Minnesota,189595,,,Emergency Department
+27043,Faribault,22.2,(11.7 - 38.4),13.96,16.7,28.9,Higher than Minnesota,68983,UNSTABLE,,Emergency Department
+27045,Fillmore,15.5,(8.3  - 26.4),14.19,13.5,24.1,Same as Minnesota,105199,UNSTABLE,,Emergency Department
+27047,Freeborn,12.1,(6.8  - 19.9),17.12,15.3,28.6,Same as Minnesota,152791,UNSTABLE,,Emergency Department
+27049,Goodhue,21.8,(15.9 - 29.1),49.57,14.2,18.5,Higher than Minnesota,232816,,,Emergency Department
+27051,Grant,,,,15.2,26.8,Lower than Minnesota,29901,,SUPPRESSED,Emergency Department
+27053,Hennepin,10,(9.2  - 10.8),645.38,11,19.9,Lower than Minnesota,6279090,,,Emergency Department
+27055,Houston,,,,12.9,18.8,Lower than Minnesota,93364,,SUPPRESSED,Emergency Department
+27057,Hubbard,14.6,(8.1  - 24.2),17.88,13.3,25.3,Same as Minnesota,105858,UNSTABLE,,Emergency Department
+27059,Isanti,27.6,(20.5 - 36.4),51.13,11.8,19.9,Higher than Minnesota,199587,,,Emergency Department
+27061,Itasca,29.1,(22.0 - 37.7),64.86,16,26.9,Higher than Minnesota,225559,,,Emergency Department
+27063,Jackson,23.2,(11.5 - 41.7),12.24,14.6,24,Same as Minnesota,49742,UNSTABLE,,Emergency Department
+27065,Kanabec,23.7,(13.6 - 38.3),18.02,13.4,28,Higher than Minnesota,80559,UNSTABLE,,Emergency Department
+27067,Kandiyohi,15.3,(10.3 - 21.9),32.16,12,26.8,Same as Minnesota,214824,,,Emergency Department
+27069,Kittson,,,,15.3,22.4,Lower than Minnesota,21303,,SUPPRESSED,Emergency Department
+27071,Koochiching,22.9,(11.9 - 40.0),15.12,16.4,24.4,Same as Minnesota,62039,UNSTABLE,,Emergency Department
+27073,Lac qui Parle,30.2,(13.8 - 57.2),12.06,16.6,22.2,Same as Minnesota,33470,UNSTABLE,,Emergency Department
+27075,Lake,19.5,(8.5  - 38.1),10,14.9,22,Same as Minnesota,53140,UNSTABLE,,Emergency Department
+27077,Lake of the Woods,57.4,(26.6 - 108.),10.88,16.7,27.4,Higher than Minnesota,18769,UNSTABLE,,Emergency Department
+27079,Le Sueur,17,(10.9 - 25.2),26.03,11,18.6,Same as Minnesota,141879,,,Emergency Department
+27081,Lincoln,,,,16.7,25.9,Lower than Minnesota,28328,,SUPPRESSED,Emergency Department
+27083,Lyon,23.3,(15.3 - 34.0),27.89,12.7,28.8,Same as Minnesota,128513,,,Emergency Department
+27085,McLeod,27.4,(20.0 - 36.7),47.75,13.2,21,Higher than Minnesota,180038,,,Emergency Department
+27087,Mahnomen,,,,14.1,46.7,Lower than Minnesota,27536,,SUPPRESSED,Emergency Department
+27089,Marshall,27.4,(13.7 - 49.0),13.16,15,21.2,Same as Minnesota,46566,UNSTABLE,,Emergency Department
+27091,Martin,31.5,(20.7 - 45.8),32.04,15.9,26.7,Higher than Minnesota,99302,,,Emergency Department
+27093,Meeker,40.8,(29.2 - 55.3),45.2,13.2,21.1,Higher than Minnesota,115704,,,Emergency Department
+27095,Mille Lacs,32,(22.6 - 44.0),40.29,12.7,27.7,Higher than Minnesota,130241,,,Emergency Department
+27097,Morrison,18.3,(12.0 - 26.8),28.06,13.5,25.8,Higher than Minnesota,166328,,,Emergency Department
+27099,Mower,11.7,(7.3  - 17.7),22.92,12,29.2,Same as Minnesota,199433,,,Emergency Department
+27101,Murray,40.8,(21.9 - 69.3),15.87,17.1,18.7,Higher than Minnesota,41396,UNSTABLE,,Emergency Department
+27103,Nicollet,18,(12.0 - 25.9),30.14,12.9,20.7,Same as Minnesota,170703,,,Emergency Department
+27105,Nobles,18.5,(11.2 - 28.8),20.51,13.5,34.3,Higher than Minnesota,109358,,,Emergency Department
+27107,Norman,31.3,(14.6 - 58.6),10.02,15.1,27.1,Higher than Minnesota,32546,UNSTABLE,,Emergency Department
+27109,Olmsted,9.6,(7.5  - 12.2),72.52,9.5,17.7,Lower than Minnesota,782979,,,Emergency Department
+27111,Otter Tail,27.1,(20.9 - 34.5),77.91,13.9,23.8,Higher than Minnesota,293402,,,Emergency Department
+27113,Pennington,18.3,(9.2  - 32.4),11.84,14,21.2,Same as Minnesota,70725,UNSTABLE,,Emergency Department
+27115,Pine,17,(10.5 - 25.9),22.95,15.6,26.8,Same as Minnesota,146141,,,Emergency Department
+27117,Pipestone,19.9,(10.2 - 35.1),13,16.6,28.3,Same as Minnesota,45867,UNSTABLE,,Emergency Department
+27119,Polk,11.7,(6.7  - 19.0),17.01,13.1,27.4,Same as Minnesota,157442,UNSTABLE,,Emergency Department
+27121,Pope,13.4,(5.1  - 28.7),7.98,16.5,19.8,Lower than Minnesota,55453,UNSTABLE,,Emergency Department
+27123,Ramsey,8,(6.9  - 9.0 ),217.05,12.4,26.7,Lower than Minnesota,2736145,,,Emergency Department
+27125,Red Lake,,,,15.8,22.1,Lower than Minnesota,19962,,SUPPRESSED,Emergency Department
+27127,Redwood,30.6,(18.8 - 47.1),22.5,14.6,27.3,Same as Minnesota,76381,,,Emergency Department
+27129,Renville,26.3,(14.9 - 43.0),16.75,15.2,25.5,Higher than Minnesota,73271,UNSTABLE,,Emergency Department
+27131,Rice,16,(11.9 - 21.0),53,13.4,22.5,Same as Minnesota,332225,,,Emergency Department
+27133,Rock,45.8,(28.5 - 69.8),23.65,15.4,23.6,Higher than Minnesota,47373,,,Emergency Department
+27135,Roseau,12.5,(5.2  - 25.1),8.03,11.8,21,Same as Minnesota,76402,UNSTABLE,,Emergency Department
+27137,St. Louis,12.2,(10.1 - 14.3),131,14.1,26.9,Same as Minnesota,999121,,,Emergency Department
+27139,Scott,11.9,(9.5  - 14.8),86.19,7.4,11.9,Same as Minnesota,735020,,,Emergency Department
+27141,Sherburne,16.8,(13.2 - 21.0),79.01,8.7,13,Same as Minnesota,477356,,,Emergency Department
+27143,Sibley,28.1,(16.8 - 44.1),19.39,13.5,19.6,Higher than Minnesota,74643,UNSTABLE,,Emergency Department
+27145,Stearns,12.6,(10.2 - 15.0),103.74,10.7,25.6,Same as Minnesota,793113,,,Emergency Department
+27147,Steele,17,(11.3 - 24.5),30.11,13.4,22.4,Same as Minnesota,184383,,,Emergency Department
+27149,Stevens,20.4,(8.9  - 39.8),9,11.5,24,Same as Minnesota,48653,UNSTABLE,,Emergency Department
+27151,Swift,16,(6.0  - 34.6),6.9,17.8,30.3,Same as Minnesota,47239,UNSTABLE,,Emergency Department
+27153,Todd,21.2,(13.4 - 31.9),25.48,12.3,30.6,Same as Minnesota,123332,,,Emergency Department
+27155,Traverse,22.2,(7.4  - 51.1),6,18.7,24.9,Lower than Minnesota,16570,UNSTABLE,,Emergency Department
+27157,Wabasha,18.1,(10.5 - 29.1),19,12.1,17.2,Same as Minnesota,107761,UNSTABLE,,Emergency Department
+27159,Wadena,28.2,(15.8 - 46.4),16.1,14.5,32.8,Higher than Minnesota,68763,UNSTABLE,,Emergency Department
+27161,Waseca,28.9,(18.9 - 42.4),27.82,13.1,21.9,Higher than Minnesota,93787,,,Emergency Department
+27163,Washington,10,(8.3  - 11.8),127.79,9.9,11,Lower than Minnesota,1294726,,,Emergency Department
+27165,Watonwan,20.7,(10.0 - 38.0),10.99,16.6,25.2,Same as Minnesota,54994,UNSTABLE,,Emergency Department
+27167,Wilkin,28.4,(12.4 - 55.8),9,18.8,27.1,Same as Minnesota,31626,UNSTABLE,,Emergency Department
+27169,Winona,19.4,(13.7 - 26.7),41.19,12,26.1,Higher than Minnesota,252887,,,Emergency Department
+27171,Wright,11.6,(9.1  - 14.7),73.43,9.2,13,Same as Minnesota,681319,,,Emergency Department
+27173,Yellow Medicine,22.9,(11.3 - 41.4),11.6,14.3,24.4,Same as Minnesota,48845,UNSTABLE,,Emergency Department
