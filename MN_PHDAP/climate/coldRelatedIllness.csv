@@ -1,0 +1,349 @@
+incident,year,location,rate_ageAdjustdedPerOneHundredThousand,note,count,sex
+Hospitalizations,2010-2019,Houston,0,Unstable rate due to small population,0,Everyone
+Hospitalizations,2010-2019,Cottonwood,1,Unstable rate due to small population,1,Everyone
+Hospitalizations,2010-2019,Jackson,1,Unstable rate due to small population,2,Everyone
+Hospitalizations,2010-2019,Kanabec,1,Unstable rate due to small population,1,Everyone
+Hospitalizations,2010-2019,Lyon,1,Unstable rate due to small population,2,Everyone
+Hospitalizations,2010-2019,Martin,1,Unstable rate due to small population,4,Everyone
+Hospitalizations,2010-2019,Nicollet,1,Unstable rate due to small population,4,Everyone
+Hospitalizations,2010-2019,Roseau,1,Unstable rate due to small population,2,Everyone
+Hospitalizations,2010-2019,Dakota,2,,80,Everyone
+Hospitalizations,2010-2019,Scott,2,,28,Everyone
+Hospitalizations,2010-2019,Wright,2,,28,Everyone
+Hospitalizations,2010-2019,Benton,2,Unstable rate due to small population,6,Everyone
+Hospitalizations,2010-2019,Carver,2,Unstable rate due to small population,19,Everyone
+Hospitalizations,2010-2019,Douglas,2,Unstable rate due to small population,10,Everyone
+Hospitalizations,2010-2019,Freeborn,2,Unstable rate due to small population,8,Everyone
+Hospitalizations,2010-2019,Goodhue,2,Unstable rate due to small population,15,Everyone
+Hospitalizations,2010-2019,Koochiching,2,Unstable rate due to small population,4,Everyone
+Hospitalizations,2010-2019,McLeod,2,Unstable rate due to small population,7,Everyone
+Hospitalizations,2010-2019,Meeker,2,Unstable rate due to small population,5,Everyone
+Hospitalizations,2010-2019,Nobles,2,Unstable rate due to small population,4,Everyone
+Hospitalizations,2010-2019,Pope,2,Unstable rate due to small population,4,Everyone
+Hospitalizations,2010-2019,Rice,2,Unstable rate due to small population,13,Everyone
+Hospitalizations,2010-2019,Sherburne,2,Unstable rate due to small population,19,Everyone
+Hospitalizations,2010-2019,Sibley,2,Unstable rate due to small population,5,Everyone
+Hospitalizations,2010-2019,Steele,2,Unstable rate due to small population,9,Everyone
+Hospitalizations,2010-2019,Watonwan,2,Unstable rate due to small population,3,Everyone
+Hospitalizations,2010-2019,Washington,3,,76,Everyone
+Hospitalizations,2010-2019,Blue Earth,3,Unstable rate due to small population,17,Everyone
+Hospitalizations,2010-2019,Brown,3,Unstable rate due to small population,9,Everyone
+Hospitalizations,2010-2019,Faribault,3,Unstable rate due to small population,4,Everyone
+Hospitalizations,2010-2019,Kandiyohi,3,Unstable rate due to small population,12,Everyone
+Hospitalizations,2010-2019,Le Sueur,3,Unstable rate due to small population,7,Everyone
+Hospitalizations,2010-2019,Morrison,3,Unstable rate due to small population,9,Everyone
+Hospitalizations,2010-2019,Otter Tail,3,Unstable rate due to small population,19,Everyone
+Hospitalizations,2010-2019,Pennington,3,Unstable rate due to small population,5,Everyone
+Hospitalizations,2010-2019,Polk,3,Unstable rate due to small population,8,Everyone
+Hospitalizations,2010-2019,Wabasha,3,Unstable rate due to small population,8,Everyone
+Hospitalizations,2010-2019,Winona,3,Unstable rate due to small population,14,Everyone
+Hospitalizations,2010-2019,Anoka,4,,136,Everyone
+Hospitalizations,2010-2019,Crow Wing,4,,27,Everyone
+Hospitalizations,2010-2019,Olmsted,4,,65,Everyone
+Hospitalizations,2010-2019,Stearns,4,,54,Everyone
+Hospitalizations,2010-2019,Carlton,4,Unstable rate due to small population,16,Everyone
+Hospitalizations,2010-2019,Chippewa,4,Unstable rate due to small population,5,Everyone
+Hospitalizations,2010-2019,Chisago,4,Unstable rate due to small population,19,Everyone
+Hospitalizations,2010-2019,Fillmore,4,Unstable rate due to small population,9,Everyone
+Hospitalizations,2010-2019,Isanti,4,Unstable rate due to small population,17,Everyone
+Hospitalizations,2010-2019,Mille Lacs,4,Unstable rate due to small population,12,Everyone
+Hospitalizations,2010-2019,Mower,4,Unstable rate due to small population,17,Everyone
+Hospitalizations,2010-2019,Renville,4,Unstable rate due to small population,8,Everyone
+Hospitalizations,2010-2019,Todd,4,Unstable rate due to small population,9,Everyone
+Hospitalizations,2010-2019,Wadena,4,Unstable rate due to small population,5,Everyone
+Hospitalizations,2010-2019,Beltrami,5,,23,Everyone
+Hospitalizations,2010-2019,Clay,5,,27,Everyone
+Hospitalizations,2010-2019,Itasca,5,,25,Everyone
+Hospitalizations,2010-2019,Becker,5,Unstable rate due to small population,15,Everyone
+Hospitalizations,2010-2019,Dodge,5,Unstable rate due to small population,10,Everyone
+Hospitalizations,2010-2019,Hubbard,5,Unstable rate due to small population,10,Everyone
+Hospitalizations,2010-2019,Pine,5,Unstable rate due to small population,18,Everyone
+Hospitalizations,2010-2019,Redwood,5,Unstable rate due to small population,9,Everyone
+Hospitalizations,2010-2019,Hennepin,6,,712,Everyone
+Hospitalizations,2010-2019,Ramsey,6,,316,Everyone
+Hospitalizations,2010-2019,St. Louis,6,,126,Everyone
+Hospitalizations,2010-2019,Aitkin,6,Unstable rate due to small population,13,Everyone
+Hospitalizations,2010-2019,Lake,6,Unstable rate due to small population,7,Everyone
+Emergency department visits,2015-2019,Sibley,7,Unstable rate due to small population,8,Everyone
+Hospitalizations,2010-2019,Waseca,7,Unstable rate due to small population,13,Everyone
+Emergency department visits,2015-2019,Benton,8,Unstable rate due to small population,16,Everyone
+Emergency department visits,2015-2019,Nobles,8,Unstable rate due to small population,9,Everyone
+Hospitalizations,2010-2019,Yellow Medicine,8,Unstable rate due to small population,8,Everyone
+Hospitalizations,2010-2019,Cass,9,,30,Everyone
+Emergency department visits,2015-2019,Le Sueur,9,Unstable rate due to small population,12,Everyone
+Emergency department visits,2015-2019,Carver,10,,44,Everyone
+Emergency department visits,2015-2019,Dakota,10,,209,Everyone
+Emergency department visits,2015-2019,Scott,10,,68,Everyone
+Emergency department visits,2015-2019,Wright,10,,62,Everyone
+Emergency department visits,2015-2019,Lyon,11,Unstable rate due to small population,14,Everyone
+Emergency department visits,2015-2019,Nicollet,11,Unstable rate due to small population,19,Everyone
+Emergency department visits,2015-2019,Stevens,11,Unstable rate due to small population,6,Everyone
+Emergency department visits,2015-2019,Watonwan,11,Unstable rate due to small population,9,Everyone
+Emergency department visits,2015-2019,Goodhue,12,,28,Everyone
+Emergency department visits,2015-2019,Sherburne,12,,55,Everyone
+Emergency department visits,2015-2019,Chippewa,12,Unstable rate due to small population,7,Everyone
+Emergency department visits,2015-2019,Blue Earth,13,,42,Everyone
+Emergency department visits,2015-2019,Anoka,14,,237,Everyone
+Emergency department visits,2015-2019,Rice,14,,44,Everyone
+Emergency department visits,2015-2019,Washington,14,,171,Everyone
+Emergency department visits,2015-2019,Fillmore,14,Unstable rate due to small population,13,Everyone
+Emergency department visits,2015-2019,Jackson,14,Unstable rate due to small population,7,Everyone
+Emergency department visits,2015-2019,Meeker,14,Unstable rate due to small population,18,Everyone
+Emergency department visits,2015-2019,Brown,15,,24,Everyone
+Emergency department visits,2015-2019,McLeod,15,,29,Everyone
+Emergency department visits,2015-2019,Winona,15,,35,Everyone
+Emergency department visits,2015-2019,Cottonwood,15,Unstable rate due to small population,10,Everyone
+Emergency department visits,2015-2019,Koochiching,15,Unstable rate due to small population,11,Everyone
+Emergency department visits,2015-2019,Pennington,15,Unstable rate due to small population,11,Everyone
+Emergency department visits,2015-2019,Todd,15,Unstable rate due to small population,19,Everyone
+Emergency department visits,2015-2019,Douglas,16,,27,Everyone
+Emergency department visits,2015-2019,Mower,16,,35,Everyone
+Emergency department visits,2015-2019,Steele,16,,27,Everyone
+Emergency department visits,2015-2019,Martin,16,Unstable rate due to small population,16,Everyone
+Emergency department visits,2015-2019,Faribault,17,Unstable rate due to small population,13,Everyone
+Emergency department visits,2015-2019,Wabasha,17,Unstable rate due to small population,18,Everyone
+Emergency department visits,2015-2019,Waseca,17,Unstable rate due to small population,17,Everyone
+Emergency department visits,2015-2019,Olmsted,18,,136,Everyone
+Emergency department visits,2015-2019,Pipestone,18,Unstable rate due to small population,8,Everyone
+Emergency department visits,2015-2019,Chisago,19,,47,Everyone
+Emergency department visits,2015-2019,Stearns,19,,146,Everyone
+Emergency department visits,2015-2019,Pope,19,Unstable rate due to small population,12,Everyone
+Emergency department visits,2015-2019,Kandiyohi,20,,41,Everyone
+Emergency department visits,2015-2019,Otter Tail,20,,54,Everyone
+Emergency department visits,2015-2019,Polk,20,,34,Everyone
+Emergency department visits,2015-2019,Roseau,20,Unstable rate due to small population,16,Everyone
+Emergency department visits,2015-2019,Crow Wing,21,,59,Everyone
+Emergency department visits,2015-2019,Freeborn,21,,30,Everyone
+Emergency department visits,2015-2019,Redwood,21,Unstable rate due to small population,16,Everyone
+Emergency department visits,2015-2019,Wilkin,21,Unstable rate due to small population,6,Everyone
+Emergency department visits,2015-2019,Swift,22,Unstable rate due to small population,10,Everyone
+Emergency department visits,2015-2019,Clay,23,,73,Everyone
+Emergency department visits,2015-2019,Hubbard,23,,25,Everyone
+Emergency department visits,2015-2019,Rock,23,Unstable rate due to small population,10,Everyone
+Emergency department visits,2015-2019,Carlton,24,,41,Everyone
+Emergency department visits,2015-2019,Dodge,24,,22,Everyone
+Emergency department visits,2015-2019,Isanti,24,,44,Everyone
+Emergency department visits,2015-2019,Kanabec,24,Unstable rate due to small population,19,Everyone
+Emergency department visits,2015-2019,Renville,24,Unstable rate due to small population,19,Everyone
+Emergency department visits,2015-2019,Grant,25,Unstable rate due to small population,9,Everyone
+Emergency department visits,2015-2019,Morrison,26,,43,Everyone
+Emergency department visits,2015-2019,Yellow Medicine,26,Unstable rate due to small population,12,Everyone
+Emergency department visits,2015-2019,Ramsey,27,,743,Everyone
+Emergency department visits,2015-2019,Becker,28,,44,Everyone
+Emergency department visits,2015-2019,Cass,28,,39,Everyone
+Emergency department visits,2015-2019,Hennepin,28,,1779,Everyone
+Emergency department visits,2015-2019,Itasca,28,,65,Everyone
+Emergency department visits,2015-2019,Aitkin,29,,25,Everyone
+Emergency department visits,2015-2019,Murray,29,Unstable rate due to small population,11,Everyone
+Emergency department visits,2015-2019,Norman,29,Unstable rate due to small population,9,Everyone
+Emergency department visits,2015-2019,Marshall,30,Unstable rate due to small population,13,Everyone
+Emergency department visits,2015-2019,Beltrami,33,,73,Everyone
+Emergency department visits,2015-2019,Big Stone,33,Unstable rate due to small population,9,Everyone
+Emergency department visits,2015-2019,Lake,33,Unstable rate due to small population,17,Everyone
+Emergency department visits,2015-2019,Clearwater,34,Unstable rate due to small population,13,Everyone
+Emergency department visits,2015-2019,Wadena,35,,24,Everyone
+Emergency department visits,2015-2019,Lake of the Woods,35,Unstable rate due to small population,7,Everyone
+Emergency department visits,2015-2019,Cook,36,Unstable rate due to small population,9,Everyone
+Emergency department visits,2015-2019,Mille Lacs,37,,44,Everyone
+Emergency department visits,2015-2019,Pine,38,,53,Everyone
+Emergency department visits,2015-2019,St. Louis,40,,376,Everyone
+Emergency department visits,2015-2019,Mahnomen,112,,26,Everyone
+Hospitalizations,2010-2019,Big Stone,*,*Data suppressed for small population,*,Everyone
+Hospitalizations,2010-2019,Clearwater,*,*Data suppressed for small population,*,Everyone
+Hospitalizations,2010-2019,Cook,*,*Data suppressed for small population,*,Everyone
+Hospitalizations,2010-2019,Grant,*,*Data suppressed for small population,*,Everyone
+Emergency department visits,2015-2019,Houston,*,*Data suppressed for small population,*,Everyone
+Emergency department visits,2015-2019,Kittson,*,*Data suppressed for small population,*,Everyone
+Hospitalizations,2010-2019,Kittson,*,*Data suppressed for small population,*,Everyone
+Emergency department visits,2015-2019,Lac qui Parle,*,*Data suppressed for small population,*,Everyone
+Hospitalizations,2010-2019,Lac qui Parle,*,*Data suppressed for small population,*,Everyone
+Hospitalizations,2010-2019,Lake of the Woods,*,*Data suppressed for small population,*,Everyone
+Emergency department visits,2015-2019,Lincoln,*,*Data suppressed for small population,*,Everyone
+Hospitalizations,2010-2019,Lincoln,*,*Data suppressed for small population,*,Everyone
+Hospitalizations,2010-2019,Mahnomen,*,*Data suppressed for small population,*,Everyone
+Hospitalizations,2010-2019,Marshall,*,*Data suppressed for small population,*,Everyone
+Hospitalizations,2010-2019,Murray,*,*Data suppressed for small population,*,Everyone
+Hospitalizations,2010-2019,Norman,*,*Data suppressed for small population,*,Everyone
+Hospitalizations,2010-2019,Pipestone,*,*Data suppressed for small population,*,Everyone
+Emergency department visits,2015-2019,Red Lake,*,*Data suppressed for small population,*,Everyone
+Hospitalizations,2010-2019,Red Lake,*,*Data suppressed for small population,*,Everyone
+Hospitalizations,2010-2019,Rock,*,*Data suppressed for small population,*,Everyone
+Hospitalizations,2010-2019,Stevens,*,*Data suppressed for small population,*,Everyone
+Hospitalizations,2010-2019,Swift,*,*Data suppressed for small population,*,Everyone
+Emergency department visits,2015-2019,Traverse,*,*Data suppressed for small population,*,Everyone
+Hospitalizations,2010-2019,Traverse,*,*Data suppressed for small population,*,Everyone
+Hospitalizations,2010-2019,Wilkin,*,*Data suppressed for small population,*,Everyone
+Deaths,2002,Minnesota,0.2,,12,Everyone
+Deaths,2003,Minnesota,0.3,,17,Everyone
+Deaths,2004,Minnesota,0.4,,19,Everyone
+Deaths,2005,Minnesota,0.3,,13,Everyone
+Deaths,2006,Minnesota,0.2,,12,Everyone
+Deaths,2007,Minnesota,0.2,,13,Everyone
+Deaths,2008,Minnesota,0.7,,39,Everyone
+Deaths,2009,Minnesota,0.7,,37,Everyone
+Deaths,2010,Minnesota,0.7,,39,Everyone
+Deaths,2011,Minnesota,0.5,,28,Everyone
+Deaths,2012,Minnesota,0.6,,33,Everyone
+Deaths,2013,Minnesota,0.8,,44,Everyone
+Deaths,2014,Minnesota,0.8,,46,Everyone
+Deaths,2015,Minnesota,0.4,,26,Everyone
+Deaths,2016,Minnesota,0.7,,44,Everyone
+Deaths,2017,Minnesota,0.8,,52,Everyone
+Deaths,2018,Minnesota,0.8,,52,Everyone
+Deaths,2019,Minnesota,0.9,,62,Everyone
+Deaths,2002,Minnesota,0.2,,,Female
+Deaths,2003,Minnesota,0.3,,,Female
+Deaths,2004,Minnesota,0.2,,,Female
+Deaths,2005,Minnesota,0.1,,,Female
+Deaths,2006,Minnesota,0.2,,,Female
+Deaths,2007,Minnesota,0.1,,,Female
+Deaths,2008,Minnesota,0.4,,,Female
+Deaths,2009,Minnesota,0.4,,,Female
+Deaths,2010,Minnesota,0.2,,,Female
+Deaths,2011,Minnesota,0.3,,,Female
+Deaths,2012,Minnesota,0.3,,,Female
+Deaths,2013,Minnesota,0.4,,,Female
+Deaths,2014,Minnesota,0.7,,,Female
+Deaths,2015,Minnesota,0.2,,,Female
+Deaths,2016,Minnesota,0.4,,,Female
+Deaths,2017,Minnesota,0.3,,,Female
+Deaths,2018,Minnesota,0.6,,,Female
+Deaths,2019,Minnesota,0.5,,,Female
+Deaths,2002,Minnesota,0.2,,,Male
+Deaths,2003,Minnesota,0.4,,,Male
+Deaths,2004,Minnesota,0.5,,,Male
+Deaths,2005,Minnesota,0.4,,,Male
+Deaths,2006,Minnesota,0.2,,,Male
+Deaths,2007,Minnesota,0.4,,,Male
+Deaths,2008,Minnesota,1,,,Male
+Deaths,2009,Minnesota,1,,,Male
+Deaths,2010,Minnesota,1.2,,,Male
+Deaths,2011,Minnesota,0.7,,,Male
+Deaths,2012,Minnesota,0.8,,,Male
+Deaths,2013,Minnesota,1.1,,,Male
+Deaths,2014,Minnesota,0.9,,,Male
+Deaths,2015,Minnesota,0.7,,,Male
+Deaths,2016,Minnesota,1.1,,,Male
+Deaths,2017,Minnesota,1.3,,,Male
+Deaths,2018,Minnesota,1,,,Male
+Deaths,2019,Minnesota,1.4,,,Male
+ED visits,2000,Minnesota,9.5,,473,Everyone
+ED visits,2001,Minnesota,8.2,,413,Everyone
+ED visits,2002,Minnesota,7.5,,377,Everyone
+ED visits,2003,Minnesota,11.1,,562,Everyone
+ED visits,2004,Minnesota,12,,615,Everyone
+ED visits,2005,Minnesota,6.5,,339,Everyone
+ED visits,2006,Minnesota,6.4,,334,Everyone
+ED visits,2007,Minnesota,13.2,,690,Everyone
+ED visits,2008,Minnesota,16.1,,849,Everyone
+ED visits,2009,Minnesota,13.2,,707,Everyone
+ED visits,2010,Minnesota,13.7,,728,Everyone
+ED visits,2011,Minnesota,11.8,,629,Everyone
+ED visits,2012,Minnesota,7.8,,425,Everyone
+ED visits,2013,Minnesota,19,,1010,Everyone
+ED visits,2014,Minnesota,26.7,,1425,Everyone
+ED visits,2015,Minnesota,12,,656,Everyone
+ED visits,2016,Minnesota,16.1,,876,Everyone
+ED visits,2017,Minnesota,17.2,,940,Everyone
+ED visits,2018,Minnesota,24.4,,1330,Everyone
+ED visits,2019,Minnesota,41.9,,2386,Everyone
+ED visits,2000,Minnesota,5.4,,,Female
+ED visits,2001,Minnesota,4.6,,,Female
+ED visits,2002,Minnesota,4.3,,,Female
+ED visits,2003,Minnesota,5.6,,,Female
+ED visits,2004,Minnesota,6.8,,,Female
+ED visits,2005,Minnesota,3.7,,,Female
+ED visits,2006,Minnesota,3.8,,,Female
+ED visits,2007,Minnesota,7.9,,,Female
+ED visits,2008,Minnesota,10.7,,,Female
+ED visits,2009,Minnesota,8.9,,,Female
+ED visits,2010,Minnesota,9,,,Female
+ED visits,2011,Minnesota,8,,,Female
+ED visits,2012,Minnesota,5.1,,,Female
+ED visits,2013,Minnesota,11.5,,,Female
+ED visits,2014,Minnesota,16.5,,,Female
+ED visits,2015,Minnesota,8,,,Female
+ED visits,2016,Minnesota,8.8,,,Female
+ED visits,2017,Minnesota,10.1,,,Female
+ED visits,2018,Minnesota,13.4,,,Female
+ED visits,2019,Minnesota,22.9,,,Female
+ED visits,2000,Minnesota,13.6,,,Male
+ED visits,2001,Minnesota,11.9,,,Male
+ED visits,2002,Minnesota,10.7,,,Male
+ED visits,2003,Minnesota,16.6,,,Male
+ED visits,2004,Minnesota,17.2,,,Male
+ED visits,2005,Minnesota,9.4,,,Male
+ED visits,2006,Minnesota,9.2,,,Male
+ED visits,2007,Minnesota,18.4,,,Male
+ED visits,2008,Minnesota,21.6,,,Male
+ED visits,2009,Minnesota,17.8,,,Male
+ED visits,2010,Minnesota,18.5,,,Male
+ED visits,2011,Minnesota,15.7,,,Male
+ED visits,2012,Minnesota,10.7,,,Male
+ED visits,2013,Minnesota,26.5,,,Male
+ED visits,2014,Minnesota,36.9,,,Male
+ED visits,2015,Minnesota,15.9,,,Male
+ED visits,2016,Minnesota,23.4,,,Male
+ED visits,2017,Minnesota,24.3,,,Male
+ED visits,2018,Minnesota,35.2,,,Male
+ED visits,2019,Minnesota,60.9,,,Male
+Hospitalizations,2000,Minnesota,1.9,,95,Everyone
+Hospitalizations,2001,Minnesota,2,,101,Everyone
+Hospitalizations,2002,Minnesota,1.8,,89,Everyone
+Hospitalizations,2003,Minnesota,2.9,,147,Everyone
+Hospitalizations,2004,Minnesota,2.1,,111,Everyone
+Hospitalizations,2005,Minnesota,2.8,,149,Everyone
+Hospitalizations,2006,Minnesota,1.7,,93,Everyone
+Hospitalizations,2007,Minnesota,2.3,,122,Everyone
+Hospitalizations,2008,Minnesota,3.4,,188,Everyone
+Hospitalizations,2009,Minnesota,2.8,,156,Everyone
+Hospitalizations,2010,Minnesota,3,,164,Everyone
+Hospitalizations,2011,Minnesota,2.8,,157,Everyone
+Hospitalizations,2012,Minnesota,1.6,,88,Everyone
+Hospitalizations,2013,Minnesota,3.5,,196,Everyone
+Hospitalizations,2014,Minnesota,4.3,,244,Everyone
+Hospitalizations,2015,Minnesota,2.4,,138,Everyone
+Hospitalizations,2016,Minnesota,3.2,,178,Everyone
+Hospitalizations,2017,Minnesota,4,,220,Everyone
+Hospitalizations,2018,Minnesota,5.4,,304,Everyone
+Hospitalizations,2019,Minnesota,11.4,,692,Everyone
+Hospitalizations,2000,Minnesota,1.3,,,Female
+Hospitalizations,2001,Minnesota,1.2,,,Female
+Hospitalizations,2002,Minnesota,1.1,,,Female
+Hospitalizations,2003,Minnesota,1.7,,,Female
+Hospitalizations,2004,Minnesota,1.6,,,Female
+Hospitalizations,2005,Minnesota,1.8,,,Female
+Hospitalizations,2006,Minnesota,1,,,Female
+Hospitalizations,2007,Minnesota,1.3,,,Female
+Hospitalizations,2008,Minnesota,2.4,,,Female
+Hospitalizations,2009,Minnesota,2.2,,,Female
+Hospitalizations,2010,Minnesota,1.9,,,Female
+Hospitalizations,2011,Minnesota,1.9,,,Female
+Hospitalizations,2012,Minnesota,1,,,Female
+Hospitalizations,2013,Minnesota,1.9,,,Female
+Hospitalizations,2014,Minnesota,2.3,,,Female
+Hospitalizations,2015,Minnesota,1.4,,,Female
+Hospitalizations,2016,Minnesota,1.5,,,Female
+Hospitalizations,2017,Minnesota,2.2,,,Female
+Hospitalizations,2018,Minnesota,2.6,,,Female
+Hospitalizations,2019,Minnesota,6.4,,,Female
+Hospitalizations,2000,Minnesota,2.7,,,Male
+Hospitalizations,2001,Minnesota,3,,,Male
+Hospitalizations,2002,Minnesota,2.5,,,Male
+Hospitalizations,2003,Minnesota,4.2,,,Male
+Hospitalizations,2004,Minnesota,2.7,,,Male
+Hospitalizations,2005,Minnesota,3.9,,,Male
+Hospitalizations,2006,Minnesota,2.6,,,Male
+Hospitalizations,2007,Minnesota,3.2,,,Male
+Hospitalizations,2008,Minnesota,4.6,,,Male
+Hospitalizations,2009,Minnesota,3.6,,,Male
+Hospitalizations,2010,Minnesota,4.1,,,Male
+Hospitalizations,2011,Minnesota,3.9,,,Male
+Hospitalizations,2012,Minnesota,2.1,,,Male
+Hospitalizations,2013,Minnesota,5.1,,,Male
+Hospitalizations,2014,Minnesota,6.4,,,Male
+Hospitalizations,2015,Minnesota,3.3,,,Male
+Hospitalizations,2016,Minnesota,4.8,,,Male
+Hospitalizations,2017,Minnesota,5.9,,,Male
+Hospitalizations,2018,Minnesota,8.1,,,Male
+Hospitalizations,2019,Minnesota,16.5,,,Male
