@@ -42,7 +42,7 @@ To protect an individual's privacy hospitalizations and ED visit counts from 1 t
 UR = Unstable Rate. Rates based on numerators less than or equal to 20 may be unstable and should be interpreted with caution.  
 Person-years is equal to the sum of the population for each year.
 
-## **Diabetes currently does not have data to download**  https://data.web.health.state.mn.us/diabetes
+## **Diabetes as of 10/01/2024 does not have data to download**  https://data.web.health.state.mn.us/diabetes
 
 ## Heart Attack  https://data.web.health.state.mn.us/mci
 To protect an individual's privacy hospitalizations and ED visit counts from 1 to 5 are suppressed if the underlying population is less than or equal to 100000.  
