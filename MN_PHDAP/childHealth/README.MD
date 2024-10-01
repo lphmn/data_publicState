@@ -7,7 +7,7 @@ As I am not the data steward, I will need to ensure that any updates or edits to
 
 ## Birth Defects can be found at the [diseasesConditions repository](https://github.com/quincountychsmn/MN_PublicData/tree/main/MN_PHDAP/diseasesConditions)
 
-## Childhood Lead Exposure can be found at the [healthHomes repository](https://github.com/quincountychsmn/MN_PublicData/tree/main/MN_PHDAP/healthyHomes)
+## Childhood Lead Exposure can be found at the [healthyHomes repository](https://github.com/quincountychsmn/MN_PublicData/tree/main/MN_PHDAP/healthyHomes)
 
 ## Free/Reduced Price Lunch Eligibility can be found at the [diseasesConditions repository](https://github.com/quincountychsmn/MN_PublicData/tree/main/MN_PHDAP/diseasesConditions)
 
