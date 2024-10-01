@@ -1,4 +1,4 @@
-birth_cohort,region,body_system,condition,maternal_raceEthnicity,prevalencePerTenThousandLiveBirths,countOfCasesFiveYears,countOfLiveBirthsFiveYear
+birth_cohort,region,body _system,condition,maternal_raceEthnicity,prevalence_per_tenThousand_live_births,count_of_cases_5_years,count_of_live_births_5_years
 2014-2018,Central,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,3.5,16,45567
 2014-2018,Central,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,21.5,98,45567
 2014-2018,Central,Cardiovascular (Heart),Atrioventricular septal defect,All races/ethnicities combined,5.9,27,45567
