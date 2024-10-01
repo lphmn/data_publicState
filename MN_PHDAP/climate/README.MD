@@ -4,3 +4,6 @@ As I am not the data steward, I will need to ensure that any updates or edits to
 **My wishlist is that MN data stewards begin storing their publicly available data in a friendlier manner.**
 
 ## Air Quality https://data.web.health.state.mn.us/air  
+**The data for the Air Quality is not up to date compared to the charts shared on the Public Health Data Access Portal which is why there is no CSV regarding this data**
+
+
