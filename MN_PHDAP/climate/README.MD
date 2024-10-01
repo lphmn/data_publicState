@@ -12,6 +12,9 @@ This data set did not have reference after downloading the data but information 
 ## Climate-related environmental health concerns as of 10/01/2024 does not have data to download  
 https://data.web.health.state.mn.us/web/mndata/climate-and-health
 
-## Heat-related illness Emergency Department/Hospitalization visits and deaths can be found at the 
-[diseasesConditions repository](https://github.com/quincountychsmn/MN_PublicData/tree/main/MN_PHDAP/diseasesConditions)
+## Heat-related illness Emergency Department/Hospitalization visits and deaths can be found at the  
+[diseasesConditions repository](https://github.com/quincountychsmn/MN_PublicData/tree/main/MN_PHDAP/diseasesConditions)  
 This hot weather data set did not have reference after downloading it but information about the data can be found [HERE](https://data.web.health.state.mn.us/hot_weather)
+
+## Pollen as of 10/01/2024 does not have data to download  
+https://data.web.health.state.mn.us/pollen
