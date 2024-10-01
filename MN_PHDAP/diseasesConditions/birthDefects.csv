@@ -1,0 +1,712 @@
+birth_cohort,region,body_system,condition,maternal_raceEthnicity,prevalencePerTenThousandLiveBirths,countOfCasesFiveYears,countOfLiveBirthsFiveYear
+2014-2018,Central,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,3.5,16,45567
+2014-2018,Central,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,21.5,98,45567
+2014-2018,Central,Cardiovascular (Heart),Atrioventricular septal defect,All races/ethnicities combined,5.9,27,45567
+2013-2017,Northwest,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,1.2,1,8557
+2014-2018,Central,Cardiovascular (Heart),Coarctation of aorta,All races/ethnicities combined,7,32,45567
+2014-2018,Central,Cardiovascular (Heart),Common truncus,All races/ethnicities combined,0.9,4,45567
+2014-2018,Central,Cardiovascular (Heart),Double outlet right ventricle,All races/ethnicities combined,2.6,12,45567
+2014-2018,Central,Cardiovascular (Heart),Ebstein anomaly,All races/ethnicities combined,0.7,3,45567
+2014-2018,Central,Cardiovascular (Heart),Hypoplastic left heart syndrome,All races/ethnicities combined,1.5,7,45567
+2014-2018,Central,Cardiovascular (Heart),Pulmonary valve atresia and stenosis,All races/ethnicities combined,13.2,60,45567
+2014-2018,Central,Cardiovascular (Heart),Single ventricle,All races/ethnicities combined,0.9,4,45567
+2013-2017,Minnesota,Central Nervous System (Brain and Spinal Cord),Anencephalus,All races/ethnicities combined,0.8,26,333817
+2014-2018,Central,Cardiovascular (Heart),Tetralogy of Fallot,All races/ethnicities combined,4.2,19,45567
+2014-2018,Central,Cardiovascular (Heart),Total anomalous pulmonary venous connection,All races/ethnicities combined,0.9,4,45567
+2014-2018,Central,Cardiovascular (Heart),Transposition of the great arteries,All races/ethnicities combined,4.6,21,45567
+2014-2018,Central,Cardiovascular (Heart),Tricuspid valve atresia and stenosis,All races/ethnicities combined,1.5,7,45567
+2014-2018,Central,Cardiovascular (Heart),Ventricular septal defect,All races/ethnicities combined,61.2,279,45567
+2014-2018,Central,Central Nervous System (Brain and Spinal Cord),Anencephalus,All races/ethnicities combined,1.3,6,45567
+2014-2018,Central,Central Nervous System (Brain and Spinal Cord),Encephalocele,All races/ethnicities combined,0.7,3,45567
+2014-2018,Central,Central Nervous System (Brain and Spinal Cord),Spina bifida without anencephalus,All races/ethnicities combined,5.3,24,45567
+2014-2018,Central,Chromosomal,Trisomy 13,All races/ethnicities combined,1.1,5,45567
+2014-2018,Central,Chromosomal,Trisomy 18,All races/ethnicities combined,2.2,10,45567
+2014-2018,Central,Chromosomal,Trisomy 21 (Down syndrome),All races/ethnicities combined,16.9,77,45567
+2014-2018,Central,Ear,Anotia/microtia,All races/ethnicities combined,1.5,7,45567
+2014-2018,Central,Eye,Anophthalmia/microphthalmia,All races/ethnicities combined,1.8,8,45567
+2014-2018,Central,Eye,Congenital cataract,All races/ethnicities combined,2.9,13,45567
+2014-2018,Central,Gastrointestinal (Digestive Tract),Biliary atresia,All races/ethnicities combined,0.2,1,45567
+2014-2018,Central,Gastrointestinal (Digestive Tract),Espophageal atresia/tracheoesophageal fistula,All races/ethnicities combined,1.5,7,45567
+2014-2018,Central,Gastrointestinal (Digestive Tract),Rectal and large intestinal atresia/stenosis,All races/ethnicities combined,4,18,45567
+2014-2018,Central,Genitourinary (Genitals and Urinary Tract),Bladder exstrophy,All races/ethnicities combined,0,0,45567
+2014-2018,Central,Genitourinary (Genitals and Urinary Tract),Congenital posterior urethral valves,All races/ethnicities combined,1.7,4,23485
+2014-2018,Central,Genitourinary (Genitals and Urinary Tract),Hypospadias,All races/ethnicities combined,82.2,193,23485
+2014-2018,Central,Genitourinary (Genitals and Urinary Tract),Renal agenesis/hypoplasia,All races/ethnicities combined,7.2,33,45567
+2014-2018,Central,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,3.5,16,45567
+2014-2018,Central,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,5,23,45567
+2013-2017,Northwest,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,50.3,43,8557
+2014-2018,Central,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,3.7,17,45567
+2014-2018,Central,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,1.3,6,45567
+2014-2018,Central,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,1.1,5,45567
+2014-2018,Central,Orofacial (Mouth, Jaw, and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,3.7,17,45567
+2014-2018,Central,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,6.1,28,45567
+2014-2018,Central,Orofacial (Mouth, Jaw, and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,7.5,34,45567
+2014-2018,Metro,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,2.2,43,196126
+2013-2017,Minnesota,Eye,Anophthalmia/microphthalmia,All races/ethnicities combined,1.6,52,333817
+2014-2018,Metro,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,19.7,386,196126
+2014-2018,Metro,Cardiovascular (Heart),Atrioventricular septal defect,All races/ethnicities combined,5.1,100,196126
+2014-2018,Metro,Cardiovascular (Heart),Coarctation of aorta,All races/ethnicities combined,4.5,88,196126
+2014-2018,Metro,Cardiovascular (Heart),Common truncus,All races/ethnicities combined,0.6,12,196126
+2014-2018,Metro,Cardiovascular (Heart),Double outlet right ventricle,All races/ethnicities combined,1.9,37,196126
+2014-2018,Metro,Cardiovascular (Heart),Ebstein anomaly,All races/ethnicities combined,0.6,11,196126
+2014-2018,Metro,Cardiovascular (Heart),Hypoplastic left heart syndrome,All races/ethnicities combined,1.8,36,196126
+2014-2018,Metro,Cardiovascular (Heart),Pulmonary valve atresia and stenosis,All races/ethnicities combined,13.4,262,196126
+2014-2018,Metro,Cardiovascular (Heart),Single ventricle,All races/ethnicities combined,0.5,9,196126
+2014-2018,Metro,Cardiovascular (Heart),Tetralogy of Fallot,All races/ethnicities combined,3.7,73,196126
+2014-2018,Metro,Cardiovascular (Heart),Total anomalous pulmonary venous connection,All races/ethnicities combined,1.4,28,196126
+2014-2018,Metro,Cardiovascular (Heart),Transposition of the great arteries,All races/ethnicities combined,2.3,45,196126
+2014-2018,Metro,Cardiovascular (Heart),Tricuspid valve atresia and stenosis,All races/ethnicities combined,0.8,15,196126
+2014-2018,Metro,Cardiovascular (Heart),Ventricular septal defect,All races/ethnicities combined,70.1,1374,196126
+2014-2018,Metro,Central Nervous System (Brain and Spinal Cord),Anencephalus,All races/ethnicities combined,0.7,14,196126
+2014-2018,Metro,Central Nervous System (Brain and Spinal Cord),Encephalocele,All races/ethnicities combined,0.8,15,196126
+2014-2018,Metro,Central Nervous System (Brain and Spinal Cord),Spina bifida without anencephalus,All races/ethnicities combined,2.3,46,196126
+2014-2018,Metro,Chromosomal,Trisomy 13,All races/ethnicities combined,1,19,196126
+2014-2018,Metro,Chromosomal,Trisomy 18,All races/ethnicities combined,2,39,196126
+2014-2018,Metro,Chromosomal,Trisomy 21 (Down syndrome),All races/ethnicities combined,16.1,316,196126
+2014-2018,Metro,Ear,Anotia/microtia,All races/ethnicities combined,3.5,68,196126
+2014-2018,Metro,Eye,Anophthalmia/microphthalmia,All races/ethnicities combined,1.8,36,196126
+2014-2018,Metro,Eye,Congenital cataract,All races/ethnicities combined,3.5,68,196126
+2014-2018,Northwest,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,2.4,2,8344
+2014-2018,Metro,Gastrointestinal (Digestive Tract),Biliary atresia,All races/ethnicities combined,0.4,8,196126
+2014-2018,Metro,Gastrointestinal (Digestive Tract),Espophageal atresia/tracheoesophageal fistula,All races/ethnicities combined,2.8,54,196126
+2014-2018,Metro,Gastrointestinal (Digestive Tract),Rectal and large intestinal atresia/stenosis,All races/ethnicities combined,3.7,73,196126
+2014-2018,Metro,Genitourinary (Genitals and Urinary Tract),Bladder exstrophy,All races/ethnicities combined,0.2,4,196126
+2014-2018,Metro,Genitourinary (Genitals and Urinary Tract),Congenital posterior urethral valves,All races/ethnicities combined,2.7,27,99945
+2014-2018,Metro,Genitourinary (Genitals and Urinary Tract),Hypospadias,All races/ethnicities combined,68.6,686,99945
+2014-2018,Metro,Genitourinary (Genitals and Urinary Tract),Renal agenesis/hypoplasia,All races/ethnicities combined,6,117,196126
+2013-2017,Minnesota,Ear,Anotia/microtia,All races/ethnicities combined,3.2,106,333817
+2014-2018,Metro,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,2.7,52,196126
+2014-2018,Metro,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,2.3,45,196126
+2014-2018,Metro,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,3.2,63,196126
+2014-2018,Metro,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,2.1,41,196126
+2014-2018,Metro,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,1.2,23,196126
+2014-2018,Metro,Orofacial (Mouth, Jaw, and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,2.8,55,196126
+2014-2018,Metro,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,5.8,114,196126
+2014-2018,Metro,Orofacial (Mouth, Jaw, and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,6.9,135,196126
+2014-2018,Minnesota,Central Nervous System (Brain and Spinal Cord),Anencephalus,All races/ethnicities combined,0.9,30,331901
+2014-2018,Minnesota,Eye,Anophthalmia/microphthalmia,All races/ethnicities combined,1.5,51,331901
+2014-2018,Minnesota,Ear,Anotia/microtia,All races/ethnicities combined,3,101,331901
+2014-2018,Minnesota,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,2.3,75,331901
+2014-2018,Minnesota,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,25.9,859,331901
+2014-2018,Minnesota,Cardiovascular (Heart),Atrioventricular septal defect,All races/ethnicities combined,5.3,176,331901
+2014-2018,Minnesota,Gastrointestinal (Digestive Tract),Biliary atresia,All races/ethnicities combined,0.4,14,331901
+2014-2018,Minnesota,Genitourinary (Genitals and Urinary Tract),Bladder exstrophy,All races/ethnicities combined,0.2,7,331901
+2014-2018,Minnesota,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,1.2,39,331901
+2014-2018,Minnesota,Orofacial (Mouth, Jaw, and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,3,101,331901
+2014-2018,Minnesota,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,5.9,197,331901
+2014-2018,Minnesota,Orofacial (Mouth, Jaw, and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,7,233,331901
+2014-2018,Minnesota,Cardiovascular (Heart),Coarctation of aorta,All races/ethnicities combined,5.4,180,331901
+2014-2018,Minnesota,Cardiovascular (Heart),Common truncus,All races/ethnicities combined,0.6,20,331901
+2014-2018,Minnesota,Eye,Congenital cataract,All races/ethnicities combined,3.1,103,331901
+2014-2018,Northwest,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,63.5,53,8344
+2014-2018,Minnesota,Genitourinary (Genitals and Urinary Tract),Congenital posterior urethral valves,All races/ethnicities combined,2.3,39,169481
+2014-2018,Minnesota,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,3,100,331901
+2014-2018,Minnesota,Cardiovascular (Heart),Double outlet right ventricle,All races/ethnicities combined,2.1,70,331901
+2014-2018,Minnesota,Cardiovascular (Heart),Ebstein anomaly,All races/ethnicities combined,0.6,19,331901
+2014-2018,Minnesota,Central Nervous System (Brain and Spinal Cord),Encephalocele,All races/ethnicities combined,0.7,24,331901
+2014-2018,Minnesota,Gastrointestinal (Digestive Tract),Espophageal atresia/tracheoesophageal fistula,All races/ethnicities combined,2.8,92,331901
+2014-2018,Minnesota,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,3,98,331901
+2013-2017,Minnesota,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,2.2,73,333817
+2014-2018,Minnesota,Cardiovascular (Heart),Hypoplastic left heart syndrome,All races/ethnicities combined,2,65,331901
+2014-2018,Minnesota,Genitourinary (Genitals and Urinary Tract),Hypospadias,All races/ethnicities combined,71.7,1216,169481
+2014-2018,Minnesota,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,3.6,120,331901
+2014-2018,Minnesota,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,1.8,61,331901
+2014-2018,Minnesota,Cardiovascular (Heart),Pulmonary valve atresia and stenosis,All races/ethnicities combined,13.4,445,331901
+2014-2018,Minnesota,Gastrointestinal (Digestive Tract),Rectal and large intestinal atresia/stenosis,All races/ethnicities combined,4.3,144,331901
+2014-2018,Minnesota,Genitourinary (Genitals and Urinary Tract),Renal agenesis/hypoplasia,All races/ethnicities combined,6.3,210,331901
+2014-2018,Minnesota,Cardiovascular (Heart),Single ventricle,All races/ethnicities combined,0.5,18,331901
+2014-2018,Minnesota,Central Nervous System (Brain and Spinal Cord),Spina bifida without anencephalus,All races/ethnicities combined,2.9,96,331901
+2014-2018,Minnesota,Cardiovascular (Heart),Tetralogy of Fallot,All races/ethnicities combined,4.2,139,331901
+2014-2018,Minnesota,Cardiovascular (Heart),Total anomalous pulmonary venous connection,All races/ethnicities combined,1.4,47,331901
+2014-2018,Minnesota,Cardiovascular (Heart),Transposition of the great arteries,All races/ethnicities combined,2.9,97,331901
+2014-2018,Minnesota,Cardiovascular (Heart),Tricuspid valve atresia and stenosis,All races/ethnicities combined,1.1,35,331901
+2014-2018,Minnesota,Chromosomal,Trisomy 13,All races/ethnicities combined,0.9,31,331901
+2014-2018,Minnesota,Chromosomal,Trisomy 18,All races/ethnicities combined,1.9,63,331901
+2014-2018,Minnesota,Chromosomal,Trisomy 21 (Down syndrome),All races/ethnicities combined,15.6,518,331901
+2014-2018,Minnesota,Cardiovascular (Heart),Ventricular septal defect,All races/ethnicities combined,66.9,2219,331901
+2014-2018,Northeast,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,2.5,4,15715
+2014-2018,Northeast,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,36.3,57,15715
+2014-2018,Northeast,Cardiovascular (Heart),Atrioventricular septal defect,All races/ethnicities combined,5.1,8,15715
+2014-2018,Northeast,Cardiovascular (Heart),Coarctation of aorta,All races/ethnicities combined,4.5,7,15715
+2014-2018,Northeast,Cardiovascular (Heart),Common truncus,All races/ethnicities combined,0.6,1,15715
+2014-2018,Northeast,Cardiovascular (Heart),Double outlet right ventricle,All races/ethnicities combined,3.2,5,15715
+2014-2018,Northwest,Cardiovascular (Heart),Atrioventricular septal defect,All races/ethnicities combined,2.4,2,8344
+2014-2018,Northeast,Cardiovascular (Heart),Ebstein anomaly,All races/ethnicities combined,0.6,1,15715
+2014-2018,Northeast,Cardiovascular (Heart),Hypoplastic left heart syndrome,All races/ethnicities combined,2.5,4,15715
+2014-2018,Northeast,Cardiovascular (Heart),Pulmonary valve atresia and stenosis,All races/ethnicities combined,15.3,24,15715
+2014-2018,Northeast,Cardiovascular (Heart),Single ventricle,All races/ethnicities combined,0,0,15715
+2014-2018,Northeast,Cardiovascular (Heart),Tetralogy of Fallot,All races/ethnicities combined,6.4,10,15715
+2014-2018,Northeast,Cardiovascular (Heart),Total anomalous pulmonary venous connection,All races/ethnicities combined,3.2,5,15715
+2014-2018,Northeast,Cardiovascular (Heart),Transposition of the great arteries,All races/ethnicities combined,4.5,7,15715
+2013-2017,Minnesota,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,24.8,828,333817
+2014-2018,Northeast,Cardiovascular (Heart),Tricuspid valve atresia and stenosis,All races/ethnicities combined,0.6,1,15715
+2014-2018,Northeast,Cardiovascular (Heart),Ventricular septal defect,All races/ethnicities combined,64.3,101,15715
+2014-2018,Northeast,Central Nervous System (Brain and Spinal Cord),Anencephalus,All races/ethnicities combined,1.9,3,15715
+2014-2018,Northeast,Central Nervous System (Brain and Spinal Cord),Encephalocele,All races/ethnicities combined,0,0,15715
+2014-2018,Northeast,Central Nervous System (Brain and Spinal Cord),Spina bifida without anencephalus,All races/ethnicities combined,1.9,3,15715
+2014-2018,Northeast,Chromosomal,Trisomy 13,All races/ethnicities combined,1.3,2,15715
+2014-2018,Northeast,Chromosomal,Trisomy 18,All races/ethnicities combined,1.3,2,15715
+2014-2018,Northeast,Chromosomal,Trisomy 21 (Down syndrome),All races/ethnicities combined,13.4,21,15715
+2014-2018,Northeast,Ear,Anotia/microtia,All races/ethnicities combined,3.2,5,15715
+2014-2018,Northeast,Eye,Anophthalmia/microphthalmia,All races/ethnicities combined,1.3,2,15715
+2014-2018,Northeast,Eye,Congenital cataract,All races/ethnicities combined,1.3,2,15715
+2014-2018,Northeast,Gastrointestinal (Digestive Tract),Biliary atresia,All races/ethnicities combined,0,0,15715
+2014-2018,Northeast,Gastrointestinal (Digestive Tract),Espophageal atresia/tracheoesophageal fistula,All races/ethnicities combined,7.6,12,15715
+2014-2018,Northeast,Gastrointestinal (Digestive Tract),Rectal and large intestinal atresia/stenosis,All races/ethnicities combined,3.2,5,15715
+2014-2018,Northeast,Genitourinary (Genitals and Urinary Tract),Bladder exstrophy,All races/ethnicities combined,0,0,15715
+2014-2018,Northeast,Genitourinary (Genitals and Urinary Tract),Congenital posterior urethral valves,All races/ethnicities combined,0,0,8024
+2014-2018,Northeast,Genitourinary (Genitals and Urinary Tract),Hypospadias,All races/ethnicities combined,84.7,68,8024
+2014-2018,Northeast,Genitourinary (Genitals and Urinary Tract),Renal agenesis/hypoplasia,All races/ethnicities combined,7,11,15715
+2014-2018,Northeast,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,4.5,7,15715
+2014-2018,Northeast,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,3.2,5,15715
+2014-2018,Northeast,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,5.1,8,15715
+2014-2018,Northeast,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,3.8,6,15715
+2014-2018,Northeast,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,0.6,1,15715
+2014-2018,Northeast,Orofacial (Mouth, Jaw, and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,2.5,4,15715
+2014-2018,Northeast,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,3.8,6,15715
+2014-2018,Northeast,Orofacial (Mouth, Jaw, and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,8.9,14,15715
+2014-2018,Northwest,Cardiovascular (Heart),Coarctation of aorta,All races/ethnicities combined,8.4,7,8344
+2013-2017,Northwest,Cardiovascular (Heart),Atrioventricular septal defect (Endocardial cushion defect),All races/ethnicities combined,4.7,4,8557
+2014-2018,Northwest,Cardiovascular (Heart),Common truncus,All races/ethnicities combined,0,0,8344
+2014-2018,Northwest,Cardiovascular (Heart),Double outlet right ventricle,All races/ethnicities combined,0,0,8344
+2014-2018,Northwest,Cardiovascular (Heart),Ebstein anomaly,All races/ethnicities combined,1.2,1,8344
+2014-2018,Northwest,Cardiovascular (Heart),Hypoplastic left heart syndrome,All races/ethnicities combined,3.6,3,8344
+2014-2018,Northwest,Cardiovascular (Heart),Pulmonary valve atresia and stenosis,All races/ethnicities combined,13.2,11,8344
+2014-2018,Northwest,Cardiovascular (Heart),Single ventricle,All races/ethnicities combined,1.2,1,8344
+2014-2018,Northwest,Cardiovascular (Heart),Tetralogy of Fallot,All races/ethnicities combined,3.6,3,8344
+2014-2018,Northwest,Cardiovascular (Heart),Total anomalous pulmonary venous connection,All races/ethnicities combined,1.2,1,8344
+2014-2018,Northwest,Cardiovascular (Heart),Transposition of the great arteries,All races/ethnicities combined,4.8,4,8344
+2014-2018,Northwest,Cardiovascular (Heart),Tricuspid valve atresia and stenosis,All races/ethnicities combined,2.4,2,8344
+2014-2018,Northwest,Cardiovascular (Heart),Ventricular septal defect,All races/ethnicities combined,65.9,55,8344
+2013-2017,Northwest,Cardiovascular (Heart),Coarctation of aorta,All races/ethnicities combined,7,6,8557
+2013-2017,Northwest,Cardiovascular (Heart),Common truncus (Truncus arteriosus),All races/ethnicities combined,0,0,8557
+2013-2017,Northwest,Cardiovascular (Heart),Double outlet right ventricle,All races/ethnicities combined,2.3,2,8557
+2013-2017,Northwest,Cardiovascular (Heart),Ebstein anomaly,All races/ethnicities combined,1.2,1,8557
+2013-2017,Northwest,Cardiovascular (Heart),Hypoplastic left heart syndrome,All races/ethnicities combined,4.7,4,8557
+2013-2017,Northwest,Cardiovascular (Heart),Pulmonary valve atresia,All races/ethnicities combined,3.5,3,8557
+2013-2017,Northwest,Cardiovascular (Heart),Pulmonary valve atresia and stenosis,All races/ethnicities combined,12.9,11,8557
+2013-2017,Northwest,Cardiovascular (Heart),Single ventricle,All races/ethnicities combined,1.2,1,8557
+2013-2017,Minnesota,Cardiovascular (Heart),Atrioventricular septal defect (Endocardial cushion defect),All races/ethnicities combined,5.6,188,333817
+2013-2017,Northwest,Cardiovascular (Heart),Tetralogy of Fallot,All races/ethnicities combined,2.3,2,8557
+2013-2017,Northwest,Cardiovascular (Heart),Total anomalous pulmonary venous connection,All races/ethnicities combined,2.3,2,8557
+2013-2017,Northwest,Cardiovascular (Heart),Transposition of the great arteries (TGA),All races/ethnicities combined,4.7,4,8557
+2013-2017,Northwest,Cardiovascular (Heart),Tricuspid valve atresia,All races/ethnicities combined,1.2,1,8557
+2013-2017,Northwest,Cardiovascular (Heart),Ventricular septal defect,All races/ethnicities combined,60.8,52,8557
+2013-2017,Northwest,Central Nervous System (Brain and Spinal Cord),Anencephalus,All races/ethnicities combined,1.2,1,8557
+2014-2018,Northwest,Central Nervous System (Brain and Spinal Cord),Anencephalus,All races/ethnicities combined,1.2,1,8344
+2014-2018,Northwest,Central Nervous System (Brain and Spinal Cord),Encephalocele,All races/ethnicities combined,0,0,8344
+2014-2018,Northwest,Central Nervous System (Brain and Spinal Cord),Spina bifida without anencephalus,All races/ethnicities combined,0,0,8344
+2013-2017,Northwest,Central Nervous System (Brain and Spinal Cord),Encephalocele,All races/ethnicities combined,0,0,8557
+2013-2017,Northwest,Central Nervous System (Brain and Spinal Cord),Spina bifida without anencephalus,All races/ethnicities combined,0,0,8557
+2014-2018,Northwest,Chromosomal,Trisomy 13,All races/ethnicities combined,1.2,1,8344
+2014-2018,Northwest,Chromosomal,Trisomy 18,All races/ethnicities combined,0,0,8344
+2014-2018,Northwest,Chromosomal,Trisomy 21 (Down syndrome),All races/ethnicities combined,6,5,8344
+2013-2017,Northwest,Chromosomal,Trisomy 13,All races/ethnicities combined,1.2,1,8557
+2013-2017,Minnesota,Gastrointestinal (Digestive Tract),Biliary atresia,All races/ethnicities combined,0.5,16,333817
+2013-2017,Northwest,Chromosomal,Trisomy 18,All races/ethnicities combined,0,0,8557
+2013-2017,Northwest,Chromosomal,Trisomy 21 (Down syndrome),All races/ethnicities combined,4.7,4,8557
+2013-2017,Northwest,Ear,Anotia/microtia,All races/ethnicities combined,5.8,5,8557
+2014-2018,Northwest,Ear,Anotia/microtia,All races/ethnicities combined,4.8,4,8344
+2013-2017,Northwest,Eye,Anophthalmia/microphthalmia,All races/ethnicities combined,1.2,1,8557
+2014-2018,South Central,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,1.2,2,16394
+2014-2018,South Central,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,38.4,63,16394
+2014-2018,South Central,Cardiovascular (Heart),Atrioventricular septal defect,All races/ethnicities combined,4.9,8,16394
+2014-2018,South Central,Cardiovascular (Heart),Coarctation of aorta,All races/ethnicities combined,7.3,12,16394
+2014-2018,South Central,Cardiovascular (Heart),Common truncus,All races/ethnicities combined,0.6,1,16394
+2014-2018,South Central,Cardiovascular (Heart),Double outlet right ventricle,All races/ethnicities combined,2.4,4,16394
+2014-2018,South Central,Cardiovascular (Heart),Ebstein anomaly,All races/ethnicities combined,0.6,1,16394
+2014-2018,South Central,Cardiovascular (Heart),Hypoplastic left heart syndrome,All races/ethnicities combined,1.2,2,16394
+2014-2018,South Central,Cardiovascular (Heart),Pulmonary valve atresia and stenosis,All races/ethnicities combined,10.4,17,16394
+2014-2018,South Central,Cardiovascular (Heart),Single ventricle,All races/ethnicities combined,0.6,1,16394
+2014-2018,South Central,Cardiovascular (Heart),Tetralogy of Fallot,All races/ethnicities combined,6.7,11,16394
+2014-2018,South Central,Cardiovascular (Heart),Total anomalous pulmonary venous connection,All races/ethnicities combined,0,0,16394
+2014-2018,South Central,Cardiovascular (Heart),Transposition of the great arteries,All races/ethnicities combined,1.8,3,16394
+2014-2018,South Central,Cardiovascular (Heart),Tricuspid valve atresia and stenosis,All races/ethnicities combined,0,0,16394
+2014-2018,South Central,Cardiovascular (Heart),Ventricular septal defect,All races/ethnicities combined,54.3,89,16394
+2014-2018,South Central,Central Nervous System (Brain and Spinal Cord),Anencephalus,All races/ethnicities combined,1.8,3,16394
+2014-2018,South Central,Central Nervous System (Brain and Spinal Cord),Encephalocele,All races/ethnicities combined,1.2,2,16394
+2014-2018,South Central,Central Nervous System (Brain and Spinal Cord),Spina bifida without anencephalus,All races/ethnicities combined,4.9,8,16394
+2014-2018,Northwest,Eye,Anophthalmia/microphthalmia,All races/ethnicities combined,0,0,8344
+2014-2018,South Central,Chromosomal,Trisomy 13,All races/ethnicities combined,1.2,2,16394
+2014-2018,South Central,Chromosomal,Trisomy 18,All races/ethnicities combined,2.4,4,16394
+2014-2018,South Central,Chromosomal,Trisomy 21 (Down syndrome),All races/ethnicities combined,13.4,22,16394
+2014-2018,South Central,Ear,Anotia/microtia,All races/ethnicities combined,2.4,4,16394
+2014-2018,South Central,Eye,Anophthalmia/microphthalmia,All races/ethnicities combined,1.8,3,16394
+2014-2018,South Central,Eye,Congenital cataract,All races/ethnicities combined,3,5,16394
+2014-2018,South Central,Gastrointestinal (Digestive Tract),Biliary atresia,All races/ethnicities combined,1.2,2,16394
+2013-2017,Minnesota,Genitourinary (Genitals and Urinary Tract),Bladder exstrophy,All races/ethnicities combined,0.3,9,333817
+2014-2018,South Central,Gastrointestinal (Digestive Tract),Espophageal atresia/tracheoesophageal fistula,All races/ethnicities combined,0,0,16394
+2014-2018,South Central,Gastrointestinal (Digestive Tract),Rectal and large intestinal atresia/stenosis,All races/ethnicities combined,6.1,10,16394
+2014-2018,South Central,Genitourinary (Genitals and Urinary Tract),Bladder exstrophy,All races/ethnicities combined,0.6,1,16394
+2014-2018,South Central,Genitourinary (Genitals and Urinary Tract),Congenital posterior urethral valves,All races/ethnicities combined,3.6,3,8412
+2014-2018,South Central,Genitourinary (Genitals and Urinary Tract),Hypospadias,All races/ethnicities combined,67.8,57,8412
+2014-2018,South Central,Genitourinary (Genitals and Urinary Tract),Renal agenesis/hypoplasia,All races/ethnicities combined,4.9,8,16394
+2014-2018,South Central,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,1.8,3,16394
+2014-2018,South Central,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,3.7,6,16394
+2014-2018,South Central,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,4.3,7,16394
+2014-2018,South Central,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,1.8,3,16394
+2014-2018,South Central,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,1.2,2,16394
+2014-2018,South Central,Orofacial (Mouth, Jaw, and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,3.7,6,16394
+2014-2018,South Central,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,4.9,8,16394
+2014-2018,South Central,Orofacial (Mouth, Jaw, and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,3.7,6,16394
+2014-2018,Southeast,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,0.4,1,28328
+2014-2018,Southeast,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,39.2,111,28328
+2014-2018,Southeast,Cardiovascular (Heart),Atrioventricular septal defect,All races/ethnicities combined,5.6,16,28328
+2014-2018,Southeast,Cardiovascular (Heart),Coarctation of aorta,All races/ethnicities combined,3.9,11,28328
+2014-2018,Southeast,Cardiovascular (Heart),Common truncus,All races/ethnicities combined,0.4,1,28328
+2014-2018,Southeast,Cardiovascular (Heart),Double outlet right ventricle,All races/ethnicities combined,1.1,3,28328
+2014-2018,Southeast,Cardiovascular (Heart),Ebstein anomaly,All races/ethnicities combined,0.4,1,28328
+2014-2018,Southeast,Cardiovascular (Heart),Hypoplastic left heart syndrome,All races/ethnicities combined,3.2,9,28328
+2014-2018,Southeast,Cardiovascular (Heart),Pulmonary valve atresia and stenosis,All races/ethnicities combined,13.4,38,28328
+2014-2018,Northwest,Eye,Congenital cataract,All races/ethnicities combined,0,0,8344
+2014-2018,Southeast,Cardiovascular (Heart),Single ventricle,All races/ethnicities combined,0,0,28328
+2014-2018,Southeast,Cardiovascular (Heart),Tetralogy of Fallot,All races/ethnicities combined,3.5,10,28328
+2014-2018,Southeast,Cardiovascular (Heart),Total anomalous pulmonary venous connection,All races/ethnicities combined,0.4,1,28328
+2014-2018,Southeast,Cardiovascular (Heart),Transposition of the great arteries,All races/ethnicities combined,2.1,6,28328
+2014-2018,Southeast,Cardiovascular (Heart),Tricuspid valve atresia and stenosis,All races/ethnicities combined,1.1,3,28328
+2014-2018,Southeast,Cardiovascular (Heart),Ventricular septal defect,All races/ethnicities combined,48,136,28328
+2014-2018,Southeast,Central Nervous System (Brain and Spinal Cord),Anencephalus,All races/ethnicities combined,0.4,1,28328
+2013-2017,Minnesota,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,1.1,38,333817
+2014-2018,Southeast,Central Nervous System (Brain and Spinal Cord),Encephalocele,All races/ethnicities combined,0.7,2,28328
+2014-2018,Southeast,Central Nervous System (Brain and Spinal Cord),Spina bifida without anencephalus,All races/ethnicities combined,2.1,6,28328
+2014-2018,Southeast,Chromosomal,Trisomy 13,All races/ethnicities combined,0.4,1,28328
+2014-2018,Southeast,Chromosomal,Trisomy 18,All races/ethnicities combined,1.4,4,28328
+2014-2018,Southeast,Chromosomal,Trisomy 21 (Down syndrome),All races/ethnicities combined,14.5,41,28328
+2014-2018,Southeast,Ear,Anotia/microtia,All races/ethnicities combined,2.8,8,28328
+2014-2018,Southeast,Eye,Anophthalmia/microphthalmia,All races/ethnicities combined,0.4,1,28328
+2014-2018,Southeast,Eye,Congenital cataract,All races/ethnicities combined,2.1,6,28328
+2014-2018,Southeast,Gastrointestinal (Digestive Tract),Biliary atresia,All races/ethnicities combined,0.4,1,28328
+2014-2018,Southeast,Gastrointestinal (Digestive Tract),Espophageal atresia/tracheoesophageal fistula,All races/ethnicities combined,2.8,8,28328
+2014-2018,Southeast,Gastrointestinal (Digestive Tract),Rectal and large intestinal atresia/stenosis,All races/ethnicities combined,6.7,19,28328
+2014-2018,Southeast,Genitourinary (Genitals and Urinary Tract),Bladder exstrophy,All races/ethnicities combined,0.4,1,28328
+2014-2018,Southeast,Genitourinary (Genitals and Urinary Tract),Congenital posterior urethral valves,All races/ethnicities combined,2.8,4,14396
+2014-2018,Southeast,Genitourinary (Genitals and Urinary Tract),Hypospadias,All races/ethnicities combined,52.1,75,14396
+2014-2018,Southeast,Genitourinary (Genitals and Urinary Tract),Renal agenesis/hypoplasia,All races/ethnicities combined,4.2,12,28328
+2014-2018,Southeast,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,2.5,7,28328
+2014-2018,Southeast,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,2.8,8,28328
+2014-2018,Southeast,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,4.6,13,28328
+2014-2018,Southeast,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,0.4,1,28328
+2014-2018,Southeast,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,0.7,2,28328
+2014-2018,Southeast,Orofacial (Mouth, Jaw, and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,2.8,8,28328
+2014-2018,Southeast,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,6.7,19,28328
+2014-2018,Southeast,Orofacial (Mouth, Jaw, and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,7.8,22,28328
+2013-2017,Northwest,Eye,Congenital cataract,All races/ethnicities combined,2.3,2,8557
+2014-2018,Southwest,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,2.4,3,12495
+2014-2018,Southwest,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,26.4,33,12495
+2014-2018,Southwest,Cardiovascular (Heart),Atrioventricular septal defect,All races/ethnicities combined,4.8,6,12495
+2014-2018,Southwest,Cardiovascular (Heart),Coarctation of aorta,All races/ethnicities combined,4.8,6,12495
+2014-2018,Southwest,Cardiovascular (Heart),Common truncus,All races/ethnicities combined,0.8,1,12495
+2014-2018,Southwest,Cardiovascular (Heart),Double outlet right ventricle,All races/ethnicities combined,2.4,3,12495
+2014-2018,Southwest,Cardiovascular (Heart),Ebstein anomaly,All races/ethnicities combined,0.8,1,12495
+2013-2017,Minnesota,Orofacial (Mouth, Jaw, and Face),Cleft lip alone,All races/ethnicities combined,3.4,115,333817
+2014-2018,Southwest,Cardiovascular (Heart),Hypoplastic left heart syndrome,All races/ethnicities combined,2.4,3,12495
+2014-2018,Southwest,Cardiovascular (Heart),Pulmonary valve atresia and stenosis,All races/ethnicities combined,11.2,14,12495
+2014-2018,Southwest,Cardiovascular (Heart),Single ventricle,All races/ethnicities combined,2.4,3,12495
+2014-2018,Southwest,Cardiovascular (Heart),Tetralogy of Fallot,All races/ethnicities combined,5.6,7,12495
+2014-2018,Southwest,Cardiovascular (Heart),Total anomalous pulmonary venous connection,All races/ethnicities combined,3.2,4,12495
+2014-2018,Southwest,Cardiovascular (Heart),Transposition of the great arteries,All races/ethnicities combined,5.6,7,12495
+2014-2018,Southwest,Cardiovascular (Heart),Tricuspid valve atresia and stenosis,All races/ethnicities combined,2.4,3,12495
+2014-2018,Southwest,Cardiovascular (Heart),Ventricular septal defect,All races/ethnicities combined,57.6,72,12495
+2014-2018,Southwest,Central Nervous System (Brain and Spinal Cord),Anencephalus,All races/ethnicities combined,0.8,1,12495
+2014-2018,Southwest,Central Nervous System (Brain and Spinal Cord),Encephalocele,All races/ethnicities combined,0,0,12495
+2014-2018,Southwest,Central Nervous System (Brain and Spinal Cord),Spina bifida without anencephalus,All races/ethnicities combined,1.6,2,12495
+2014-2018,Southwest,Chromosomal,Trisomy 13,All races/ethnicities combined,0,0,12495
+2013-2017,Central,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,2.6,12,45622
+2013-2017,Metro,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,2.3,46,197343
+2013-2017,Northeast,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,4.4,7,15951
+2014-2018,Southwest,Chromosomal,Trisomy 18,All races/ethnicities combined,0,0,12495
+2013-2017,South Central,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,1.8,3,16280
+2013-2017,Southeast,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,0.7,2,28590
+2013-2017,Southwest,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,1.6,2,12551
+2013-2017,West Central,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,0,0,8923
+2013-2017,Central,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,21.3,97,45622
+2013-2017,Metro,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,20.3,401,197343
+2013-2017,Northeast,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,37,59,15951
+2014-2018,Northwest,Gastrointestinal (Digestive Tract),Biliary atresia,All races/ethnicities combined,0,0,8344
+2013-2017,South Central,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,38.7,63,16280
+2013-2017,Southeast,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,37.1,106,28590
+2013-2017,Southwest,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,21.5,27,12551
+2013-2017,West Central,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,35.9,32,8923
+2013-2017,Central,Cardiovascular (Heart),Atrioventricular septal defect (Endocardial cushion defect),All races/ethnicities combined,5.5,25,45622
+2013-2017,Metro,Cardiovascular (Heart),Atrioventricular septal defect (Endocardial cushion defect),All races/ethnicities combined,5.7,112,197343
+2013-2017,Northeast,Cardiovascular (Heart),Atrioventricular septal defect (Endocardial cushion defect),All races/ethnicities combined,6.3,10,15951
+2013-2017,Minnesota,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,5.8,192,333817
+2013-2017,South Central,Cardiovascular (Heart),Atrioventricular septal defect (Endocardial cushion defect),All races/ethnicities combined,6.1,10,16280
+2013-2017,Southeast,Cardiovascular (Heart),Atrioventricular septal defect (Endocardial cushion defect),All races/ethnicities combined,6.3,18,28590
+2013-2017,Southwest,Cardiovascular (Heart),Atrioventricular septal defect (Endocardial cushion defect),All races/ethnicities combined,3.2,4,12551
+2013-2017,West Central,Cardiovascular (Heart),Atrioventricular septal defect (Endocardial cushion defect),All races/ethnicities combined,5.6,5,8923
+2013-2017,Central,Cardiovascular (Heart),Coarctation of aorta,All races/ethnicities combined,7.2,33,45622
+2013-2017,Metro,Cardiovascular (Heart),Coarctation of aorta,All races/ethnicities combined,4.8,94,197343
+2013-2017,Northeast,Cardiovascular (Heart),Coarctation of aorta,All races/ethnicities combined,5,8,15951
+2014-2018,Southwest,Chromosomal,Trisomy 21 (Down syndrome),All races/ethnicities combined,8.8,11,12495
+2013-2017,South Central,Cardiovascular (Heart),Coarctation of aorta,All races/ethnicities combined,6.8,11,16280
+2013-2017,Southeast,Cardiovascular (Heart),Coarctation of aorta,All races/ethnicities combined,3.1,9,28590
+2013-2017,Southwest,Cardiovascular (Heart),Coarctation of aorta,All races/ethnicities combined,4,5,12551
+2013-2017,West Central,Cardiovascular (Heart),Coarctation of aorta,All races/ethnicities combined,10.1,9,8923
+2013-2017,Central,Cardiovascular (Heart),Common truncus (Truncus arteriosus),All races/ethnicities combined,0.7,3,45622
+2013-2017,Metro,Cardiovascular (Heart),Common truncus (Truncus arteriosus),All races/ethnicities combined,0.7,13,197343
+2013-2017,Northeast,Cardiovascular (Heart),Common truncus (Truncus arteriosus),All races/ethnicities combined,0.6,1,15951
+2014-2018,Southwest,Ear,Anotia/microtia,All races/ethnicities combined,0,0,12495
+2013-2017,South Central,Cardiovascular (Heart),Common truncus (Truncus arteriosus),All races/ethnicities combined,0,0,16280
+2013-2017,Southeast,Cardiovascular (Heart),Common truncus (Truncus arteriosus),All races/ethnicities combined,0.3,1,28590
+2013-2017,Southwest,Cardiovascular (Heart),Common truncus (Truncus arteriosus),All races/ethnicities combined,0.8,1,12551
+2013-2017,West Central,Cardiovascular (Heart),Common truncus (Truncus arteriosus),All races/ethnicities combined,0,0,8923
+2013-2017,Central,Cardiovascular (Heart),Double outlet right ventricle,All races/ethnicities combined,2.2,10,45622
+2013-2017,Metro,Cardiovascular (Heart),Double outlet right ventricle,All races/ethnicities combined,2,40,197343
+2013-2017,Northeast,Cardiovascular (Heart),Double outlet right ventricle,All races/ethnicities combined,3.1,5,15951
+2014-2018,Northwest,Gastrointestinal (Digestive Tract),Espophageal atresia/tracheoesophageal fistula,All races/ethnicities combined,3.6,3,8344
+2013-2017,South Central,Cardiovascular (Heart),Double outlet right ventricle,All races/ethnicities combined,1.2,2,16280
+2013-2017,Southeast,Cardiovascular (Heart),Double outlet right ventricle,All races/ethnicities combined,1.4,4,28590
+2013-2017,Southwest,Cardiovascular (Heart),Double outlet right ventricle,All races/ethnicities combined,1.6,2,12551
+2013-2017,West Central,Cardiovascular (Heart),Double outlet right ventricle,All races/ethnicities combined,2.2,2,8923
+2013-2017,Central,Cardiovascular (Heart),Ebstein anomaly,All races/ethnicities combined,0.7,3,45622
+2013-2017,Metro,Cardiovascular (Heart),Ebstein anomaly,All races/ethnicities combined,0.5,10,197343
+2013-2017,Northeast,Cardiovascular (Heart),Ebstein anomaly,All races/ethnicities combined,0.6,1,15951
+2013-2017,Minnesota,Orofacial (Mouth, Jaw, and Face),Cleft palate alone,All races/ethnicities combined,6.7,222,333817
+2013-2017,South Central,Cardiovascular (Heart),Ebstein anomaly,All races/ethnicities combined,0.6,1,16280
+2013-2017,Southeast,Cardiovascular (Heart),Ebstein anomaly,All races/ethnicities combined,0.3,1,28590
+2013-2017,Southwest,Cardiovascular (Heart),Ebstein anomaly,All races/ethnicities combined,0,0,12551
+2013-2017,West Central,Cardiovascular (Heart),Ebstein anomaly,All races/ethnicities combined,0,0,8923
+2013-2017,Central,Cardiovascular (Heart),Hypoplastic left heart syndrome,All races/ethnicities combined,1.5,7,45622
+2013-2017,Metro,Cardiovascular (Heart),Hypoplastic left heart syndrome,All races/ethnicities combined,1.9,37,197343
+2013-2017,Northeast,Cardiovascular (Heart),Hypoplastic left heart syndrome,All races/ethnicities combined,3.1,5,15951
+2014-2018,Southwest,Eye,Anophthalmia/microphthalmia,All races/ethnicities combined,0.8,1,12495
+2013-2017,South Central,Cardiovascular (Heart),Hypoplastic left heart syndrome,All races/ethnicities combined,3.1,5,16280
+2013-2017,Southeast,Cardiovascular (Heart),Hypoplastic left heart syndrome,All races/ethnicities combined,3.1,9,28590
+2013-2017,Southwest,Cardiovascular (Heart),Hypoplastic left heart syndrome,All races/ethnicities combined,2.4,3,12551
+2013-2017,West Central,Cardiovascular (Heart),Hypoplastic left heart syndrome,All races/ethnicities combined,0,0,8923
+2013-2017,Central,Cardiovascular (Heart),Pulmonary valve atresia,All races/ethnicities combined,1.8,8,45622
+2013-2017,Metro,Cardiovascular (Heart),Pulmonary valve atresia,All races/ethnicities combined,1.1,22,197343
+2013-2017,Northeast,Cardiovascular (Heart),Pulmonary valve atresia,All races/ethnicities combined,1.3,2,15951
+2014-2018,Southwest,Eye,Congenital cataract,All races/ethnicities combined,3.2,4,12495
+2013-2017,South Central,Cardiovascular (Heart),Pulmonary valve atresia,All races/ethnicities combined,2.5,4,16280
+2013-2017,Southeast,Cardiovascular (Heart),Pulmonary valve atresia,All races/ethnicities combined,1,3,28590
+2013-2017,Southwest,Cardiovascular (Heart),Pulmonary valve atresia,All races/ethnicities combined,0,0,12551
+2013-2017,West Central,Cardiovascular (Heart),Pulmonary valve atresia,All races/ethnicities combined,0,0,8923
+2013-2017,Central,Cardiovascular (Heart),Pulmonary valve atresia and stenosis,All races/ethnicities combined,11.6,53,45622
+2013-2017,Metro,Cardiovascular (Heart),Pulmonary valve atresia and stenosis,All races/ethnicities combined,13.1,259,197343
+2013-2017,Northeast,Cardiovascular (Heart),Pulmonary valve atresia and stenosis,All races/ethnicities combined,15,24,15951
+2013-2017,Northwest,Gastrointestinal (Digestive Tract),Biliary atresia,All races/ethnicities combined,1.2,1,8557
+2013-2017,South Central,Cardiovascular (Heart),Pulmonary valve atresia and stenosis,All races/ethnicities combined,14.1,23,16280
+2013-2017,Southeast,Cardiovascular (Heart),Pulmonary valve atresia and stenosis,All races/ethnicities combined,12.2,35,28590
+2013-2017,Southwest,Cardiovascular (Heart),Pulmonary valve atresia and stenosis,All races/ethnicities combined,6.4,8,12551
+2013-2017,West Central,Cardiovascular (Heart),Pulmonary valve atresia and stenosis,All races/ethnicities combined,9,8,8923
+2013-2017,Central,Cardiovascular (Heart),Single ventricle,All races/ethnicities combined,0.7,3,45622
+2013-2017,Metro,Cardiovascular (Heart),Single ventricle,All races/ethnicities combined,0.3,6,197343
+2013-2017,Northeast,Cardiovascular (Heart),Single ventricle,All races/ethnicities combined,0,0,15951
+2013-2017,Minnesota,Cardiovascular (Heart),Coarctation of aorta,All races/ethnicities combined,5.2,175,333817
+2013-2017,South Central,Cardiovascular (Heart),Single ventricle,All races/ethnicities combined,0.6,1,16280
+2013-2017,Southeast,Cardiovascular (Heart),Single ventricle,All races/ethnicities combined,0,0,28590
+2013-2017,Southwest,Cardiovascular (Heart),Single ventricle,All races/ethnicities combined,2.4,3,12551
+2013-2017,West Central,Cardiovascular (Heart),Single ventricle,All races/ethnicities combined,0,0,8923
+2013-2017,Central,Cardiovascular (Heart),Tetralogy of Fallot,All races/ethnicities combined,4.6,21,45622
+2013-2017,Metro,Cardiovascular (Heart),Tetralogy of Fallot,All races/ethnicities combined,3.5,69,197343
+2013-2017,Northeast,Cardiovascular (Heart),Tetralogy of Fallot,All races/ethnicities combined,5.6,9,15951
+2014-2018,Southwest,Gastrointestinal (Digestive Tract),Biliary atresia,All races/ethnicities combined,0,0,12495
+2013-2017,South Central,Cardiovascular (Heart),Tetralogy of Fallot,All races/ethnicities combined,4.9,8,16280
+2013-2017,Southeast,Cardiovascular (Heart),Tetralogy of Fallot,All races/ethnicities combined,3.8,11,28590
+2013-2017,Southwest,Cardiovascular (Heart),Tetralogy of Fallot,All races/ethnicities combined,8,10,12551
+2013-2017,West Central,Cardiovascular (Heart),Tetralogy of Fallot,All races/ethnicities combined,3.4,3,8923
+2013-2017,Central,Cardiovascular (Heart),Total anomalous pulmonary venous connection,All races/ethnicities combined,0.9,4,45622
+2013-2017,Metro,Cardiovascular (Heart),Total anomalous pulmonary venous connection,All races/ethnicities combined,1.7,34,197343
+2013-2017,Northeast,Cardiovascular (Heart),Total anomalous pulmonary venous connection,All races/ethnicities combined,3.1,5,15951
+2014-2018,Southwest,Gastrointestinal (Digestive Tract),Espophageal atresia/tracheoesophageal fistula,All races/ethnicities combined,4.8,6,12495
+2013-2017,South Central,Cardiovascular (Heart),Total anomalous pulmonary venous connection,All races/ethnicities combined,0,0,16280
+2013-2017,Southeast,Cardiovascular (Heart),Total anomalous pulmonary venous connection,All races/ethnicities combined,0.7,2,28590
+2013-2017,Southwest,Cardiovascular (Heart),Total anomalous pulmonary venous connection,All races/ethnicities combined,3.2,4,12551
+2013-2017,West Central,Cardiovascular (Heart),Total anomalous pulmonary venous connection,All races/ethnicities combined,1.1,1,8923
+2013-2017,Central,Cardiovascular (Heart),Transposition of the great arteries (TGA),All races/ethnicities combined,4.4,20,45622
+2013-2017,Metro,Cardiovascular (Heart),Transposition of the great arteries (TGA),All races/ethnicities combined,2.2,44,197343
+2013-2017,Northeast,Cardiovascular (Heart),Transposition of the great arteries (TGA),All races/ethnicities combined,3.1,5,15951
+2014-2018,Southwest,Gastrointestinal (Digestive Tract),Rectal and large intestinal atresia/stenosis,All races/ethnicities combined,2.4,3,12495
+2013-2017,South Central,Cardiovascular (Heart),Transposition of the great arteries (TGA),All races/ethnicities combined,2.5,4,16280
+2013-2017,Southeast,Cardiovascular (Heart),Transposition of the great arteries (TGA),All races/ethnicities combined,2.4,7,28590
+2013-2017,Southwest,Cardiovascular (Heart),Transposition of the great arteries (TGA),All races/ethnicities combined,4,5,12551
+2013-2017,West Central,Cardiovascular (Heart),Transposition of the great arteries (TGA),All races/ethnicities combined,5.6,5,8923
+2013-2017,Central,Cardiovascular (Heart),Tricuspid valve atresia,All races/ethnicities combined,1.1,5,45622
+2013-2017,Metro,Cardiovascular (Heart),Tricuspid valve atresia,All races/ethnicities combined,0.5,10,197343
+2013-2017,Northeast,Cardiovascular (Heart),Tricuspid valve atresia,All races/ethnicities combined,0,0,15951
+2014-2018,Southwest,Genitourinary (Genitals and Urinary Tract),Bladder exstrophy,All races/ethnicities combined,0,0,12495
+2013-2017,South Central,Cardiovascular (Heart),Tricuspid valve atresia,All races/ethnicities combined,0,0,16280
+2013-2017,Southeast,Cardiovascular (Heart),Tricuspid valve atresia,All races/ethnicities combined,0,0,28590
+2013-2017,Southwest,Cardiovascular (Heart),Tricuspid valve atresia,All races/ethnicities combined,0.8,1,12551
+2013-2017,West Central,Cardiovascular (Heart),Tricuspid valve atresia,All races/ethnicities combined,2.2,2,8923
+2013-2017,Central,Cardiovascular (Heart),Ventricular septal defect,All races/ethnicities combined,59,269,45622
+2013-2017,Metro,Cardiovascular (Heart),Ventricular septal defect,All races/ethnicities combined,69.5,1371,197343
+2013-2017,Northeast,Cardiovascular (Heart),Ventricular septal defect,All races/ethnicities combined,69,110,15951
+2014-2018,Northwest,Gastrointestinal (Digestive Tract),Rectal and large intestinal atresia/stenosis,All races/ethnicities combined,4.8,4,8344
+2013-2017,South Central,Cardiovascular (Heart),Ventricular septal defect,All races/ethnicities combined,52.2,85,16280
+2013-2017,Southeast,Cardiovascular (Heart),Ventricular septal defect,All races/ethnicities combined,42.7,122,28590
+2013-2017,Southwest,Cardiovascular (Heart),Ventricular septal defect,All races/ethnicities combined,53.4,67,12551
+2013-2017,West Central,Cardiovascular (Heart),Ventricular septal defect,All races/ethnicities combined,66.1,59,8923
+2013-2017,Central,Central Nervous System (Brain and Spinal Cord),Anencephalus,All races/ethnicities combined,1.5,7,45622
+2013-2017,Metro,Central Nervous System (Brain and Spinal Cord),Anencephalus,All races/ethnicities combined,0.7,14,197343
+2013-2017,Northeast,Central Nervous System (Brain and Spinal Cord),Anencephalus,All races/ethnicities combined,1.3,2,15951
+2013-2017,Minnesota,Cardiovascular (Heart),Common truncus (Truncus arteriosus),All races/ethnicities combined,0.6,19,333817
+2013-2017,South Central,Central Nervous System (Brain and Spinal Cord),Anencephalus,All races/ethnicities combined,1.2,2,16280
+2013-2017,Southeast,Central Nervous System (Brain and Spinal Cord),Anencephalus,All races/ethnicities combined,0,0,28590
+2013-2017,Southwest,Central Nervous System (Brain and Spinal Cord),Anencephalus,All races/ethnicities combined,0,0,12551
+2013-2017,West Central,Central Nervous System (Brain and Spinal Cord),Anencephalus,All races/ethnicities combined,0,0,8923
+2013-2017,Central,Central Nervous System (Brain and Spinal Cord),Encephalocele,All races/ethnicities combined,0.7,3,45622
+2013-2017,Metro,Central Nervous System (Brain and Spinal Cord),Encephalocele,All races/ethnicities combined,0.8,16,197343
+2013-2017,Northeast,Central Nervous System (Brain and Spinal Cord),Encephalocele,All races/ethnicities combined,0,0,15951
+2013-2017,Northwest,Gastrointestinal (Digestive Tract),Espophageal atresia/tracheoesophageal fistula,All races/ethnicities combined,3.5,3,8557
+2013-2017,South Central,Central Nervous System (Brain and Spinal Cord),Encephalocele,All races/ethnicities combined,0.6,1,16280
+2013-2017,Southeast,Central Nervous System (Brain and Spinal Cord),Encephalocele,All races/ethnicities combined,0.7,2,28590
+2013-2017,Southwest,Central Nervous System (Brain and Spinal Cord),Encephalocele,All races/ethnicities combined,0,0,12551
+2013-2017,West Central,Central Nervous System (Brain and Spinal Cord),Encephalocele,All races/ethnicities combined,2.2,2,8923
+2013-2017,Central,Central Nervous System (Brain and Spinal Cord),Spina bifida without anencephalus,All races/ethnicities combined,4.6,21,45622
+2013-2017,Metro,Central Nervous System (Brain and Spinal Cord),Spina bifida without anencephalus,All races/ethnicities combined,2.5,50,197343
+2013-2017,Northeast,Central Nervous System (Brain and Spinal Cord),Spina bifida without anencephalus,All races/ethnicities combined,1.9,3,15951
+2013-2017,Minnesota,Eye,Congenital cataract,All races/ethnicities combined,3,100,333817
+2013-2017,South Central,Central Nervous System (Brain and Spinal Cord),Spina bifida without anencephalus,All races/ethnicities combined,5.5,9,16280
+2013-2017,Southeast,Central Nervous System (Brain and Spinal Cord),Spina bifida without anencephalus,All races/ethnicities combined,2.4,7,28590
+2013-2017,Southwest,Central Nervous System (Brain and Spinal Cord),Spina bifida without anencephalus,All races/ethnicities combined,2.4,3,12551
+2013-2017,West Central,Central Nervous System (Brain and Spinal Cord),Spina bifida without anencephalus,All races/ethnicities combined,2.2,2,8923
+2013-2017,Central,Chromosomal,Trisomy 13,All races/ethnicities combined,1.1,5,45622
+2013-2017,Metro,Chromosomal,Trisomy 13,All races/ethnicities combined,0.9,17,197343
+2013-2017,Northeast,Chromosomal,Trisomy 13,All races/ethnicities combined,1.3,2,15951
+2014-2018,Southwest,Genitourinary (Genitals and Urinary Tract),Congenital posterior urethral valves,All races/ethnicities combined,1.6,1,6327
+2013-2017,South Central,Chromosomal,Trisomy 13,All races/ethnicities combined,1.8,3,16280
+2013-2017,Southeast,Chromosomal,Trisomy 13,All races/ethnicities combined,1.4,4,28590
+2013-2017,Southwest,Chromosomal,Trisomy 13,All races/ethnicities combined,0,0,12551
+2013-2017,West Central,Chromosomal,Trisomy 13,All races/ethnicities combined,0,0,8923
+2013-2017,Central,Chromosomal,Trisomy 18,All races/ethnicities combined,2.2,10,45622
+2013-2017,Metro,Chromosomal,Trisomy 18,All races/ethnicities combined,1.9,37,197343
+2013-2017,Northeast,Chromosomal,Trisomy 18,All races/ethnicities combined,1.3,2,15951
+2014-2018,Southwest,Genitourinary (Genitals and Urinary Tract),Hypospadias,All races/ethnicities combined,61.6,39,6327
+2013-2017,South Central,Chromosomal,Trisomy 18,All races/ethnicities combined,1.8,3,16280
+2013-2017,Southeast,Chromosomal,Trisomy 18,All races/ethnicities combined,1.4,4,28590
+2013-2017,Southwest,Chromosomal,Trisomy 18,All races/ethnicities combined,0,0,12551
+2013-2017,West Central,Chromosomal,Trisomy 18,All races/ethnicities combined,2.2,2,8923
+2013-2017,Central,Chromosomal,Trisomy 21 (Down syndrome),All races/ethnicities combined,16.2,74,45622
+2013-2017,Metro,Chromosomal,Trisomy 21 (Down syndrome),All races/ethnicities combined,16.6,328,197343
+2013-2017,Northeast,Chromosomal,Trisomy 21 (Down syndrome),All races/ethnicities combined,16.3,26,15951
+2013-2017,Northwest,Gastrointestinal (Digestive Tract),Rectal and large intestinal atresia/stenosis,All races/ethnicities combined,2.3,2,8557
+2013-2017,South Central,Chromosomal,Trisomy 21 (Down syndrome),All races/ethnicities combined,12.9,21,16280
+2013-2017,Southeast,Chromosomal,Trisomy 21 (Down syndrome),All races/ethnicities combined,15,43,28590
+2013-2017,Southwest,Chromosomal,Trisomy 21 (Down syndrome),All races/ethnicities combined,10.4,13,12551
+2013-2017,West Central,Chromosomal,Trisomy 21 (Down syndrome),All races/ethnicities combined,13.4,12,8923
+2013-2017,Central,Ear,Anotia/microtia,All races/ethnicities combined,2.4,11,45622
+2013-2017,Metro,Ear,Anotia/microtia,All races/ethnicities combined,3.6,71,197343
+2013-2017,Northeast,Ear,Anotia/microtia,All races/ethnicities combined,3.1,5,15951
+2013-2017,Minnesota,Genitourinary (Genitals and Urinary Tract),Congenital posterior urethral valves,All races/ethnicities combined,2.3,39,170703
+2013-2017,South Central,Ear,Anotia/microtia,All races/ethnicities combined,3.1,5,16280
+2013-2017,Southeast,Ear,Anotia/microtia,All races/ethnicities combined,1.7,5,28590
+2013-2017,Southwest,Ear,Anotia/microtia,All races/ethnicities combined,0.8,1,12551
+2013-2017,West Central,Ear,Anotia/microtia,All races/ethnicities combined,3.4,3,8923
+2013-2017,Central,Eye,Anophthalmia/microphthalmia,All races/ethnicities combined,2,9,45622
+2013-2017,Metro,Eye,Anophthalmia/microphthalmia,All races/ethnicities combined,1.8,36,197343
+2013-2017,Northeast,Eye,Anophthalmia/microphthalmia,All races/ethnicities combined,0.6,1,15951
+2014-2018,Southwest,Genitourinary (Genitals and Urinary Tract),Renal agenesis/hypoplasia,All races/ethnicities combined,4,5,12495
+2013-2017,South Central,Eye,Anophthalmia/microphthalmia,All races/ethnicities combined,1.8,3,16280
+2013-2017,Southeast,Eye,Anophthalmia/microphthalmia,All races/ethnicities combined,0.3,1,28590
+2013-2017,Southwest,Eye,Anophthalmia/microphthalmia,All races/ethnicities combined,0.8,1,12551
+2013-2017,West Central,Eye,Anophthalmia/microphthalmia,All races/ethnicities combined,0,0,8923
+2013-2017,Central,Eye,Congenital cataract,All races/ethnicities combined,3.3,15,45622
+2013-2017,Metro,Eye,Congenital cataract,All races/ethnicities combined,3.2,63,197343
+2013-2017,Northeast,Eye,Congenital cataract,All races/ethnicities combined,0.6,1,15951
+2014-2018,Southwest,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,3.2,4,12495
+2013-2017,South Central,Eye,Congenital cataract,All races/ethnicities combined,3.1,5,16280
+2013-2017,Southeast,Eye,Congenital cataract,All races/ethnicities combined,2.1,6,28590
+2013-2017,Southwest,Eye,Congenital cataract,All races/ethnicities combined,4,5,12551
+2013-2017,West Central,Eye,Congenital cataract,All races/ethnicities combined,3.4,3,8923
+2013-2017,Central,Gastrointestinal (Digestive Tract),Biliary atresia,All races/ethnicities combined,0.2,1,45622
+2013-2017,Metro,Gastrointestinal (Digestive Tract),Biliary atresia,All races/ethnicities combined,0.6,11,197343
+2013-2017,Northeast,Gastrointestinal (Digestive Tract),Biliary atresia,All races/ethnicities combined,0,0,15951
+2014-2018,Northwest,Genitourinary (Genitals and Urinary Tract),Bladder exstrophy,All races/ethnicities combined,0,0,8344
+2013-2017,South Central,Gastrointestinal (Digestive Tract),Biliary atresia,All races/ethnicities combined,0.6,1,16280
+2013-2017,Southeast,Gastrointestinal (Digestive Tract),Biliary atresia,All races/ethnicities combined,0.3,1,28590
+2013-2017,Southwest,Gastrointestinal (Digestive Tract),Biliary atresia,All races/ethnicities combined,0,0,12551
+2013-2017,West Central,Gastrointestinal (Digestive Tract),Biliary atresia,All races/ethnicities combined,1.1,1,8923
+2013-2017,Central,Gastrointestinal (Digestive Tract),Espophageal atresia/tracheoesophageal fistula,All races/ethnicities combined,1.1,5,45622
+2013-2017,Metro,Gastrointestinal (Digestive Tract),Espophageal atresia/tracheoesophageal fistula,All races/ethnicities combined,2.9,57,197343
+2013-2017,Northeast,Gastrointestinal (Digestive Tract),Espophageal atresia/tracheoesophageal fistula,All races/ethnicities combined,6.9,11,15951
+2013-2017,Minnesota,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,3,100,333817
+2013-2017,South Central,Gastrointestinal (Digestive Tract),Espophageal atresia/tracheoesophageal fistula,All races/ethnicities combined,0,0,16280
+2013-2017,Southeast,Gastrointestinal (Digestive Tract),Espophageal atresia/tracheoesophageal fistula,All races/ethnicities combined,3.5,10,28590
+2013-2017,Southwest,Gastrointestinal (Digestive Tract),Espophageal atresia/tracheoesophageal fistula,All races/ethnicities combined,4,5,12551
+2013-2017,West Central,Gastrointestinal (Digestive Tract),Espophageal atresia/tracheoesophageal fistula,All races/ethnicities combined,0,0,8923
+2013-2017,Central,Gastrointestinal (Digestive Tract),Rectal and large intestinal atresia/stenosis,All races/ethnicities combined,3.1,14,45622
+2013-2017,Metro,Gastrointestinal (Digestive Tract),Rectal and large intestinal atresia/stenosis,All races/ethnicities combined,3.5,69,197343
+2013-2017,Northeast,Gastrointestinal (Digestive Tract),Rectal and large intestinal atresia/stenosis,All races/ethnicities combined,3.8,6,15951
+2014-2018,Southwest,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,2.4,3,12495
+2013-2017,South Central,Gastrointestinal (Digestive Tract),Rectal and large intestinal atresia/stenosis,All races/ethnicities combined,3.7,6,16280
+2013-2017,Southeast,Gastrointestinal (Digestive Tract),Rectal and large intestinal atresia/stenosis,All races/ethnicities combined,7.7,22,28590
+2013-2017,Southwest,Gastrointestinal (Digestive Tract),Rectal and large intestinal atresia/stenosis,All races/ethnicities combined,1.6,2,12551
+2013-2017,West Central,Gastrointestinal (Digestive Tract),Rectal and large intestinal atresia/stenosis,All races/ethnicities combined,10.1,9,8923
+2013-2017,Central,Genitourinary (Genitals and Urinary Tract),Bladder exstrophy,All races/ethnicities combined,0.2,1,45622
+2013-2017,Metro,Genitourinary (Genitals and Urinary Tract),Bladder exstrophy,All races/ethnicities combined,0.3,6,197343
+2013-2017,Northeast,Genitourinary (Genitals and Urinary Tract),Bladder exstrophy,All races/ethnicities combined,0,0,15951
+2014-2018,Southwest,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,2.4,3,12495
+2013-2017,South Central,Genitourinary (Genitals and Urinary Tract),Bladder exstrophy,All races/ethnicities combined,0.6,1,16280
+2013-2017,Southeast,Genitourinary (Genitals and Urinary Tract),Bladder exstrophy,All races/ethnicities combined,0.3,1,28590
+2013-2017,Southwest,Genitourinary (Genitals and Urinary Tract),Bladder exstrophy,All races/ethnicities combined,0,0,12551
+2013-2017,West Central,Genitourinary (Genitals and Urinary Tract),Bladder exstrophy,All races/ethnicities combined,0,0,8923
+2013-2017,Central,Genitourinary (Genitals and Urinary Tract),Congenital posterior urethral valves,All races/ethnicities combined,1.7,4,23480
+2013-2017,Metro,Genitourinary (Genitals and Urinary Tract),Congenital posterior urethral valves,All races/ethnicities combined,2.7,27,100837
+2013-2017,Northeast,Genitourinary (Genitals and Urinary Tract),Congenital posterior urethral valves,All races/ethnicities combined,0,0,8161
+2014-2018,Northwest,Genitourinary (Genitals and Urinary Tract),Congenital posterior urethral valves,All races/ethnicities combined,0,0,4295
+2013-2017,South Central,Genitourinary (Genitals and Urinary Tract),Congenital posterior urethral valves,All races/ethnicities combined,3.6,3,8424
+2013-2017,Southeast,Genitourinary (Genitals and Urinary Tract),Congenital posterior urethral valves,All races/ethnicities combined,2.8,4,14543
+2013-2017,Southwest,Genitourinary (Genitals and Urinary Tract),Congenital posterior urethral valves,All races/ethnicities combined,1.6,1,6354
+2013-2017,West Central,Genitourinary (Genitals and Urinary Tract),Congenital posterior urethral valves,All races/ethnicities combined,0,0,4546
+2013-2017,Central,Genitourinary (Genitals and Urinary Tract),Hypospadias,All races/ethnicities combined,86,202,23480
+2013-2017,Metro,Genitourinary (Genitals and Urinary Tract),Hypospadias,All races/ethnicities combined,72,726,100837
+2013-2017,Northeast,Genitourinary (Genitals and Urinary Tract),Hypospadias,All races/ethnicities combined,85.8,70,8161
+2013-2017,Minnesota,Cardiovascular (Heart),Double outlet right ventricle,All races/ethnicities combined,2,67,333817
+2013-2017,South Central,Genitourinary (Genitals and Urinary Tract),Hypospadias,All races/ethnicities combined,66.5,56,8424
+2013-2017,Southeast,Genitourinary (Genitals and Urinary Tract),Hypospadias,All races/ethnicities combined,59.1,86,14543
+2013-2017,Southwest,Genitourinary (Genitals and Urinary Tract),Hypospadias,All races/ethnicities combined,61.4,39,6354
+2013-2017,West Central,Genitourinary (Genitals and Urinary Tract),Hypospadias,All races/ethnicities combined,63.8,29,4546
+2013-2017,Central,Genitourinary (Genitals and Urinary Tract),Renal agenesis/hypoplasia,All races/ethnicities combined,6.4,29,45622
+2013-2017,Metro,Genitourinary (Genitals and Urinary Tract),Renal agenesis/hypoplasia,All races/ethnicities combined,5.8,114,197343
+2013-2017,Northeast,Genitourinary (Genitals and Urinary Tract),Renal agenesis/hypoplasia,All races/ethnicities combined,8.8,14,15951
+2014-2018,Southwest,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,0,0,12495
+2013-2017,South Central,Genitourinary (Genitals and Urinary Tract),Renal agenesis/hypoplasia,All races/ethnicities combined,6.1,10,16280
+2013-2017,Southeast,Genitourinary (Genitals and Urinary Tract),Renal agenesis/hypoplasia,All races/ethnicities combined,3.8,11,28590
+2013-2017,Southwest,Genitourinary (Genitals and Urinary Tract),Renal agenesis/hypoplasia,All races/ethnicities combined,5.6,7,12551
+2013-2017,West Central,Genitourinary (Genitals and Urinary Tract),Renal agenesis/hypoplasia,All races/ethnicities combined,5.6,5,8923
+2013-2017,Central,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,3.7,17,45622
+2013-2017,Metro,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,2.6,52,197343
+2013-2017,Northeast,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,5,8,15951
+2014-2018,Southwest,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,0.8,1,12495
+2013-2017,South Central,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,1.8,3,16280
+2013-2017,Southeast,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,2.8,8,28590
+2013-2017,Southwest,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,3.2,4,12551
+2013-2017,West Central,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,4.5,4,8923
+2013-2017,Central,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,5.5,25,45622
+2013-2017,Metro,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,2.4,47,197343
+2013-2017,Northeast,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,4.4,7,15951
+2014-2018,Northwest,Genitourinary (Genitals and Urinary Tract),Hypospadias,All races/ethnicities combined,60.5,26,4295
+2013-2017,South Central,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,3.7,6,16280
+2013-2017,Southeast,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,3.1,9,28590
+2013-2017,Southwest,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,3.2,4,12551
+2013-2017,West Central,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,2.2,2,8923
+2013-2017,Central,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,3.9,18,45622
+2013-2017,Metro,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,3.2,63,197343
+2013-2017,Northeast,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,7.5,12,15951
+2013-2017,Minnesota,Cardiovascular (Heart),Ebstein anomaly,All races/ethnicities combined,0.5,17,333817
+2013-2017,South Central,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,4.3,7,16280
+2013-2017,Southeast,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,3.5,10,28590
+2013-2017,Southwest,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,4,5,12551
+2013-2017,West Central,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,3.4,3,8923
+2013-2017,Central,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,2,9,45622
+2013-2017,Metro,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,2,40,197343
+2013-2017,Northeast,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,3.1,5,15951
+2014-2018,Southwest,Orofacial (Mouth, Jaw, and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,2.4,3,12495
+2013-2017,South Central,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,2.5,4,16280
+2013-2017,Southeast,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,0.3,1,28590
+2013-2017,Southwest,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,0,0,12551
+2013-2017,West Central,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,0,0,8923
+2013-2017,Central,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,0.9,4,45622
+2013-2017,Metro,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,1.3,26,197343
+2013-2017,Northeast,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,0.6,1,15951
+2014-2018,Southwest,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,6.4,8,12495
+2013-2017,South Central,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,0.6,1,16280
+2013-2017,Southeast,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,0.7,2,28590
+2013-2017,Southwest,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,0,0,12551
+2013-2017,West Central,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,0,0,8923
+2013-2017,Central,Orofacial (Mouth, Jaw, and Face),Cleft lip alone,All races/ethnicities combined,4.6,21,45622
+2013-2017,Metro,Orofacial (Mouth, Jaw, and Face),Cleft lip alone,All races/ethnicities combined,3.1,61,197343
+2013-2017,Northeast,Orofacial (Mouth, Jaw, and Face),Cleft lip alone,All races/ethnicities combined,3.8,6,15951
+2014-2018,Northwest,Genitourinary (Genitals and Urinary Tract),Renal agenesis/hypoplasia,All races/ethnicities combined,7.2,6,8344
+2013-2017,South Central,Orofacial (Mouth, Jaw, and Face),Cleft lip alone,All races/ethnicities combined,4.3,7,16280
+2013-2017,Southeast,Orofacial (Mouth, Jaw, and Face),Cleft lip alone,All races/ethnicities combined,3.8,11,28590
+2013-2017,Southwest,Orofacial (Mouth, Jaw, and Face),Cleft lip alone,All races/ethnicities combined,4,5,12551
+2013-2017,West Central,Orofacial (Mouth, Jaw, and Face),Cleft lip alone,All races/ethnicities combined,1.1,1,8923
+2013-2017,Central,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,5.5,25,45622
+2013-2017,Metro,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,6,119,197343
+2013-2017,Northeast,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,5,8,15951
+2013-2017,Minnesota,Central Nervous System (Brain and Spinal Cord),Encephalocele,All races/ethnicities combined,0.7,24,333817
+2013-2017,South Central,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,4.3,7,16280
+2013-2017,Southeast,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,5.2,15,28590
+2013-2017,Southwest,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,6.4,8,12551
+2013-2017,West Central,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,4.5,4,8923
+2013-2017,Central,Orofacial (Mouth, Jaw, and Face),Cleft palate alone,All races/ethnicities combined,7.2,33,45622
+2013-2017,Metro,Orofacial (Mouth, Jaw, and Face),Cleft palate alone,All races/ethnicities combined,6.9,137,197343
+2013-2017,Northeast,Orofacial (Mouth, Jaw, and Face),Cleft palate alone,All races/ethnicities combined,8.8,14,15951
+2014-2018,Southwest,Orofacial (Mouth, Jaw, and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,3.2,4,12495
+2013-2017,South Central,Orofacial (Mouth, Jaw, and Face),Cleft palate alone,All races/ethnicities combined,3.1,5,16280
+2013-2017,Southeast,Orofacial (Mouth, Jaw, and Face),Cleft palate alone,All races/ethnicities combined,5.9,17,28590
+2013-2017,Southwest,Orofacial (Mouth, Jaw, and Face),Cleft palate alone,All races/ethnicities combined,3.2,4,12551
+2013-2017,West Central,Orofacial (Mouth, Jaw, and Face),Cleft palate alone,All races/ethnicities combined,6.7,6,8923
+2014-2018,West Central,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,2.2,2,8898
+2013-2017,Northwest,Genitourinary (Genitals and Urinary Tract),Bladder exstrophy,All races/ethnicities combined,0,0,8557
+2013-2017,Minnesota,Gastrointestinal (Digestive Tract),Espophageal atresia/tracheoesophageal fistula,All races/ethnicities combined,2.7,91,333817
+2014-2018,West Central,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,43.8,39,8898
+2014-2018,West Central,Cardiovascular (Heart),Atrioventricular septal defect,All races/ethnicities combined,6.7,6,8898
+2013-2017,Northwest,Genitourinary (Genitals and Urinary Tract),Congenital posterior urethral valves,All races/ethnicities combined,0,0,4358
+2013-2017,Minnesota,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,3.1,103,333817
+2014-2018,West Central,Cardiovascular (Heart),Coarctation of aorta,All races/ethnicities combined,13.5,12,8898
+2014-2018,West Central,Cardiovascular (Heart),Common truncus,All races/ethnicities combined,0,0,8898
+2013-2017,Northwest,Genitourinary (Genitals and Urinary Tract),Hypospadias,All races/ethnicities combined,62,27,4358
+2013-2017,Minnesota,Cardiovascular (Heart),Hypoplastic left heart syndrome,All races/ethnicities combined,2.1,70,333817
+2014-2018,West Central,Cardiovascular (Heart),Double outlet right ventricle,All races/ethnicities combined,4.5,4,8898
+2014-2018,West Central,Cardiovascular (Heart),Ebstein anomaly,All races/ethnicities combined,0,0,8898
+2013-2017,Northwest,Genitourinary (Genitals and Urinary Tract),Renal agenesis/hypoplasia,All races/ethnicities combined,9.3,8,8557
+2013-2017,Minnesota,Genitourinary (Genitals and Urinary Tract),Hypospadias,All races/ethnicities combined,72.3,1235,170703
+2014-2018,West Central,Cardiovascular (Heart),Hypoplastic left heart syndrome,All races/ethnicities combined,0,0,8898
+2014-2018,West Central,Cardiovascular (Heart),Pulmonary valve atresia and stenosis,All races/ethnicities combined,10.1,9,8898
+2014-2018,Northwest,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,3.6,3,8344
+2013-2017,Minnesota,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,3.7,124,333817
+2014-2018,West Central,Cardiovascular (Heart),Single ventricle,All races/ethnicities combined,0,0,8898
+2014-2018,West Central,Cardiovascular (Heart),Tetralogy of Fallot,All races/ethnicities combined,3.4,3,8898
+2014-2018,Northwest,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,2.4,2,8344
+2013-2017,Minnesota,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,1.8,59,333817
+2014-2018,West Central,Cardiovascular (Heart),Total anomalous pulmonary venous connection,All races/ethnicities combined,3.4,3,8898
+2014-2018,West Central,Cardiovascular (Heart),Transposition of the great arteries,All races/ethnicities combined,3.4,3,8898
+2014-2018,Northwest,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,6,5,8344
+2013-2017,Minnesota,Cardiovascular (Heart),Pulmonary valve atresia,All races/ethnicities combined,1.3,42,333817
+2014-2018,Northwest,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,0,0,8344
+2013-2017,Minnesota,Cardiovascular (Heart),Pulmonary valve atresia and stenosis,All races/ethnicities combined,12.6,421,333817
+2014-2018,West Central,Cardiovascular (Heart),Tricuspid valve atresia and stenosis,All races/ethnicities combined,3.4,3,8898
+2014-2018,West Central,Cardiovascular (Heart),Ventricular septal defect,All races/ethnicities combined,76.4,68,8898
+2013-2017,Northwest,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,4.7,4,8557
+2013-2017,Minnesota,Gastrointestinal (Digestive Tract),Rectal and large intestinal atresia/stenosis,All races/ethnicities combined,3.9,130,333817
+2014-2018,West Central,Central Nervous System (Brain and Spinal Cord),Anencephalus,All races/ethnicities combined,0,0,8898
+2014-2018,West Central,Central Nervous System (Brain and Spinal Cord),Encephalocele,All races/ethnicities combined,2.2,2,8898
+2013-2017,Northwest,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,3.5,3,8557
+2013-2017,Minnesota,Genitourinary (Genitals and Urinary Tract),Renal agenesis/hypoplasia,All races/ethnicities combined,5.9,198,333817
+2014-2018,West Central,Central Nervous System (Brain and Spinal Cord),Spina bifida without anencephalus,All races/ethnicities combined,4.5,4,8898
+2014-2018,West Central,Chromosomal,Trisomy 13,All races/ethnicities combined,0,0,8898
+2013-2017,Northwest,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,7,6,8557
+2013-2017,Minnesota,Cardiovascular (Heart),Single ventricle,All races/ethnicities combined,0.4,14,333817
+2014-2018,West Central,Chromosomal,Trisomy 18,All races/ethnicities combined,3.4,3,8898
+2014-2018,West Central,Chromosomal,Trisomy 21 (Down syndrome),All races/ethnicities combined,13.5,12,8898
+2013-2017,Northwest,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,0,0,8557
+2013-2017,Minnesota,Central Nervous System (Brain and Spinal Cord),Spina bifida without anencephalus,All races/ethnicities combined,2.8,95,333817
+2014-2018,West Central,Ear,Anotia/microtia,All races/ethnicities combined,4.5,4,8898
+2014-2018,West Central,Eye,Anophthalmia/microphthalmia,All races/ethnicities combined,0,0,8898
+2014-2018,Northwest,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,4.8,4,8344
+2013-2017,Minnesota,Cardiovascular (Heart),Tetralogy of Fallot,All races/ethnicities combined,4,133,333817
+2014-2018,West Central,Eye,Congenital cataract,All races/ethnicities combined,3.4,3,8898
+2014-2018,West Central,Gastrointestinal (Digestive Tract),Biliary atresia,All races/ethnicities combined,1.1,1,8898
+2014-2018,Northwest,Orofacial (Mouth, Jaw, and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,3.6,3,8344
+2013-2017,Minnesota,Cardiovascular (Heart),Total anomalous pulmonary venous connection,All races/ethnicities combined,1.6,52,333817
+2014-2018,West Central,Gastrointestinal (Digestive Tract),Espophageal atresia/tracheoesophageal fistula,All races/ethnicities combined,1.1,1,8898
+2014-2018,West Central,Gastrointestinal (Digestive Tract),Rectal and large intestinal atresia/stenosis,All races/ethnicities combined,9,8,8898
+2014-2018,West Central,Genitourinary (Genitals and Urinary Tract),Bladder exstrophy,All races/ethnicities combined,0,0,8898
+2014-2018,West Central,Genitourinary (Genitals and Urinary Tract),Congenital posterior urethral valves,All races/ethnicities combined,0,0,4578
+2014-2018,Northwest,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,3.6,3,8344
+2013-2017,Minnesota,Cardiovascular (Heart),Transposition of the great arteries (TGA),All races/ethnicities combined,2.8,94,333817
+2014-2018,Northwest,Orofacial (Mouth, Jaw, and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,7.2,6,8344
+2013-2017,Minnesota,Cardiovascular (Heart),Tricuspid valve atresia,All races/ethnicities combined,0.6,19,333817
+2014-2018,West Central,Genitourinary (Genitals and Urinary Tract),Hypospadias,All races/ethnicities combined,54.6,25,4578
+2014-2018,West Central,Genitourinary (Genitals and Urinary Tract),Renal agenesis/hypoplasia,All races/ethnicities combined,6.7,6,8898
+2013-2017,Northwest,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,4.7,4,8557
+2013-2017,Minnesota,Chromosomal,Trisomy 13,All races/ethnicities combined,1,32,333817
+2014-2018,West Central,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,4.5,4,8898
+2014-2018,West Central,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,2.2,2,8898
+2013-2017,Northwest,Orofacial (Mouth, Jaw, and Face),Cleft lip alone,All races/ethnicities combined,3.5,3,8557
+2013-2017,Minnesota,Chromosomal,Trisomy 18,All races/ethnicities combined,1.7,58,333817
+2014-2018,West Central,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,2.2,2,8898
+2014-2018,West Central,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,1.1,1,8898
+2013-2017,Northwest,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,7,6,8557
+2013-2017,Minnesota,Chromosomal,Trisomy 21 (Down syndrome),All races/ethnicities combined,15.6,521,333817
+2014-2018,West Central,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,0,0,8898
+2014-2018,West Central,Orofacial (Mouth, Jaw, and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,1.1,1,8898
+2013-2017,Northwest,Orofacial (Mouth, Jaw, and Face),Cleft palate alone,All races/ethnicities combined,7,6,8557
+2013-2017,Minnesota,Cardiovascular (Heart),Ventricular septal defect,All races/ethnicities combined,64,2135,333817
+2014-2018,West Central,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,5.6,5,8898
+2014-2018,West Central,Orofacial (Mouth, Jaw, and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,6.7,6,8898
