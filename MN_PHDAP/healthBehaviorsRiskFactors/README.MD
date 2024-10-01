@@ -15,5 +15,5 @@ This data set did not provide a data breakdown after downloading it but informat
 ## Poverty and Income https://data.web.health.state.mn.us/poverty  
 **This data set can be pulled directly from the Census so it was not included in this repository**
 
-##Smoking https://data.web.health.state.mn.us/smoking  
+## Smoking https://data.web.health.state.mn.us/smoking  
 **This data set cannot be broken down by county so it was not included in this repository; check out the CDC Places Project to get projections by County**
