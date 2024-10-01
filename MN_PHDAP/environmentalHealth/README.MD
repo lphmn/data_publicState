@@ -3,4 +3,4 @@ As I am not the data steward, I will need to ensure that any updates or edits to
 
 **My wishlist is that MN data stewards begin storing their publicly available data in a friendlier manner.**
 
-## Air Quality https://data.web.health.state.mn.us/air  
+## Air Quality can be found at the [climate repository](https://github.com/quincountychsmn/MN_PublicData/tree/main/MN_PHDAP/climate)
