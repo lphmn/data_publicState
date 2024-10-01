@@ -9,8 +9,7 @@ As I am not the data steward, I will need to ensure that any updates or edits to
 ## Cold Related Illness ED/Hospitalization Visits https://data.web.health.state.mn.us/cold-related-illness-ed-visits  
 This data set did not provide a data breakdown after downloading it but information about the data can be found [HERE](https://data.web.health.state.mn.us/cold_related_illness_metadata)
 
-## Climate-related environmental health concerns as of 10/01/2024 does not have data to download
-https://data.web.health.state.mn.us/web/mndata/climate-and-health
+## Climate-related environmental health concerns as of 10/01/2024 does not have data to download https://data.web.health.state.mn.us/web/mndata/climate-and-health
 
 ## Heat-related illness Emergency Department/Hospitalization visits and deaths can be found at the [diseasesConditions repository](https://github.com/quincountychsmn/MN_PublicData/tree/main/MN_PHDAP/diseasesConditions)  
 The hot weather data set did not have a data breakdown after downloading it but information about the data can be found [HERE](https://data.web.health.state.mn.us/hot_weather)
