@@ -79,10 +79,10 @@ birth_cohort,region,body _system,condition,maternal_raceEthnicity,prevalence_per
 2014-2018,Metro,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,2.3,45,196126
 2014-2018,Metro,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,3.2,63,196126
 2014-2018,Metro,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,2.1,41,196126
-2014-2018,Metro,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,1.2,23,196126
-2014-2018,Metro,Orofacial (Mouth, Jaw, and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,2.8,55,196126
-2014-2018,Metro,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,5.8,114,196126
-2014-2018,Metro,Orofacial (Mouth, Jaw, and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,6.9,135,196126
+2014-2018,Metro,Orofacial (Mouth Jaw and Face),Choanal atresia,All races/ethnicities combined,1.2,23,196126
+2014-2018,Metro,Orofacial (Mouth Jaw and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,2.8,55,196126
+2014-2018,Metro,Orofacial (Mouth Jaw and Face),Cleft lip with cleft palate,All races/ethnicities combined,5.8,114,196126
+2014-2018,Metro,Orofacial (Mouth Jaw and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,6.9,135,196126
 2014-2018,Minnesota,Central Nervous System (Brain and Spinal Cord),Anencephalus,All races/ethnicities combined,0.9,30,331901
 2014-2018,Minnesota,Eye,Anophthalmia/microphthalmia,All races/ethnicities combined,1.5,51,331901
 2014-2018,Minnesota,Ear,Anotia/microtia,All races/ethnicities combined,3,101,331901
@@ -91,10 +91,10 @@ birth_cohort,region,body _system,condition,maternal_raceEthnicity,prevalence_per
 2014-2018,Minnesota,Cardiovascular (Heart),Atrioventricular septal defect,All races/ethnicities combined,5.3,176,331901
 2014-2018,Minnesota,Gastrointestinal (Digestive Tract),Biliary atresia,All races/ethnicities combined,0.4,14,331901
 2014-2018,Minnesota,Genitourinary (Genitals and Urinary Tract),Bladder exstrophy,All races/ethnicities combined,0.2,7,331901
-2014-2018,Minnesota,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,1.2,39,331901
-2014-2018,Minnesota,Orofacial (Mouth, Jaw, and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,3,101,331901
-2014-2018,Minnesota,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,5.9,197,331901
-2014-2018,Minnesota,Orofacial (Mouth, Jaw, and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,7,233,331901
+2014-2018,Minnesota,Orofacial (Mouth Jaw and Face),Choanal atresia,All races/ethnicities combined,1.2,39,331901
+2014-2018,Minnesota,Orofacial (Mouth Jaw and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,3,101,331901
+2014-2018,Minnesota,Orofacial (Mouth Jaw and Face),Cleft lip with cleft palate,All races/ethnicities combined,5.9,197,331901
+2014-2018,Minnesota,Orofacial (Mouth Jaw and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,7,233,331901
 2014-2018,Minnesota,Cardiovascular (Heart),Coarctation of aorta,All races/ethnicities combined,5.4,180,331901
 2014-2018,Minnesota,Cardiovascular (Heart),Common truncus,All races/ethnicities combined,0.6,20,331901
 2014-2018,Minnesota,Eye,Congenital cataract,All races/ethnicities combined,3.1,103,331901
@@ -161,10 +161,10 @@ birth_cohort,region,body _system,condition,maternal_raceEthnicity,prevalence_per
 2014-2018,Northeast,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,3.2,5,15715
 2014-2018,Northeast,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,5.1,8,15715
 2014-2018,Northeast,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,3.8,6,15715
-2014-2018,Northeast,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,0.6,1,15715
-2014-2018,Northeast,Orofacial (Mouth, Jaw, and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,2.5,4,15715
-2014-2018,Northeast,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,3.8,6,15715
-2014-2018,Northeast,Orofacial (Mouth, Jaw, and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,8.9,14,15715
+2014-2018,Northeast,Orofacial (Mouth Jaw and Face),Choanal atresia,All races/ethnicities combined,0.6,1,15715
+2014-2018,Northeast,Orofacial (Mouth Jaw and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,2.5,4,15715
+2014-2018,Northeast,Orofacial (Mouth Jaw and Face),Cleft lip with cleft palate,All races/ethnicities combined,3.8,6,15715
+2014-2018,Northeast,Orofacial (Mouth Jaw and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,8.9,14,15715
 2014-2018,Northwest,Cardiovascular (Heart),Coarctation of aorta,All races/ethnicities combined,8.4,7,8344
 2013-2017,Northwest,Cardiovascular (Heart),Atrioventricular septal defect (Endocardial cushion defect),All races/ethnicities combined,4.7,4,8557
 2014-2018,Northwest,Cardiovascular (Heart),Common truncus,All races/ethnicities combined,0,0,8344
@@ -245,10 +245,10 @@ birth_cohort,region,body _system,condition,maternal_raceEthnicity,prevalence_per
 2014-2018,South Central,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,3.7,6,16394
 2014-2018,South Central,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,4.3,7,16394
 2014-2018,South Central,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,1.8,3,16394
-2014-2018,South Central,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,1.2,2,16394
-2014-2018,South Central,Orofacial (Mouth, Jaw, and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,3.7,6,16394
-2014-2018,South Central,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,4.9,8,16394
-2014-2018,South Central,Orofacial (Mouth, Jaw, and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,3.7,6,16394
+2014-2018,South Central,Orofacial (Mouth Jaw and Face),Choanal atresia,All races/ethnicities combined,1.2,2,16394
+2014-2018,South Central,Orofacial (Mouth Jaw and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,3.7,6,16394
+2014-2018,South Central,Orofacial (Mouth Jaw and Face),Cleft lip with cleft palate,All races/ethnicities combined,4.9,8,16394
+2014-2018,South Central,Orofacial (Mouth Jaw and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,3.7,6,16394
 2014-2018,Southeast,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,0.4,1,28328
 2014-2018,Southeast,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,39.2,111,28328
 2014-2018,Southeast,Cardiovascular (Heart),Atrioventricular septal defect,All races/ethnicities combined,5.6,16,28328
@@ -266,7 +266,7 @@ birth_cohort,region,body _system,condition,maternal_raceEthnicity,prevalence_per
 2014-2018,Southeast,Cardiovascular (Heart),Tricuspid valve atresia and stenosis,All races/ethnicities combined,1.1,3,28328
 2014-2018,Southeast,Cardiovascular (Heart),Ventricular septal defect,All races/ethnicities combined,48,136,28328
 2014-2018,Southeast,Central Nervous System (Brain and Spinal Cord),Anencephalus,All races/ethnicities combined,0.4,1,28328
-2013-2017,Minnesota,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,1.1,38,333817
+2013-2017,Minnesota,Orofacial (Mouth Jaw and Face),Choanal atresia,All races/ethnicities combined,1.1,38,333817
 2014-2018,Southeast,Central Nervous System (Brain and Spinal Cord),Encephalocele,All races/ethnicities combined,0.7,2,28328
 2014-2018,Southeast,Central Nervous System (Brain and Spinal Cord),Spina bifida without anencephalus,All races/ethnicities combined,2.1,6,28328
 2014-2018,Southeast,Chromosomal,Trisomy 13,All races/ethnicities combined,0.4,1,28328
@@ -286,10 +286,10 @@ birth_cohort,region,body _system,condition,maternal_raceEthnicity,prevalence_per
 2014-2018,Southeast,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,2.8,8,28328
 2014-2018,Southeast,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,4.6,13,28328
 2014-2018,Southeast,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,0.4,1,28328
-2014-2018,Southeast,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,0.7,2,28328
-2014-2018,Southeast,Orofacial (Mouth, Jaw, and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,2.8,8,28328
-2014-2018,Southeast,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,6.7,19,28328
-2014-2018,Southeast,Orofacial (Mouth, Jaw, and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,7.8,22,28328
+2014-2018,Southeast,Orofacial (Mouth Jaw and Face),Choanal atresia,All races/ethnicities combined,0.7,2,28328
+2014-2018,Southeast,Orofacial (Mouth Jaw and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,2.8,8,28328
+2014-2018,Southeast,Orofacial (Mouth Jaw and Face),Cleft lip with cleft palate,All races/ethnicities combined,6.7,19,28328
+2014-2018,Southeast,Orofacial (Mouth Jaw and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,7.8,22,28328
 2013-2017,Northwest,Eye,Congenital cataract,All races/ethnicities combined,2.3,2,8557
 2014-2018,Southwest,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,2.4,3,12495
 2014-2018,Southwest,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,26.4,33,12495
@@ -298,7 +298,7 @@ birth_cohort,region,body _system,condition,maternal_raceEthnicity,prevalence_per
 2014-2018,Southwest,Cardiovascular (Heart),Common truncus,All races/ethnicities combined,0.8,1,12495
 2014-2018,Southwest,Cardiovascular (Heart),Double outlet right ventricle,All races/ethnicities combined,2.4,3,12495
 2014-2018,Southwest,Cardiovascular (Heart),Ebstein anomaly,All races/ethnicities combined,0.8,1,12495
-2013-2017,Minnesota,Orofacial (Mouth, Jaw, and Face),Cleft lip alone,All races/ethnicities combined,3.4,115,333817
+2013-2017,Minnesota,Orofacial (Mouth Jaw and Face),Cleft lip alone,All races/ethnicities combined,3.4,115,333817
 2014-2018,Southwest,Cardiovascular (Heart),Hypoplastic left heart syndrome,All races/ethnicities combined,2.4,3,12495
 2014-2018,Southwest,Cardiovascular (Heart),Pulmonary valve atresia and stenosis,All races/ethnicities combined,11.2,14,12495
 2014-2018,Southwest,Cardiovascular (Heart),Single ventricle,All races/ethnicities combined,2.4,3,12495
@@ -330,7 +330,7 @@ birth_cohort,region,body _system,condition,maternal_raceEthnicity,prevalence_per
 2013-2017,Central,Cardiovascular (Heart),Atrioventricular septal defect (Endocardial cushion defect),All races/ethnicities combined,5.5,25,45622
 2013-2017,Metro,Cardiovascular (Heart),Atrioventricular septal defect (Endocardial cushion defect),All races/ethnicities combined,5.7,112,197343
 2013-2017,Northeast,Cardiovascular (Heart),Atrioventricular septal defect (Endocardial cushion defect),All races/ethnicities combined,6.3,10,15951
-2013-2017,Minnesota,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,5.8,192,333817
+2013-2017,Minnesota,Orofacial (Mouth Jaw and Face),Cleft lip with cleft palate,All races/ethnicities combined,5.8,192,333817
 2013-2017,South Central,Cardiovascular (Heart),Atrioventricular septal defect (Endocardial cushion defect),All races/ethnicities combined,6.1,10,16280
 2013-2017,Southeast,Cardiovascular (Heart),Atrioventricular septal defect (Endocardial cushion defect),All races/ethnicities combined,6.3,18,28590
 2013-2017,Southwest,Cardiovascular (Heart),Atrioventricular septal defect (Endocardial cushion defect),All races/ethnicities combined,3.2,4,12551
@@ -570,7 +570,7 @@ birth_cohort,region,body _system,condition,maternal_raceEthnicity,prevalence_per
 2013-2017,Central,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,3.7,17,45622
 2013-2017,Metro,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,2.6,52,197343
 2013-2017,Northeast,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,5,8,15951
-2014-2018,Southwest,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,0.8,1,12495
+2014-2018,Southwest,Orofacial (Mouth Jaw and Face),Choanal atresia,All races/ethnicities combined,0.8,1,12495
 2013-2017,South Central,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,1.8,3,16280
 2013-2017,Southeast,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,2.8,8,28590
 2013-2017,Southwest,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,3.2,4,12551
@@ -599,38 +599,38 @@ birth_cohort,region,body _system,condition,maternal_raceEthnicity,prevalence_per
 2013-2017,Southeast,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,0.3,1,28590
 2013-2017,Southwest,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,0,0,12551
 2013-2017,West Central,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,0,0,8923
-2013-2017,Central,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,0.9,4,45622
-2013-2017,Metro,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,1.3,26,197343
-2013-2017,Northeast,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,0.6,1,15951
-2014-2018,Southwest,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,6.4,8,12495
-2013-2017,South Central,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,0.6,1,16280
-2013-2017,Southeast,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,0.7,2,28590
-2013-2017,Southwest,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,0,0,12551
-2013-2017,West Central,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,0,0,8923
-2013-2017,Central,Orofacial (Mouth, Jaw, and Face),Cleft lip alone,All races/ethnicities combined,4.6,21,45622
-2013-2017,Metro,Orofacial (Mouth, Jaw, and Face),Cleft lip alone,All races/ethnicities combined,3.1,61,197343
-2013-2017,Northeast,Orofacial (Mouth, Jaw, and Face),Cleft lip alone,All races/ethnicities combined,3.8,6,15951
+2013-2017,Central,Orofacial (Mouth Jaw and Face),Choanal atresia,All races/ethnicities combined,0.9,4,45622
+2013-2017,Metro,Orofacial (Mouth Jaw and Face),Choanal atresia,All races/ethnicities combined,1.3,26,197343
+2013-2017,Northeast,Orofacial (Mouth Jaw and Face),Choanal atresia,All races/ethnicities combined,0.6,1,15951
+2014-2018,Southwest,Orofacial (Mouth Jaw and Face),Cleft lip with cleft palate,All races/ethnicities combined,6.4,8,12495
+2013-2017,South Central,Orofacial (Mouth Jaw and Face),Choanal atresia,All races/ethnicities combined,0.6,1,16280
+2013-2017,Southeast,Orofacial (Mouth Jaw and Face),Choanal atresia,All races/ethnicities combined,0.7,2,28590
+2013-2017,Southwest,Orofacial (Mouth Jaw and Face),Choanal atresia,All races/ethnicities combined,0,0,12551
+2013-2017,West Central,Orofacial (Mouth Jaw and Face),Choanal atresia,All races/ethnicities combined,0,0,8923
+2013-2017,Central,Orofacial (Mouth Jaw and Face),Cleft lip alone,All races/ethnicities combined,4.6,21,45622
+2013-2017,Metro,Orofacial (Mouth Jaw and Face),Cleft lip alone,All races/ethnicities combined,3.1,61,197343
+2013-2017,Northeast,Orofacial (Mouth Jaw and Face),Cleft lip alone,All races/ethnicities combined,3.8,6,15951
 2014-2018,Northwest,Genitourinary (Genitals and Urinary Tract),Renal agenesis/hypoplasia,All races/ethnicities combined,7.2,6,8344
-2013-2017,South Central,Orofacial (Mouth, Jaw, and Face),Cleft lip alone,All races/ethnicities combined,4.3,7,16280
-2013-2017,Southeast,Orofacial (Mouth, Jaw, and Face),Cleft lip alone,All races/ethnicities combined,3.8,11,28590
-2013-2017,Southwest,Orofacial (Mouth, Jaw, and Face),Cleft lip alone,All races/ethnicities combined,4,5,12551
-2013-2017,West Central,Orofacial (Mouth, Jaw, and Face),Cleft lip alone,All races/ethnicities combined,1.1,1,8923
-2013-2017,Central,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,5.5,25,45622
-2013-2017,Metro,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,6,119,197343
-2013-2017,Northeast,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,5,8,15951
+2013-2017,South Central,Orofacial (Mouth Jaw and Face),Cleft lip alone,All races/ethnicities combined,4.3,7,16280
+2013-2017,Southeast,Orofacial (Mouth Jaw and Face),Cleft lip alone,All races/ethnicities combined,3.8,11,28590
+2013-2017,Southwest,Orofacial (Mouth Jaw and Face),Cleft lip alone,All races/ethnicities combined,4,5,12551
+2013-2017,West Central,Orofacial (Mouth Jaw and Face),Cleft lip alone,All races/ethnicities combined,1.1,1,8923
+2013-2017,Central,Orofacial (Mouth Jaw and Face),Cleft lip with cleft palate,All races/ethnicities combined,5.5,25,45622
+2013-2017,Metro,Orofacial (Mouth Jaw and Face),Cleft lip with cleft palate,All races/ethnicities combined,6,119,197343
+2013-2017,Northeast,Orofacial (Mouth Jaw and Face),Cleft lip with cleft palate,All races/ethnicities combined,5,8,15951
 2013-2017,Minnesota,Central Nervous System (Brain and Spinal Cord),Encephalocele,All races/ethnicities combined,0.7,24,333817
-2013-2017,South Central,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,4.3,7,16280
-2013-2017,Southeast,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,5.2,15,28590
-2013-2017,Southwest,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,6.4,8,12551
-2013-2017,West Central,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,4.5,4,8923
-2013-2017,Central,Orofacial (Mouth, Jaw, and Face),Cleft palate alone,All races/ethnicities combined,7.2,33,45622
-2013-2017,Metro,Orofacial (Mouth, Jaw, and Face),Cleft palate alone,All races/ethnicities combined,6.9,137,197343
-2013-2017,Northeast,Orofacial (Mouth, Jaw, and Face),Cleft palate alone,All races/ethnicities combined,8.8,14,15951
-2014-2018,Southwest,Orofacial (Mouth, Jaw, and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,3.2,4,12495
-2013-2017,South Central,Orofacial (Mouth, Jaw, and Face),Cleft palate alone,All races/ethnicities combined,3.1,5,16280
-2013-2017,Southeast,Orofacial (Mouth, Jaw, and Face),Cleft palate alone,All races/ethnicities combined,5.9,17,28590
-2013-2017,Southwest,Orofacial (Mouth, Jaw, and Face),Cleft palate alone,All races/ethnicities combined,3.2,4,12551
-2013-2017,West Central,Orofacial (Mouth, Jaw, and Face),Cleft palate alone,All races/ethnicities combined,6.7,6,8923
+2013-2017,South Central,Orofacial (Mouth Jaw and Face),Cleft lip with cleft palate,All races/ethnicities combined,4.3,7,16280
+2013-2017,Southeast,Orofacial (Mouth Jaw and Face),Cleft lip with cleft palate,All races/ethnicities combined,5.2,15,28590
+2013-2017,Southwest,Orofacial (Mouth Jaw and Face),Cleft lip with cleft palate,All races/ethnicities combined,6.4,8,12551
+2013-2017,West Central,Orofacial (Mouth Jaw and Face),Cleft lip with cleft palate,All races/ethnicities combined,4.5,4,8923
+2013-2017,Central,Orofacial (Mouth Jaw and Face),Cleft palate alone,All races/ethnicities combined,7.2,33,45622
+2013-2017,Metro,Orofacial (Mouth Jaw and Face),Cleft palate alone,All races/ethnicities combined,6.9,137,197343
+2013-2017,Northeast,Orofacial (Mouth Jaw and Face),Cleft palate alone,All races/ethnicities combined,8.8,14,15951
+2014-2018,Southwest,Orofacial (Mouth Jaw and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,3.2,4,12495
+2013-2017,South Central,Orofacial (Mouth Jaw and Face),Cleft palate alone,All races/ethnicities combined,3.1,5,16280
+2013-2017,Southeast,Orofacial (Mouth Jaw and Face),Cleft palate alone,All races/ethnicities combined,5.9,17,28590
+2013-2017,Southwest,Orofacial (Mouth Jaw and Face),Cleft palate alone,All races/ethnicities combined,3.2,4,12551
+2013-2017,West Central,Orofacial (Mouth Jaw and Face),Cleft palate alone,All races/ethnicities combined,6.7,6,8923
 2014-2018,West Central,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,2.2,2,8898
 2013-2017,Northwest,Genitourinary (Genitals and Urinary Tract),Bladder exstrophy,All races/ethnicities combined,0,0,8557
 2013-2017,Minnesota,Gastrointestinal (Digestive Tract),Espophageal atresia/tracheoesophageal fistula,All races/ethnicities combined,2.7,91,333817
@@ -678,35 +678,35 @@ birth_cohort,region,body _system,condition,maternal_raceEthnicity,prevalence_per
 2013-2017,Minnesota,Central Nervous System (Brain and Spinal Cord),Spina bifida without anencephalus,All races/ethnicities combined,2.8,95,333817
 2014-2018,West Central,Ear,Anotia/microtia,All races/ethnicities combined,4.5,4,8898
 2014-2018,West Central,Eye,Anophthalmia/microphthalmia,All races/ethnicities combined,0,0,8898
-2014-2018,Northwest,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,4.8,4,8344
+2014-2018,Northwest,Orofacial (Mouth Jaw and Face),Choanal atresia,All races/ethnicities combined,4.8,4,8344
 2013-2017,Minnesota,Cardiovascular (Heart),Tetralogy of Fallot,All races/ethnicities combined,4,133,333817
 2014-2018,West Central,Eye,Congenital cataract,All races/ethnicities combined,3.4,3,8898
 2014-2018,West Central,Gastrointestinal (Digestive Tract),Biliary atresia,All races/ethnicities combined,1.1,1,8898
-2014-2018,Northwest,Orofacial (Mouth, Jaw, and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,3.6,3,8344
+2014-2018,Northwest,Orofacial (Mouth Jaw and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,3.6,3,8344
 2013-2017,Minnesota,Cardiovascular (Heart),Total anomalous pulmonary venous connection,All races/ethnicities combined,1.6,52,333817
 2014-2018,West Central,Gastrointestinal (Digestive Tract),Espophageal atresia/tracheoesophageal fistula,All races/ethnicities combined,1.1,1,8898
 2014-2018,West Central,Gastrointestinal (Digestive Tract),Rectal and large intestinal atresia/stenosis,All races/ethnicities combined,9,8,8898
 2014-2018,West Central,Genitourinary (Genitals and Urinary Tract),Bladder exstrophy,All races/ethnicities combined,0,0,8898
 2014-2018,West Central,Genitourinary (Genitals and Urinary Tract),Congenital posterior urethral valves,All races/ethnicities combined,0,0,4578
-2014-2018,Northwest,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,3.6,3,8344
+2014-2018,Northwest,Orofacial (Mouth Jaw and Face),Cleft lip with cleft palate,All races/ethnicities combined,3.6,3,8344
 2013-2017,Minnesota,Cardiovascular (Heart),Transposition of the great arteries (TGA),All races/ethnicities combined,2.8,94,333817
-2014-2018,Northwest,Orofacial (Mouth, Jaw, and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,7.2,6,8344
+2014-2018,Northwest,Orofacial (Mouth Jaw and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,7.2,6,8344
 2013-2017,Minnesota,Cardiovascular (Heart),Tricuspid valve atresia,All races/ethnicities combined,0.6,19,333817
 2014-2018,West Central,Genitourinary (Genitals and Urinary Tract),Hypospadias,All races/ethnicities combined,54.6,25,4578
 2014-2018,West Central,Genitourinary (Genitals and Urinary Tract),Renal agenesis/hypoplasia,All races/ethnicities combined,6.7,6,8898
-2013-2017,Northwest,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,4.7,4,8557
+2013-2017,Northwest,Orofacial (Mouth Jaw and Face),Choanal atresia,All races/ethnicities combined,4.7,4,8557
 2013-2017,Minnesota,Chromosomal,Trisomy 13,All races/ethnicities combined,1,32,333817
 2014-2018,West Central,Musculoskeletal (Muscles and Bones),Diaphragmatic hernia,All races/ethnicities combined,4.5,4,8898
 2014-2018,West Central,Musculoskeletal (Muscles and Bones),Gastroschisis,All races/ethnicities combined,2.2,2,8898
-2013-2017,Northwest,Orofacial (Mouth, Jaw, and Face),Cleft lip alone,All races/ethnicities combined,3.5,3,8557
+2013-2017,Northwest,Orofacial (Mouth Jaw and Face),Cleft lip alone,All races/ethnicities combined,3.5,3,8557
 2013-2017,Minnesota,Chromosomal,Trisomy 18,All races/ethnicities combined,1.7,58,333817
 2014-2018,West Central,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,2.2,2,8898
 2014-2018,West Central,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,1.1,1,8898
-2013-2017,Northwest,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,7,6,8557
+2013-2017,Northwest,Orofacial (Mouth Jaw and Face),Cleft lip with cleft palate,All races/ethnicities combined,7,6,8557
 2013-2017,Minnesota,Chromosomal,Trisomy 21 (Down syndrome),All races/ethnicities combined,15.6,521,333817
-2014-2018,West Central,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,0,0,8898
-2014-2018,West Central,Orofacial (Mouth, Jaw, and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,1.1,1,8898
-2013-2017,Northwest,Orofacial (Mouth, Jaw, and Face),Cleft palate alone,All races/ethnicities combined,7,6,8557
+2014-2018,West Central,Orofacial (Mouth Jaw and Face),Choanal atresia,All races/ethnicities combined,0,0,8898
+2014-2018,West Central,Orofacial (Mouth Jaw and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,1.1,1,8898
+2013-2017,Northwest,Orofacial (Mouth Jaw and Face),Cleft palate alone,All races/ethnicities combined,7,6,8557
 2013-2017,Minnesota,Cardiovascular (Heart),Ventricular septal defect,All races/ethnicities combined,64,2135,333817
 2014-2018,West Central,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,5.6,5,8898
 2014-2018,West Central,Orofacial (Mouth, Jaw, and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,6.7,6,8898
