@@ -37,10 +37,10 @@ birth_cohort,region,body _system,condition,maternal_raceEthnicity,prevalence_per
 2013-2017,Northwest,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,50.3,43,8557
 2014-2018,Central,Musculoskeletal (Muscles and Bones),Limb deficiencies (reduction defects),All races/ethnicities combined,3.7,17,45567
 2014-2018,Central,Musculoskeletal (Muscles and Bones),Omphalocele,All races/ethnicities combined,1.3,6,45567
-2014-2018,Central,Orofacial (Mouth, Jaw, and Face),Choanal atresia,All races/ethnicities combined,1.1,5,45567
-2014-2018,Central,Orofacial (Mouth, Jaw, and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,3.7,17,45567
-2014-2018,Central,Orofacial (Mouth, Jaw, and Face),Cleft lip with cleft palate,All races/ethnicities combined,6.1,28,45567
-2014-2018,Central,Orofacial (Mouth, Jaw, and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,7.5,34,45567
+2014-2018,Central,Orofacial (Mouth Jaw and Face),Choanal atresia,All races/ethnicities combined,1.1,5,45567
+2014-2018,Central,Orofacial (Mouth Jaw and Face),Cleft lip only (without cleft palate),All races/ethnicities combined,3.7,17,45567
+2014-2018,Central,Orofacial (Mouth Jaw and Face),Cleft lip with cleft palate,All races/ethnicities combined,6.1,28,45567
+2014-2018,Central,Orofacial (Mouth Jaw and Face),Cleft palate only (without cleft lip),All races/ethnicities combined,7.5,34,45567
 2014-2018,Metro,Cardiovascular (Heart),Aortic valve stenosis,All races/ethnicities combined,2.2,43,196126
 2013-2017,Minnesota,Eye,Anophthalmia/microphthalmia,All races/ethnicities combined,1.6,52,333817
 2014-2018,Metro,Cardiovascular (Heart),Atrial septal defect,All races/ethnicities combined,19.7,386,196126
