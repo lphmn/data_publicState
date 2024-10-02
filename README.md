@@ -9,6 +9,10 @@ This repository contains various public datasets related to Minnesota's public h
 
 ## Datasets
 
+**MN_CHT**
+   - Description: This dataset includes information from the County Health Tables (CHT) in Minnesota.
+   - Source: [https://www.health.state.mn.us/data/mchs/genstats/countytables/index.html#:~:text=The%20county%20health%20tables%20are%20a%20compilation%20of%20public%20health]
+
 **MN_DEED**
    - Description: This dataset contains data from the Minnesota Department of Employment and Economic Development (DEED).
    - Source: 
