@@ -1,4 +1,4 @@
-CHT stands for County Health Table
+CHT stands for County Health Table  
 The Minnesota Department of Health is the primary data steward for the County Health PDF Tables. For more information about the tables please visit [County Health Tables](https://www.health.state.mn.us/data/mchs/genstats/countytables/index.html#:~:text=The%20county%20health%20tables%20are%20a%20compilation%20of%20public%20health)
 
 The reason for moving the data to this GitHub repository is the data cannot be easily pulled into a shinyLive R application (an application ran without a server).  
