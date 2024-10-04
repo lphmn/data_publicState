@@ -1,5 +1,6 @@
 PHDAP stands for Public Health Data Access Portal.  
-The Minnesota Department of Health is the primary data steward for the Minnsota Public Health Data Access Portal. For more information about the portal please visit https://data.web.health.state.mn.us/web/mndata/home. 
+The Minnesota Department of Health is the primary data steward for the Minnsota Public Health Data Access Portal.  
+For more information about the portal please visit https://data.web.health.state.mn.us/web/mndata/home. 
 
 The reason for moving the data to this GitHub repository is the data cannot be easily pulled into a shinyLive R application (an application ran without a server).  
 
