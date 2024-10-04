@@ -14,5 +14,5 @@ Notes:
     * I didn't update all the data in this repository since most of the errors were minor in my opinion, such as a difference of just one count for numbers greater than 20."
     * I firmly believe in 'trust but verify.' If you find data in this repository that doesn't match the PDF table, please contact MDH for the most up-to-date information.
   * Some attrbiute descriptions include
-    * 2020 percent_birthOnMedicaid at the time the data was published was unavailable due to resource shortages resulting from COVID-19
-    * 2017 and 2018 for the state of MN had some PNC (Prenatal Care) attributes that were not calculated correctly (MDH has stated this on their website)   
+    * The 2020 percent_birthOnMedicaid data was unavailable at the time of publication due to resource shortages caused by COVID-19.
+    * For 2017 and 2018, some Prenatal Care (PNC) attributes for the state of MN (total) were incorrectly calculated, as noted by MDH on their website. 
