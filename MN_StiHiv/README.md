@@ -1,4 +1,4 @@
-As of 10/04/2024, this data set is being revieved by MDH data stewards to store the data as a CSV. 
+As of 10/04/2024, this data set is being revieved by MDH data stewards to make sure it is okay with their policy to store this data as a CSV. 
 
 # Chlamydia and Gonorrhea data can be found [here](https://www.health.state.mn.us/diseases/stds/stats/index.html)
 
