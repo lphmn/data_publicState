@@ -8,11 +8,11 @@ The strength for saving the data in a friendly format does have a limitation. As
 **My wishlist is that MN data stewards begin storing their publicly available data in a friendlier manner.**
 
 Notes:  
-  * The reason only the counties and the state of MN have the location fips codes is for my process, I plan to recreate the rates in more of a dyncamic process.
-    * However, by having the rates stored, I can check my work to prevent the spread of misinformation.
-  * Some data won't exactly match what the PDF tables have. I worked with the great staff at MDH and they shared some updated data with me.
-    * I did not update all the data in this repository because most of errors I found to be minor (difference of 1 count for counts greater than 20 plus).
-    * However, I am a firm believer you should trust but always verify so if there is data in this repository that does not match the PDF table, please reach out to MDH for the most up to date data.
-  * Some fields that seem to be incorrect in the PDF tables include
+  * The reason for using only the counties and the state of Minnesota FIPS codes in my process is to recreate the rates in a more dynamic and adaptable manner.
+    * However, by having the rates stored in this repository, I can check my work to reduce the spread of misinformation.
+  * Some data won't precisely match the PDF tables. The fantastic team at MDH provided me with updated data.
+    * I didn't update all the data in this repository since most of the errors were minor in my opinion, such as a difference of just one count for numbers greater than 20."
+    * I firmly believe in 'trust but verify.' If you find data in this repository that doesn't match the PDF table, please contact MDH for the most up-to-date information.
+  * Some fields that appear to be incorrect in the County Health PDF Tables include
     * 2020 percent_birthOnMedicaid
     * 2017 and 2018 PNC attributes for the state of MN (MDH is working on a communication for this)   
