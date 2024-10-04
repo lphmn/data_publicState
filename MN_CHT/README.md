@@ -8,7 +8,7 @@ The strength for saving the data in a friendly format does have a limitation. As
 **My wishlist is that MN data stewards begin storing their publicly available data in a friendlier manner.**
 
 Notes:  
-  * The reason for using only the counties and the state of Minnesota FIPS codes in my process is to recreate the rates in a more dynamic and adaptable manner.
+  * The reason for having only location fips codes for counties and the state of Minnesota is the process that I am going to try to create is to calculate the rates in a more dynamic and adaptable manner.
     * However, by having the rates stored in this repository, I can check my work to reduce the spread of misinformation.
   * Some data won't precisely match the PDF tables. The fantastic team at MDH provided me with updated data.
     * I didn't update all the data in this repository since most of the errors were minor in my opinion, such as a difference of just one count for numbers greater than 20."
