@@ -15,7 +15,11 @@ This repository contains various public datasets related to Minnesota's public h
 
 **MN_DEED**
    - Description: This dataset contains data from the Minnesota Department of Employment and Economic Development (DEED).
-   - Source: 
+   - Source:
+   - 
+**MN_foodShelt**
+   - Description: To access this dataset, please submit a data request to Hunger Solutions.
+   - Source: [MN Food Shelf Data](https://www.hungersolutions.org/)
 
 **MN_PHDAP**
    - Description: This dataset includes information from the Public Health Data Access Portal (PHDAP) in Minnesota.
