@@ -97,6 +97,14 @@ Partially vaccinated indicates that a child has received one or more doses but h
 For more information about how these measures were calculated, go to About the school immunizations data: https://data.web.health.state.mn.us/school_immunization_metadata
 To protect privacy, percentages based on a small population of less than 5 children are suppressed, and indicated by an asterisk * in the query.
 
+## Oral Health Dental Services Recipients
+Source: Minnesota Department of Human Services. Minnesota Health Care Programs Dental Services Recipients by County of Residence and Age.
+A dental service is any diagnostic; preventive; or treatment service provided by or under the supervision of a dentist.  The data represents dental service use among all Minnesota Health Care Program (i.e.: Medical Assistance or MinnesotaCare) recipients ages up to 100 years during the calendar year (January 1 through December 31) as determined by dental claims submitted by a licensed DHS provider.  Data in years 2012 through 2013 represent paid dental claims only; while calendar years 2014 and beyond represent paid; unpaid; or denied dental claims.
+**Indicates data suppression due to small numbers (5 or less).
+See https://data.web.health.state.mn.us/web/mndata/dental-utilization-metadata for more information.
+![image](https://github.com/user-attachments/assets/543c15f9-4b4e-4053-ac26-b96841a0c9b0)
+
+
 
 
 
