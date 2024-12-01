@@ -102,7 +102,6 @@ Source: Minnesota Department of Human Services. Minnesota Health Care Programs D
 A dental service is any diagnostic; preventive; or treatment service provided by or under the supervision of a dentist.  The data represents dental service use among all Minnesota Health Care Program (i.e.: Medical Assistance or MinnesotaCare) recipients ages up to 100 years during the calendar year (January 1 through December 31) as determined by dental claims submitted by a licensed DHS provider.  Data in years 2012 through 2013 represent paid dental claims only; while calendar years 2014 and beyond represent paid; unpaid; or denied dental claims.
 **Indicates data suppression due to small numbers (5 or less).
 See https://data.web.health.state.mn.us/web/mndata/dental-utilization-metadata for more information.
-![image](https://github.com/user-attachments/assets/543c15f9-4b4e-4053-ac26-b96841a0c9b0)
 
 
 
